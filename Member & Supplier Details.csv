@@ -1,0 +1,1549 @@
+BUSINESS_KEY,BUSINESS_NAME,BUSINESS_TYPE,POSTCODE_AREA,SECTOR_1,SECTOR_2,SIC_CODES,TRADE_COUNTER,WEB_PRESENCE
+-99,Unknown,Member,,,Unknown,"",,
+-99,Unknown,Supplier,,Unknown,,"",,
+004ff0f18d83b777f3040d21c8f3cdc0,DHL Parcel UK Ltd,Supplier,SL,Business Services,,53201|53202,False,True
+0153f511a2a66c54a3b6ac48730a392b,JAS Forwarding UK Ltd,Supplier,TW,,,"",False,False
+0221066a29a378aa687b5203403a1a60,"SOUTHERN POWER TOOLS & ABRAS LTD.,",Member,PO,,,"",,
+02528fbd043cfde0cd8da5d28da540d2,Optimaxx Products Ltd,Supplier,CO,Fasteners,,46730,False,True
+035c2e8703b1a394fbd43cf0b359d416,Ionbond Ltd,Supplier,DH,Maintenance,,25610,False,True
+03930eca12f79feef307057ff70a0693,HARROGATE WORKWEAR,Member,HG,,,"",,
+03d63a121b65977740cad298becc983a,"MUSGRAVE & CO (TOOLS) LTD.,",Member,LN,,,"",,
+0441b8429965270046f183b8daf522c9,Ability Supplies UK Ltd,Member,SR,,,"",False,False
+0498f1a271990fe88b97916738d4fafa,EW EQUIPMENT ENGINEERS SUPPLIES,Member,SK,,,"",,
+04aa929ce1c53883e63fa72be98c734b,TURNSTYLE HOLDINGS LTD,Supplier,EX,,,"",,
+05e42a7d79c406fd74d2dc1ea1e5d679,A E Southgate Ltd,Supplier,B,Maintenance,,46900,False,True
+081e7fe7565f2b0e7303587a8752c054,Duotool Direct Ltd,Member,AB,,,"",False,False
+08bb470446cb748ee09063d7f1adc70a,Customs Clearance Ltd,Supplier,TW,Business Services,,"",False,False
+0925a77378ffe14a2701cf670024657d,Action Can Ltd,Supplier,WA,Lubrication,,"",False,True
+092a6bde4c29e49d29f1577191fcc88a,Mac Industrial Supplies,Member,UB,,,"",,
+0972f16dc960532b12b837cd2ec17a23,WEICON GmbH & Co KG,Supplier,"",Adhesives & Sealants,,"",False,True
+09bff507bc08bfee8d480bf6c1323195,Seddon Plant & Engineers Ltd Birmingham,Member,B,,Construction Supplies,"",True,True
+09bff507bc08bfee8d480bf6c1323195,Seddon Plant & Engineers Ltd Bolton,Member,BL,"Construction, Aggregates and Mining",Construction Supplies,46690,True,True
+09bff507bc08bfee8d480bf6c1323195,Seddon Plant & Engineers Ltd Airdrie,Member,ML,,Construction Supplies,"",True,True
+09bff507bc08bfee8d480bf6c1323195,Seddon Plant & Engineers Ltd Nottingham,Member,NG,,Construction Supplies,"",True,False
+09bff507bc08bfee8d480bf6c1323195,Seddon Plant & Engineers Ltd Stoke-On-Trent,Member,ST,,Construction Supplies,"",True,True
+09bff507bc08bfee8d480bf6c1323195,Seddon Plant & Engineers Ltd Normanton,Member,WF,,Construction Supplies,"",True,True
+0a23bbdb3ca6b6eee812ddeb47699096,Syr Ltd,Supplier,DY,Janitorial,,"",False,False
+0ae472dd06fd92585117373bc9c4bad5,UK BEARINGS LTD,Member,DY,,,"",,
+0b78768e7eb9b838e52dac1e5a211b11,EM Industrial Products Ltd,Member,TF,,,"",False,False
+0b932199de6362f08310564b39a48a10,Stockexe Ltd t/a Stock Exe Building Supplies,Member,EX,Builders Merchant,,"",False,False
+0c598f40afd2ed5e093e8fb6afa0fd95,Sioen UK Ltd,Supplier,BB,PPE,,"",False,True
+0ce21bd598daf9317b5d8bbe669ad5df,Scots Bearings Ltd Aberdeen,Member,AB,Industrial Distribution,"Maintenance, Repair and Overhaul",96090,True,True
+0ce21bd598daf9317b5d8bbe669ad5df,Scots Bearings Ltd Harlow,Member,CM,Industrial Distribution,,"",False,True
+0ce21bd598daf9317b5d8bbe669ad5df,Scots Bearings Ltd Dundee,Member,DD,,"Maintenance, Repair and Overhaul","",True,True
+0ce21bd598daf9317b5d8bbe669ad5df,Scots Bearings Ltd Glasgow,Member,G,,"Maintenance, Repair and Overhaul","",True,True
+0ce21bd598daf9317b5d8bbe669ad5df,Scots Bearings Ltd Inverness,Member,IV,,"Maintenance, Repair and Overhaul","",True,True
+0ce21bd598daf9317b5d8bbe669ad5df,Scots Bearings Ltd Ayrshire,Member,KA,,Engineering,"",True,True
+0d0c3b242d5a892d230d58556000c079,ASSIST,Supplier,,,,"",False,False
+0d5b864ad8047024d2f8e56d2fc8f69c,UNIVERSAL TOOL HIRE & SUPPLIES,Member,BA,,,"",,
+0d6983ce89cce016c8ed6e51216a5450,Bostik Ltd,Supplier,ST,Adhesives & Sealants,,20520,False,True
+0d83fff7c5d0cb31181bb89b933ed788,Tiger Building Products Ltd,Supplier,EH,,,"",False,True
+0d94a182f1810b6cee9c99e2cc63dfa5,Record Power Ltd,Supplier,S,Power Tools,,28490|46620,False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group (Aberdeen),Member,AB,,,"",False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group Bristol,Member,BS,,,"",False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group (Belfast),Member,BT,PPE Specialist,PPE Specialist,70229|62012|58290,False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group (Dublin) Santry,Member,D,,PPE Specialist,"",False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group (Liverpool),Member,L,,,"",False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group (Leicester),Member,LE,,,"",False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group (Port Glasgow),Member,PA,,,"",False,True
+0da2eb122ab939a200abf01e9b203194,JBS GROUP (SHEFFIELD)  ASP,Member,S,,,"",False,True
+0da2eb122ab939a200abf01e9b203194,JBS Group (Cork),Member,T,,PPE Specialist,"",False,True
+0e3daf609f4e820c92f98f70bac4ec35,DJM Tools & Ind Supplies,Member,CV,Industrial Distribution,Construction Supplies,25730,True,True
+0f312392ac248d23d50f57a3eabff11f,Heller Tools GmbH,Supplier,"",Carbide Cutting Tools,,28490,False,True
+0fe729f4e6783af65a85ac4328f5955e,Kayfast Limited,Member,WF,Fixings & Fasteners Specialist,Construction Supplies,47910,True,True
+102943da5fe785f35c51e5deec30c09a,RSS Commercial,Member,MK,Wholesaler,,"",False,True
+10340a6bcfbefed1a2f720d025be3ebd,R&R Tools & Fixings Ltd,Member,GL,,,"",False,False
+12250c9a319567aca77d9874449b6f37,Dakin-Flathers Ltd,Supplier,WF,"Saws, Circ, Band, Hole",,25730,False,True
+12e2140c9506729663b211d56e63f331,E Mcintyre & Sons,Member,BT,Traders Generalist,Power Tools Specialist,47190|46620,True,True
+12e2140c9506729663b211d56e63f331,E McIntyre & Sons Ltd t/a Jefferson,Supplier,BT,Hand Tools,Power Tools Specialist,47190|46620,False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -Hatfield,Supplier,AL,Hand Tools,,"",False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -Northern Ltd,Supplier,BD,Hand Tools,,"",False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -Dartford,Supplier,DA,Hand Tools,,46900,False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -South West,Supplier,EX,Hand Tools,,"",False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -Newcastle,Supplier,NE,Hand Tools,,"",False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -East Anglia,Supplier,NR,Hand Tools,,46900,False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -Southampton,Supplier,SO,Hand Tools,,"",False,True
+13ea367eb112c73f3e046c341abf4cea,Curtis Holt Ltd -North West,Supplier,WA,Hand Tools,,"",False,True
+15863d707a2f21b1593ae9c1fcdea897,Euro Packaging UK Ltd,Supplier,B,Maintenance,,"",False,True
+159998e65d5c3e7782d4ce1ea8be993a,WSM FASTENERS,Member,BS,,,"",,
+16445b935d6b70896aeb131709043dea,Anglia Bearing Company Ltd,Member,PE,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46900,True,True
+16e05ce608ed19a4b5e36d3e4ebe2976,Vargus Tooling Ltd,Supplier,TF,,,"",False,True
+1764fa8724f8ae29d364c1788787b332,Emerson Electric UK Ltd ta Ridge Tool UK,Supplier,W,Hand Tools,,"",False,True
+176a9d42bc3f2065f215d6844db396be,Johnstone Safety International LLP,Supplier,OX,PPE,,"",False,False
+17a127798c8dcbcee9c0ef389bb6decf,Universal Air Tool Company Ltd,Supplier,NN,Hand Tools,,46900,False,True
+1816849ae0192ab952549755ffce8e80,Frank Blakeley & Son Ltd,Member,OL,Wholesaler,Construction Supplies,46620,True,True
+1816849ae0192ab952549755ffce8e80,Frank Blakeley & Son Ltd Preston,Member,PR,,Construction Supplies,"",True,True
+182203a0ca91c2178e186a3d3c2b9460,Unior International Ltd,Supplier,NG,Hand Tools,,"",False,True
+18717cc345c4500b23607a65f2d35bc9,"DALZIEL LTD.,   T/A MK INGREDIENTS",Member,EX,,,"",,
+1892e77639127e95e48d437e35d3873e,"RYONA ENGINEERING SUPPLIES LTD.,",Member,CV,,,"",,
+1ae9dca7931f2c62ad1fedf5cda8b54e,Lambe Group Ltd,Supplier,B,Lubrication,,"",False,True
+1b18bbe88f19ef96639fe7f769818f0a,TrAchem Ltd,Member,DN,,,"",,
+1ba9442e90d183f0a24b96c1868237cf,Multiquip Supplies Ltd,Member,SN,Traders Generalist,Engineering,47990,True,False
+1bc8ee3a32d5081e7165b28c49a001b8,"WARD SHOES LTD,",Member,S,,,"",,
+1cfff912d36478295fbbc458e80f0dba,DGS Grinding Wheels&Machines Ltd P,Supplier,PO,Abrasives,,"",False,True
+1cfff912d36478295fbbc458e80f0dba,DGS Grinding Wheels&Machines Ltd W,Supplier,WV,Abrasives,,46900|16290,False,True
+1d3a256ee5abaec36f6407e96ab02fbf,Disposables UK Group,Supplier,,Janitorial,,"",False,False
+1dea579c3b35d8caf09f0e7244980b02,Maypole Ltd,Supplier,B,Maintenance,,"",False,True
+1f7103153e001cc16a7cb89c77e6b1ac,TOWN AND COUNTY ENG. SERVICES LTD,Member,PE,,,"",,
+2097dac83687547325da50c8381727f2,OPTIMAS OE SOLUTIONS LTD,Member,GL,,,46900,,
+209e6ae3a70b5c677f78031a976285d6,FBB Plus Ltd,Member,BA,,,"",,
+20d8ed82f0de56e8906563f7e1e21949,Electro Wind Ltd,Supplier,,Business Services,,26110,False,False
+210dc772b2e16f58009f9493aca9e077,Tower Tools & Equipment Ltd,Member,KA,,,"",False,False
+218864845e7c4dd4636e125c935a00cb,Miter Industrial Supplies Ltd,Member,NP,PPE Specialist,PPE Specialist,46900,True,True
+227a0e7ef774ed9021047f53af638d49,UTS,Member,EX,Industrial Distribution,Engineering Supplies - Cutting Tools,"",False,False
+22a5d2363dfc81ac165e2eba7029ff83,NBT Integrated Services Ltd,Member,NE,Industrial Distribution,"Maintenance, Repair and Overhaul",46900,True,True
+22f6190d84e3fbc83e3cc0a1aa233ab3,BRM ENGINEERING SUPPLIES LTD,Member,FY,,,"",,
+241d42a25ba27cd68140a2633c254bfb,"OPTOMAC LTD., T/A KLENKO",Member,M,,,"",,
+2450f74ecb1b205fc12a58b6f0a9c290,Finnie & Co  60,Supplier,,Hand Tools,,"",False,False
+2450f74ecb1b205fc12a58b6f0a9c290,Finnie & Co,Supplier,G,Hand Tools,,46900,False,True
+246d80272562030ee7b7d3192d06d4ec,Alan Dick Communications Ltd (Coulsdon),Member,CR,Traders Generalist,,"",False,True
+246d80272562030ee7b7d3192d06d4ec,Alan Dick Communications Ltd,Member,DN,Traders Generalist,"Maintenance, Repair and Overhaul",61900,True,True
+246d80272562030ee7b7d3192d06d4ec,Alan Dick Communications Ltd (Wolverton),Member,MK,Traders Generalist,,"",False,True
+24d374ce4c1b85cedb011b754a46cc5e,Tooling & Grinding Specialists Ltd,Member,NN,,,"",,
+25531a34ddeb774d5d965ae25ff6c59d,Holemaker Technology Ltd,Supplier,,Carbide Cutting Tools,,25730,False,False
+25a73ffa3e0fd122d3327e0fe4aca233,Routeco Ltd,Supplier,MK,Business Services,,"",False,False
+25b90ada59f4800792c78cbab13f77b4,Direct Wholesale Europe Ltd,Member,WS,,,"",False,False
+25ee9d885ebd827e61406128a4c50314,Mobiletron UK Ltd t/a Durofix,Supplier,PR,Power Tools,,"",False,True
+264dc9ed39d2c74bcffa1cb05d3e4320,Ronseal Ltd,Supplier,S,Maintenance,,"",False,True
+265738c130845e1cc522bfd4177b6135,Anglo Abrasives Ltd,Supplier,CV,Abrasives,,5190,False,False
+273f4fbbad4fc4910b450f1863f0f4c3,Caseline Storage Ltd,Supplier,OX,Storage and Handling,,"",False,True
+287c34ae17d22bba9cac62de86a022a6,SOUTH ESSEX FASTENERS LTD,Member,SS,,,"",,
+289af488fafda3ebdcdfddf8997d32a5,BLC Construction Supplies,Member,BS,Industrial Distribution,Construction Supplies,82990,False,True
+28e09e3c23b0ebc3e19233d53e38fa53,Zevij-necomij B.V,Supplier,,Business Services,,"",False,False
+29df0a4d8fd3b417152349c6a4c964b5,SIP Industrial Products Ltd,Supplier,LE,Power Tools,,46690|32990,False,True
+2ad4b9f457fddf5575e188f839ef3880,CWW ENGINEERS SUPPLY CO LTD,Member,W,,,"",,
+2b6e39ee55411c3e4701a0164ac441dc,UTS Ltd Bridgend t/a Drake Tooling & Abrasives,Supplier,CF,,,46900|47190,False,True
+2ba254fa4d02edebe50fde224d9dd5fb,B FAST TOOLS LTD,Member,MK,,,"",,
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (Somerset),Member,BA,,,"",True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (Bristol),Member,BS,,,"",False,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (Kent),Member,CT,,,"",True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd,Member,HP,Industrial Distribution,Engineering,46170,True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (East Midlands),Member,LE,,Engineering,"",True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (London & Essex),Member,ME,,,"",True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (Ampthill),Member,MK,Industrial Distribution,,"",True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (Norfolk),Member,NR,,,"",True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (Oxford),Member,OX,,,"",True,True
+2bc61fefe1573bfe945f61e78f265700,Evoke Supplies Ltd (Beds),Member,SG,,,"",False,False
+2bf25a6a96e9315220f49b8123e71eb6,PPC Ltd,Supplier,BB,Janitorial,,41100,False,True
+2caa6eb6baaf4db1ff94497da9adbea2,Box Ltd,Member,B,,,47910|62090,False,True
+2d17ecd0a4e1e1c8a0a2150a97623457,GSA CUTTING TOOLS,Member,TA,,,"",,
+2d2c73905b2bd4f581cbbe69d24ee7b5,MR M JACKSON,Member,EX,,,"",,
+2d2e73818042bd74fdb89827390c6fa2,Bruntwood Europe Ltd,Supplier,LE,PPE,,"",False,True
+2d73d7599ee288e760b0cbcf95f2da8c,AVON ENGINEERING SUPPLIES,Member,BS,,,"",,
+2d783c1864ff446d5a26e1be90cf6a46,Global Diamond Tools -Sinops Ltd,Supplier,DY,Maintenance,,"",False,True
+2dd9b6f8742bac321f84474a725b37fd,United Welding Supplies Ltd Norwich,Member,NR,,Construction Supplies,"",True,True
+2dd9b6f8742bac321f84474a725b37fd,United Welding Supplies Ltd Peterborough,Member,PE,,Construction Supplies,"",True,True
+2dd9b6f8742bac321f84474a725b37fd,United Welding Supplies Ltd,Member,SG,Traders Generalist,Engineering,82990,True,True
+2e2b4b5e4d8a531f42c50344c4859c5b,Trent Industrial Supplies Ltd,Member,DE,Facilities Management Specialist,Engineering,47520,True,True
+2e3a19db5399393da906642e8e4943d3,Engineering & Mechanical Components Ltd,Member,WA,,,47190,,
+2e5f7230606ce5c500d5910bd559db2d,LITTLEHAMTON CUTTING TOOLS,Member,BN,,,"",,
+2e733f03913ffa6d8ad5a4dc169e8588,Award Technical,Member,WR,Landscape and Outdoor Products,,"",False,True
+2e889274f5e89a062c686c8fb46b75e1,Progressive Safety Footwear & Clothing Ltd,Supplier,S,PPE,,46420,False,True
+2f0e8fbb397e5f361f7f122b272902c4,Tilsatec Ltd,Supplier,WF,PPE,PPE Specialist,46410,False,True
+2f350f108c297f7c1618add9e34090dd,Ernst and Young LLP,Supplier,SE,,,"",,
+2f580a5ba833846264875af688e2888f,Fein Industrial Power Tools UK Ltd,Supplier,NN,Power Tools,,27900,False,True
+2fe59753a2b7ab120071a5a2389ec0c2,Rawlplug Ltd,Supplier,G,Fasteners,,25930,False,True
+30906241d7a04e58fc5b5836cb4d13fc,Sika Ltd,Supplier,AL,Adhesives & Sealants,,20130,False,True
+30906241d7a04e58fc5b5836cb4d13fc,Sika Ireland Ltd,Supplier,D,Adhesives & Sealants,,"",False,True
+3120a247333ce84a572335c95a8f3626,SDMO Energy Ltd,Supplier,RG,Maintenance,,46900,False,True
+3144ed0ec9c941b21329eb53c85a19b3,FWB PRODUCTS LTD,Member,ST,,,"",,
+314f05503b8ec4fba0b576104a447a38,AG&R Equipment Ltd,Member,TA,Traders Generalist,Construction Supplies,47520,True,True
+3171f3c09920a4bae37eee8f9486c125,Fairfax Hire Centres Ltd,Member,YO,Hire Company,Construction Supplies,"",True,True
+31f281575e5ab9216231bdf5e6e024e8,Chemence Ltd,Supplier,NN,Adhesives & Sealants,,"",False,True
+32a8f6ae38cd4d084959dc1d738fb6fc,A One Tools & Fixings (Brighouse) Ltd,Member,HD,Traders Generalist,Construction Supplies,47190,True,True
+32ccfd08efcdd562228b7fa166968598,Diverse Products (Scotland) Ltd,Member,G,,,"",,
+32d2fa3a67eec58f4d5c8e7fabaa2bce,Closed Account,Member,SN,,,"",False,False
+33201f6d97ca7f15c0d5e16892263ae8,Howmet Fastening Systems Ltd,Supplier,TF,Fasteners,,25940,False,True
+337cabe6316b68223801a0708bf2d4ae,Edding UK Ltd,Supplier,AL,Maintenance,,"",False,True
+34e472b2227bd05b32510a17e2e7071c,William Twigg (Matlock) Ltd,Member,DE,Industrial Distribution,Engineering,25110|46740|46720,True,True
+351bd36424c665bf96c9beba5a920542,BACA DIRECT SAFETY & WORKWEAR,Member,NN,,,"",,
+351d405561c76d6323e84626053aecef,Car Paint Warehouse Ltd Bristol,Member,BS,,,45320,False,True
+351d405561c76d6323e84626053aecef,Car Paint Warehouse Ltd Swindon,Member,SN,,,"",False,True
+35930dd7d2de203509a45d18a1d40049,Miles Tool & Machinery Centre Ltd,Member,BA,Traders Generalist,Construction Supplies,47520,True,True
+35f81244f2910308fe749b2d1ed1c80b,"VOGUE (UK) LTD.,  PROFORMA",Member,WV,,,"",,
+361044f0b54aa723407a1c8e84ea44b5,"Garden Machines (N'Pton) Ltd",Member,NN,Wholesaler,Construction Supplies,82990,True,True
+362db23993024097de8c248b578bf7e0,Engineering Supplies Ltd,Member,SP,Industrial Distribution,Engineering,71129,True,True
+363357a5c3abc0e8f86bac09f53d0aa8,Premier Fixing Solutions & Construction Products,Member,AB,Industrial Distribution,Construction,"",True,False
+36c10937b5fe0cc264795253c9a2e9ac,FB Chain Ltd,Member,SG,,,25930,,
+3701191995e9ae9f003d9c32b7ed1d31,First Response Site Services Ltd(Toolhire),Member,RM,Traders Generalist,,"",True,True
+3701191995e9ae9f003d9c32b7ed1d31,First Response Site Services Ltd,Member,SS,Traders Generalist,,77320,False,True
+372985a8238f9049bce229a8cf02db59,Grahams Machinery Sales Ltd - Chester,Member,CH,Wholesaler,Construction Supplies,7499,True,True
+372985a8238f9049bce229a8cf02db59,Grahams Machinery Sales Ltd - Thornaby,Member,TS,Wholesaler,Construction Supplies,"",True,True
+374f79881a1bf4b67217d28c933a8c13,BRAISBY ROOFING T/A KWIKCO SUPPLIES,Member,"",,,"",,
+3759f1dfc278ae61f4796b21bf0f85fa,KESTREL ENGINEERING SUPPLIES,Member,CM,,,"",,
+38047a9d33f66b842fdb51de85e726cb,Simonds Industrial Ltd,Supplier,,Carbide Cutting Tools,,"",False,False
+380ecd89b910a6effab16e211b3e437c,Folkestone Fixings Ltd (FFX Folkestone),Member,CT,Power Tool Specialist,Power Tools Specialist,47910|46690|46130|47520,True,True
+380ecd89b910a6effab16e211b3e437c,Folkestone Fixings Ltd (FFX Ashford),Member,TN,,,"",True,True
+3824d48b967f368e4a5904a4d015b89e,DORMER TOOLS,Member,S,,,"",,
+3963ae24741b154fc877fe12047367fa,F G Lang (Grays) Ltd,Member,RM,Traders Generalist,Engineering,46190,True,True
+396459aaecebfc185c794b2554fb9d2e,HAMBLE DISTRIBUTION LTD,Supplier,G,,,"",False,False
+3992eb798ec97de429b99c815ea96141,J R Webster & Co. Ltd,Member,CH,,,"",,
+3a01395abd07633b59340d5c2b7f5e06,bares,Member,"",,,"",,
+3a5b98232d5a4620c3a986ac2cfa539a,Ron Smith & Co T/A The Garden Machinery Centre,Member,HR,Power Tool Specialist,,"",False,True
+3a5b98232d5a4620c3a986ac2cfa539a,Ron Smith & Co,Member,WR,Power Tool Specialist,,"",False,True
+3a6699e7534f230a1a7d239c0ab4224d,Data Power Tools Ltd,Member,CF,Power Tool Specialist,Power Tools Specialist,47190,True,True
+3a78e88e93aa9d8b62bb9644d1a5cde3,WORKSAFE,Member,NN,,,"",,
+3abaf221219c7be359d22652c14b0594,Flotec Industrial Ltd,Member,LE,Facilities Management Specialist,Construction Supplies,82990,True,True
+3aecb5832edcdd06ff51ca9886af63b1,Bedford Engineering Company (m/c) Ltd,Member,SK,,,"",,
+3b7bddfcb0b589182a90fa357c90a30d,Bunting Magnetics Europe Ltd,Supplier,HP,Maintenance,,25990,False,True
+3ba16e4ac75af8d72d988a8be89391a4,Henton & Chattell Ltd,Supplier,NG,Landscaping & Maintenance,,46140,False,True
+3bb28515099f9464a79e06bd57b8922d,Anco Storage Equipment Ltd,Supplier,RH,Storage and Handling,,43999,False,True
+3c5539f02d710b54edc004c3c18bbb9f,Handy Distribution,Supplier,SN,Power Tools,,"",False,True
+3cd42375fc2d2bdfb166446fbbed2972,G & J Hall,Supplier,S,HSS Cutting Tools,,"",False,True
+3df151ba4a2d136ff92c0aef54e0f835,Allied Tooling Ltd,Supplier,BH,"Saws, Circ, Band, Hole",,71129|46620,False,True
+3e36dec2c712f0039db20235b03e1bf4,Ring Automotive Ltd,Supplier,LS,Maintenance,,45310,False,True
+3f3472b930f9747de303573ebe20d4f6,Direct Tool Sales Ltd,Member,ME,Traders Generalist,Power Tools Specialist,47520,True,True
+3f62a5e4680c1ddf2fa04d30e00ecfcd,Boa Tool Corp,Supplier,TN,Hand Tools,,"",False,True
+404c463810f729919e4d1c7997e1ac1f,Westcountry Woodworking Machinery Ltd,Member,PL,Traders Generalist,Construction Supplies,"",True,True
+405cd0b69eba6e6fb5ec826f74a85bb3,Burg Wachter UK Ltd,Supplier,BD,Maintenance,,46499,False,True
+4092aa58b0516c08144af2e3a24ee3d4,Scott Safety,Supplier,WN,PPE,,"",False,False
+417575c956b7f73aacbf4b0799800c50,Centris Limited,Member,HP,Traders Generalist,Construction Supplies,46180,True,False
+4196f2057031f681f3857dd0b2c83bd0,Tri-Fix Industrial Fasteners Ltd,Member,ML,Builders Merchant,,46130,False,True
+41bb1a0b9a8df303d544b6824e9f5ac7,Beta Tools UK Ltd,Supplier,TF,Hand Tools,,70100|46900,False,True
+41ed82103186bb219919ab655e4b34e7,Littlehampton Cutting Tools Ltd,Supplier,BN,"Saws, Circ, Band, Hole",,96090,False,True
+43369682ca3961e06c9be9106c39f9a9,Hardmetal Tool Solutions Ltd,Member,PE,,,"",,
+4354631475f2bdec9164e50ef5d63f81,Tooltek Supplies Ltd,Member,HU,,Construction Supplies,46690,False,False
+43a7de80da008832b832a8b60a0937eb,MacGregor Industrial Supplies Ltd(Aberdeen),Member,AB,,,"",False,False
+43a7de80da008832b832a8b60a0937eb,MacGregor Industrial Supplies Ltd (Stornoway),Member,HS,,,"",False,False
+43a7de80da008832b832a8b60a0937eb,MacGregor Industrial Supplies Ltd (Elgin),Member,IV,Builders Merchant,Engineering Supplies - Cutting Tools,"",True,True
+43a7de80da008832b832a8b60a0937eb,MacGregor Industrial Supplies Ltd (Kirkwall),Member,KW,,,"",False,False
+4407ec7163330391381c7c1bf0d51ef8,THE SUTCLIFFE TOOL CO. LTD,Member,BB,,,"",,
+442846e4b433abc8d65ef2a2b133289b,Elmec International Sales Ltd,Member,CM,Industrial Distribution,Construction,46140,False,False
+4461a2599560d22b51cb4a47a0307272,Praybourne Ltd t/a Pulsar,Supplier,B,PPE,,32990|14190,False,True
+44871e3a83703a7ba339614243e3b1b6,Tacwise Worldwide PLC,Supplier,TN,Fasteners,,28240,False,True
+4503f9a2177342509bf2a6cd527604d5,Zarges UK Ltd,Supplier,MK,Maintenance,,46760,False,True
+4505dcf6fbc7b050462c4c39702216a0,Global Services (Europe) Ltd,Member,EX,Industrial Distribution,,50100|46900,False,True
+4559d28d5403e48538141c92f5c82e75,James Lister & Sons Ltd Wednesfield,Member,B,,Engineering Supplies - Cutting Tools,"",True,True
+4559d28d5403e48538141c92f5c82e75,James Lister & Sons Ltd Abergavenny,Member,NP,Wholesaler,,"",False,True
+4559d28d5403e48538141c92f5c82e75,James Lister & Sons Ltd Shropshire,Member,TF,,Engineering Supplies - Cutting Tools,"",False,False
+4559d28d5403e48538141c92f5c82e75,James Lister & Sons Ltd,Member,WV,Wholesaler,Engineering,46900,True,True
+45679a025cb55452d9c1fb4d4523eb29,Phoenix Industrial Supplies Ltd,Member,CF,,,"",,
+45c7fac6327f3a6ece1609cfa44d357a,Biz Power Tools Ltd,Supplier,EN,Power Tools,,46620,False,False
+462cf306259ea8372488f4dd34fe8f5e,James Bedford & Co Yorkshire Ltd,Supplier,WF,Storage and Handling,,"",False,True
+466656c25771f3f50702bf680299d155,Antifriction Components Ltd,Supplier,,Maintenance,,"",False,False
+466656c25771f3f50702bf680299d155,Antifriction Components,Member,BS,,,"",False,False
+4675a17f2a3e45f969c68aaeed7fe42e,Bibielle UK Ltd,Supplier,LE,Abrasives,,46690,False,True
+46a6a84b523e80fe90f8849e65ecf082,KINGFISHER PACKAGING,Supplier,TA,,,"",False,True
+46af551c6200803932afcffc75f39cc4,Carlisle Brass Ltd,Supplier,CA,Maintenance,,46900,False,True
+46b27e5d6398715193fd9c7516c8e3e3,Elite Southern Supplies Ltd,Member,OX,,,"",,
+46e553059b7511dfd51f22ade1723f98,W T I Fasteners Ltd,Supplier,LE,Fasteners,,25940,False,True
+470396e500983b169b360d4859239470,Mills Ltd,Member,UB,Facilities Management Specialist,Utilities,46520|46510|61900,False,True
+4725ad37791628b0f19bb1122664e79e,Dilworth & Morris Engineers Merchants Ltd,Member,SK,Industrial Distribution,Engineering,46900|47789,False,False
+47982c67b4eec6c39373531aac7c08d9,Presto International UK Ltd,Supplier,S,HSS Cutting Tools,,46620,False,True
+482a8dfacfc65a3ff75a16b180bb235b,Toolbank,Supplier,DA,Hand Tools,,46900,False,True
+484a778ca57e10396a8ab5546d34e44c,MONTRAVIA LTD,Member,CT,,,"",,
+48c0d2043608b4afed56ca5c0220986a,Technical Textile Services Ltd,Supplier,GL,Janitorial,,"",False,True
+48eec94ec58d05bfd0ee91a661c2a649,Target Tools Ltd,Member,IM,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,47520,True,True
+48f10df14eef5561d524eba6d89c2165,Regent Distributors Ltd,Supplier,B,Janitorial,,"",False,True
+493185d7f4db69dc0a5cbcc08d6d2740,Fosse Ltd,Supplier,LE,Spill Control,,"",False,True
+4989db72cd02fd186a93a8f5d269baae,Luceco UK Ltd,Supplier,TF,Electrical Supplies,,46439,False,True
+4a559061f285fe8ef632952653789ccc,Fourstones Paper Mill Co Ltd,Supplier,NE,Janitorial,,17120,False,True
+4b4f8e7736c5b13a00e9f3e9b3de0744,TORBULK LTD,Member,LN,,,"",,
+4b8f4b54b4dea87aa14c6bfa1dfb0923,GBR Technology Ltd,Member,RG,,,"",,
+4bcda496b196604e0c6528faaa98aada,Measure-Quip Ltd,Supplier,DE,Maintenance,,46760,False,False
+4c500757729e7c2ea25cd0eda87bc025,Positec UK and Ireland Ltd,Supplier,RG,Landscaping & Maintenance,,"",False,True
+4d2eefb64a0fad4275dd69782098dd7e,Mackays of Cambridge Ltd,Member,CB,Traders Generalist,Construction Supplies,47520,True,True
+4d7493af3307f932bef38947e58cb5b9,STAPLETONS LOCK & SAFE LTD,Member,S,,,"",,
+4d79ea454df57edc9db99a382a9d530a,Cassells Industrial Products Ltd,Member,NG,Traders Generalist,Engineering Supplies - Cutting Tools,46690,True,True
+4d7ffbca788b9d8fe9249d3ba69749b3,Industrial & welding Supplies Ltd,Member,M,,,"",,
+4d879aba68f3c3a4da7d31f2d4588a58,John Taylor Fasteners Ltd,Member,EX,Fixings & Fasteners Specialist,Construction Supplies,46620,True,True
+4d879aba68f3c3a4da7d31f2d4588a58,John Taylor Fasteners Ltd (Plymouth),Member,PL,Fixings & Fasteners Specialist,,"",True,True
+4d879aba68f3c3a4da7d31f2d4588a58,John Taylor Fasteners Ltd (Torquay),Member,TQ,,,"",True,True
+4e0fd7417790a8af5aee0d5750d3a21a,TFC Engineering Services (Keighley),Member,BD,Facilities Management Specialist,,"",False,True
+4e0fd7417790a8af5aee0d5750d3a21a,TFC Essex Service Centre,Member,CO,Facilities Management Specialist,Construction Supplies,"",True,True
+4e0fd7417790a8af5aee0d5750d3a21a,TFC Scottish Premier Fasteners,Member,ML,Fixings & Fasteners Specialist,,"",False,True
+4e0fd7417790a8af5aee0d5750d3a21a,TFC Ltd South Wales,Member,NP,Facilities Management Specialist,,"",False,True
+4e0fd7417790a8af5aee0d5750d3a21a,TFC Ltd (Basingstoke),Member,RG,Facilities Management Specialist,,"",True,True
+4e0fd7417790a8af5aee0d5750d3a21a,TFC Ltd Head Office (Heathfield),Member,TN,Facilities Management Specialist,Engineering Supplies - Cutting Tools,"",True,True
+4e0fd7417790a8af5aee0d5750d3a21a,TFC Midlands Ltd (Walsall),Member,WS,Facilities Management Specialist,Construction Supplies,"",False,True
+4e17768f033593df4292fcc5eb8aad21,Boulder Developments Ltd,Supplier,LN,Construction,,"",False,True
+4e1ef1a839209854610c9fc1809f3336,Ledco Ltd,Supplier,SL,Electrical Supplies,,"",False,True
+4e7e789e159825a754eebeace272b736,NSERT UK Ltd,Member,NE,Industrial Distribution,,46760,False,True
+4ed754a899f004daddfa3da944873e41,Lubetech -JBS,Supplier,,Spill Control,,"",False,False
+4f46d873cb7df1c0d39e13dc7a411f3b,IRIDEX ENG. CO. LTD,Member,HD,,,"",,
+4f860a06e5d765d8a4786d9d481b9446,Fluke UK Ltd,Supplier,,Maintenance,,"",False,False
+4f86eeb920e83886110b834ef0e2528f,Anglian Tool Agency Ltd,Member,IP,Traders Generalist,Engineering,46620,True,False
+50e08d23043f177eefff11ec69d11d0f,Berdal Rubber & Plastics BV,Supplier,"",Maintenance,,"",False,True
+50e0948232f9b61779b548bc7de25814,E A Martin and Son Ltd,Member,BT,Wholesaler,,46760,False,True
+50f7aa5064896815b502f63cc78e47ce,EURO ELECTRICAL (HK) LTD,Supplier,,,,"",False,True
+5133cfaf2d13e0b909b48917e66aea6c,Blue Diamond Industrial Supplies,Supplier,AB,Maintenance,,46900,False,True
+514c951a3cb2badbfdbe3abf5b327c4d,Garrison Dales Ltd,Supplier,WR,HSS Cutting Tools,,46620,False,True
+51c05c52fa988400773f2eea710765ac,Weldspares Ltd -Bis Wholesale,Supplier,WA,Welding,,"",False,True
+51f05d9bbcecfc55c3e888d184d818c4,County Industrial Supplies Ltd,Member,NP,Traders Generalist,Engineering Supplies - Cutting Tools,47910|96090|46140,False,True
+52564af650963d27d218badde7861504,Blacksmith Freight Services Ltd,Supplier,M,Business Services,,"",False,True
+526739016a261f3456e093ade8123d2b,BSA Brands UK Ltd -Bisley,Supplier,SO,PPE,PPE Specialist,46690|46420,False,True
+5281749fce504d16c17b3b07ee2b4447,Footprint Sheffield Ltd,Supplier,S,Hand Tools,,25730,False,False
+5294e8378f9e5cd3a902ba04cf6d32b2,Essity UK Ltd -SCA,Supplier,LU,Janitorial,,70100,False,True
+52a5d0a4d66ee623ca5dd448a8def4c9,Liquid Science Solutions Ltd,Supplier,BB,Maintenance,,"",False,True
+52a61e697df33fd465986658938e037a,Furneaux Riddall & Co Ltd,Supplier,PO,Electrical Supplies,,"",False,True
+52b2d69bc8cb47c5e57ed8005dbd956d,Craghoppers Ltd,Supplier,M,PPE,,"",False,True
+52bf8a6ef2a160526fb6b5dbdcdea27a,Handling Equipment UK Ltd,Supplier,DY,Storage and Handling,,46140,False,True
+530bccdcea19304a6e2e36c63fd542a0,Rock Fall UK Ltd,Supplier,DE,PPE,,46420|14120|15200,False,True
+530bd5da6a7813d90aed6146aab5c8a6,EZ-Base (UK) Ltd,Member,EX,Wholesaler,,63110,,
+5331aca4d0ce0ece60a27bede22229e8,Power Transmission Engineering Limited,Member,NG,,,"",,
+5332a4a0ff9a1ec6997f56132fa72d49,Axminster Tools  Cardiff,Member,CF,Power Tool Specialist,,"",False,True
+5332a4a0ff9a1ec6997f56132fa72d49,Axminster Tool Centre LTR,Member,EX,Power Tool Specialist,,"",False,True
+5332a4a0ff9a1ec6997f56132fa72d49,Axminster Tools High Wycombe,Member,HP,Power Tool Specialist,,"",False,True
+5332a4a0ff9a1ec6997f56132fa72d49,Axminster Tools Sittingbourne,Member,ME,Power Tool Specialist,,"",False,True
+5332a4a0ff9a1ec6997f56132fa72d49,Axminster Tools Newcastle,Member,NE,Power Tool Specialist,,"",False,True
+5332a4a0ff9a1ec6997f56132fa72d49,Axminster Tools Warrington,Member,WA,Power Tool Specialist,,"",False,True
+5361574cb7d1113363aedf217e853aca,Agriparts Borders Ltd,Member,TD,Agricultural Specialist,,47190,False,True
+536e30292df12ea61e52b725aee6008e,Hobbco Tool Co (1999) Ltd,Member,AL,,,46620|46760,False,False
+53d736d8b56f27531e76947d7a63253d,Forest Heath Fasteners Ltd,Member,IP,Fixings & Fasteners Specialist,Construction Supplies,46180,True,True
+53ddca708842c354b6ddfba6a3d06b36,DCM DRILLQUIP LTD,Member,CV,,,"",,
+53f5503aa60ea984a4c30bb3cae929b0,Trend Tool Technlogy Ltd Caulfield,Supplier,WD,HSS Cutting Tools,,"",False,False
+5427d2367a113029879e18d51d4a3ed7,ESSEX TOOL SUPPLIES LTD,Member,CM,,,"",,
+543ab345d9ca78e224bdd6dcb5e072e9,M F Hire Limited(Leicester),Member,LE,Hire Company,,"",False,True
+543ab345d9ca78e224bdd6dcb5e072e9,M F Hire Limited(Leeds),Member,LS,Hire Company,,"",False,True
+543ab345d9ca78e224bdd6dcb5e072e9,M F Hire Limited(Sheffield),Member,S,Hire Company,,"",False,True
+54733aa4b7e6e6945374ac68365a2fe8,Teknofix,Member,EX,Traders Generalist,Construction Supplies,47789,True,False
+54ce211665ff756799e5f2714279b8e1,Hire Centre (South West) Ltd T/A Kingsbridge Hire & Garden Machinery,Member,TQ,Agricultural Specialist,,"",False,True
+5555e1925c010bbb9aef07ed24f758e5,Franklin Steel Stockholders Plc Dumfries,Member,DG,"Construction, Aggregates and Mining",Engineering,47990,False,True
+5555e1925c010bbb9aef07ed24f758e5,Franklin Steel Stockholders Plc HQ,Member,NE,"Construction, Aggregates and Mining",Engineering,47990,False,True
+556acf4cd92a00ca1c8af09dcc45a4c9,Evans Vanodine International Plc,Supplier,PR,Janitorial,,"",False,True
+55a07a24b1b46c4af8becb1038cf27d6,Rivet Holdings Ltd ta Rivetwise,Supplier,WS,Fasteners,,"",False,True
+55b91e7f447306e25783afbfc1214801,Hopes Generation ltd,Member,PL,,,"",,
+55bd7ea20c01c5c7dc2230fa413ac306,TRUCUT TOOLS,Member,BH,,,"",,
+566febd9c3219e1e38f1e1b1cef5d1eb,JP POWER SYSTEMS LTD,Member,YO,,,"",,
+5673ddfdae40ac890f425581bae99664,Ware Motorama Ltd.,Supplier,RM,,,"",,
+56865cb9243031ac8aee6a9f5fda0518,Industrial Supplies (Hull) Ltd,Member,HU,,,"",,
+5734895d4f84a6e28c2fdbcc2a0cf14a,Raaco Great Britain Ltd,Supplier,OX,Storage and Handling,,96090,False,True
+575eed97eb21881b5feea955b291810e,Newcomer UK Ltd,Supplier,CV,Workholding,,46620,False,True
+57bb00c27506d1550c30a0ff1e5ec677,CBOC Lubricants Ltd,Member,BS,,,"",,
+57f2c8bc6f55c03e37ee3bc8c952689c,Protool Ltd,Member,TN,Cutting Tools Specialist,,46620,False,True
+5819a54c0e709351c8538a825bb4e6de,DMS Technologies,Supplier,SO,Electrical Supplies,,"",False,True
+586075a10c7115fb47680ffdb25c9812,C H Power Tools Ltd,Member,DN,Traders Generalist,Construction Supplies,33190,True,True
+58c850c2c63b443e218e354546f6b8a1,Belle Engineering Sheen Ltd,Supplier,SK,Power Tools,,28990,False,True
+593dc6308e4e2009c5f7776da56a32c7,Shandong Yaohua Glass Co Ltd,Supplier,"",,,"",False,False
+5949c4a4240443a60d87e2c13a7969de,Oxon Fastening Systems Ltd,Member,OX,Fixings & Fasteners Specialist,,"",False,True
+5978187192afd75d265124b885ed7c00,WEIDA PEACOCK USD A/C,Supplier,,,,"",False,True
+59e4e1c457f14ca7421c52daf948f6f1,PMB TOOLS.,Supplier,L,,,"",False,True
+5a35de9bfae986ef94efa405ac9e478e,Power Point (Northern) Ltd,Member,YO,Traders Generalist,Construction Supplies,33120|46190|77390,True,True
+5a8dbd1cdb62078a2bc6092889a2cc5a,Powertech Industrial Ltd,Member,S,Traders Generalist,Construction Supplies,46620,True,False
+5acae1ae806347ea609f43c8bb7ddaf4,NAP Brands Ltd,Supplier,HG,Hand Tools,,"",False,True
+5b0221adadb6cbee4c3d3b4166c6b94e,Rothley Ltd,Supplier,WV,Maintenance,,"",False,True
+5b25c634d91340fe6b686bafc10a0033,JCS Hi-Torque Ltd,Supplier,CO,Fasteners,,25990,False,True
+5b94461cd4fc5d95670fd499b295039d,Whittaker Trading Ltd,Member,IM,Wholesaler,Construction Supplies,"",True,True
+5bd2ebe95a5a0cf7cc130fc09db82d00,Abwood Machine Tools Ltd,Supplier,DA,Workholding,,99999,False,True
+5c1b479b78ffb2e1f400cb703be4f7b6,Spectrum Industrial Ltd,Supplier,DN,Maintenance,,"",False,True
+5cc965402af68eb5f2129cd222b755e7,MAG45 UK,Member,WA,,,"",,
+5d3888e1b870f1cbd5c824142a651a0a,Chester UK Ltd,Supplier,CH,Machine Tools,,46140,False,True
+5d61419c8795fbe44c17ad63ab6e139f,Allgo Engineering Supplies Ltd,Member,BT,Traders Generalist,Engineering Supplies - Cutting Tools,46620,True,True
+5db7fd6df08b63a4939e82ed571ec110,T B Davies Cardiff Ltd,Supplier,CF,Maintenance,,46900,False,True
+5e016a478a72dfeb81cb45071821ef6d,EXETER TOOL SHOP LTD TM0465,Member,EX,Traders Generalist,,47789,False,True
+5e1ba8cd3085fac1ccc8a087b2c2fc17,SIS YORKSHIRE LTD T/A SIS INDUSTRIAL SUPPLIES,Member,S,,,"",,
+5e2ff00a44a6541b7c98e12e37ed14a7,Total Supplies (TSL) Ltd,Member,B,Industrial Distribution,Construction Supplies,82990,True,True
+5ecc13aca48fc1272326a5a582fbbae2,Jays Sourcing Group Ltd,Member,B,Facilities Management Specialist,Engineering Supplies - Cutting Tools,46190,True,True
+5f0cfebf04b83bf672ce460fe38763b0,ARTHUR BELL ENGINEERING MACHINERY,Member,BT,,,"",,
+5f19931aa2fcd8718f56e498241705ab,Fit-Lock Systems Ltd (Halifax),Member,HX,Fixings & Fasteners Specialist,Construction Supplies,"",True,True
+5f19931aa2fcd8718f56e498241705ab,Fit-Lock Systems Ltd t/a Team Valley Fastening Sol,Member,NE,,,"",False,False
+5f19931aa2fcd8718f56e498241705ab,Fit-Lock Systems Ltd (Rotherham),Member,S,,Construction Supplies,"",True,False
+5f19931aa2fcd8718f56e498241705ab,Fit-Lock Systems Ltd (Stockport),Member,SK,Fixings & Fasteners Specialist,Construction Supplies,"",True,True
+5f19931aa2fcd8718f56e498241705ab,Fit-Lock Systems Ltd (Newcastle Under Lyme),Member,ST,,Construction Supplies,"",True,False
+5f19931aa2fcd8718f56e498241705ab,Fit-Lock Systems Ltd t/a Midlands Fastening System,Member,WV,,Construction Supplies,"",True,False
+5f40b23981b450d2f3ab14cb5af056ec,Smith Francis Tools Ltd,Supplier,B,Hand Tools,,82990,False,True
+5fbb95233da06538f2e3830904282929,Lion Haircare Ltd,Supplier,NG,PPE,,13990,False,True
+5ff550596df0f633b71c18f40d1274d3,Marcrist International Ltd,Supplier,DN,"Saws, Circ, Band, Hole",,23910|46620,False,True
+6078a05785eb220a8848dfad1992e467,Brighton Tools & Fixings Ltd,Member,BN,Power Tool Specialist,Construction Supplies,47789,True,True
+60b1332a6869116a5fbb3c1fa2b39da4,Wolds Engineering Services Ltd (Hull),Member,HU,,"Maintenance, Repair and Overhaul","",True,True
+60b1332a6869116a5fbb3c1fa2b39da4,Wolds Engineering Services Ltd (York),Member,YO,Wholesaler,"Maintenance, Repair and Overhaul",46900|28990,True,True
+60b15c5643a2425c31a87b6cf69cf3ca,Mountz Torque Ltd,Supplier,GU,Hand Tools,,"",False,True
+60c4cca7f1ed644bd004731dbbd9d312,Darnall Tools & Abrasives Ltd,Member,S,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46900,True,True
+60e2eb02464098c458dc78427d8b5a1c,Premier Cutting Tools Ltd,Member,HU,,,"",False,False
+60f1ee1a8ec0781b24e0267b31e25bda,Hilton Banks Ltd ta HB42,Supplier,TW,Adhesives & Sealants,,"",False,True
+6207c795721ac91aba657309ceaff153,"ASHTON SEALS LTD.,",Member,S,,,"",,
+6271637502b25181972c7b118446921f,HAYWAY TOOL & HARDWARE CO. LTD,Member,NN,,,"",,
+62ec0efc3a94fd629bb10f8ec7c93699,TCO Direct Ltd,Member,DD,Traders Generalist,Construction Supplies,46130,False,True
+63129d32c64c22ccbce239604e41294f,CTS (Grangemouth) Ltd,Member,FK,PPE Specialist,PPE Specialist,71129|46620,True,True
+6321749a4d9d65a7a7ed26a053794b7b,Thorcraft Ltd,Member,TN,Traders Generalist,,47190,True,True
+633a672c0fbf8cbfc648ff86d5106e11,Carwood Motor Units Ltd,Member,CV,,,"",,
+63627ce5bd36d0b7c53f5e3d2c1aff16,Verdict Gauge Ltd,Supplier,BR,Metrology,,32990,False,True
+637b9912c17dc766ecfb6c91fd746210,Sense Group Limited,Member,CH,Power Tool Specialist,,"",False,True
+63b6f66387aa90a6ee5f706758b7fda3,Advent Print Group,Supplier,,Business Services,,"",False,False
+6429deb1e2dfe9206b50ba5068e0be4f,Albion Transmission Ltd,Member,S,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46140,True,True
+64daf8bd3fc82e9ef7958620d388cca9,JIT Consumables Ltd,Member,CV,Industrial Distribution,,"",False,True
+6514bb2bdbee910ec421b14973e407b5,Anderco (Cork) (sterling),Member,T,PPE Specialist,PPE Specialist,46420,False,True
+652308617818ebfaaa609ac72ccb2ff8,Jewel Blade Ltd,Supplier,S,Hand Tools,,25730,False,True
+6542dbc55714b68dea31c746da9478f7,Baudains Trade Supplies,Member,GY,Traders Generalist,Utilities,41100,True,True
+65aec280b19fbf87c925b16435257872,Swansea Fasteners & Engineering Supplies Ltd,Member,SA,Fixings & Fasteners Specialist,Construction Supplies,46620,True,True
+65f8c3f51f2fa5055d6a81d2a67c3b5e,Lawson HIS Ltd,Member,SO,Power Tool Specialist,Engineering,46140,True,True
+660b65d7c6fd770a584d1250e1032376,Lee Industrial Ltd,Member,EN,Traders Generalist,Power Tools Specialist,46900,True,True
+661f5b758000c627b267ec33857c6aee,UK Electric Ltd t/a H-Squared,Supplier,SG,Electrical Supplies,,"",False,True
+6647532fa307982373b04eb3246abdf1,Illingworth Supplies Ltd,Member,LS,Traders Generalist,Construction Supplies,46740,True,True
+6698a643f3985c3257e71b3e5a94a56e,RUBIX,Member,M,,,"",,
+66a105313bf5650a73de1b4b6452f1ef,Royd Tool Group UK Ltd,Supplier,CM,Hand Tools,,82990,False,True
+66ba4604802ef3c8210018f051f7d008,Rozone Ltd,Supplier,WS,Janitorial,,46190|77390|33190|62090,False,True
+684ed972ccb19ee2548e2e8adaad9a1e,Compact Power Systems Ltd,Supplier,CF,Electrical Supplies,,"",False,True
+686ec82effd8051634856fdae156af78,Screw Centre Ltd,Member,CM,Traders Generalist,,"",False,True
+68d60c038ceeed1efb0c2a6859f4e825,R H Gaudion & Sons Ltd,Member,GY,Traders Generalist,Construction Supplies,"",True,True
+694f3e9595cce8d7f2dce7bd44ac14be,Monsoon Marketing Limited,Member,BS,PPE Specialist,,"",False,True
+6965b2f40d3974ce4dd2c7ae8dbfa472,Hendrik Veder Group UK Ltd,Member,AB,,,"",,
+6974e602ce56e50a3ce3ece04c18c57d,Athena Pacific Ltd t/a Orthosole,Supplier,CM,PPE,,96040|14190,False,True
+69fdd9294e1be7f7c758f931bb5104e5,Allison & Steven Ltd,Member,DD,,,"",False,False
+6abea49e97f817bb6104c12cf7733852,Deltawaite Ltd (Cumbria),Member,CA,,,"",False,True
+6abea49e97f817bb6104c12cf7733852,Deltawaite Ltd (Head Office),Member,LA,PPE Specialist,Engineering,"",False,True
+6ac6ddad5f1925d62ef6717a145ad7e0,Applegate Market Place,Member,EX,,,"",False,False
+6b6cdf02aa370491c323f24ac334e2fc,Adrenaline Cars Limited,Member,EX,,,"",False,False
+6b993eb7019406f2e7aca098a4d80d93,NANJING KIKA INTL LTD,Supplier,,Power Tools,,"",False,False
+6baf2719da9b179d4bcaaf14d9960e13,Gemini Supplies (Scotland) Ltd,Member,FK,Industrial Distribution,PPE Specialist,46130,True,True
+6bf6b72615b930d995b61e4ef861cbc4,Agrispares,Member,SN,,,"",False,True
+6c82b69a1f3176f7653c9fdd747d5c9b,Mole Avon Trading Ltd (Axminster),Member,EX,Agricultural Specialist,,47190,True,True
+6cccf4abf6d560c3c74bdba5da7d66d9,Titman Tools Ltd,Supplier,CO,Carbide Cutting Tools,,32990,False,True
+6d7d224012a319c40b008b64ce084097,Walter GB Ltd,Supplier,B,Carbide Cutting Tools,,46620,False,True
+6d7e9bd6aa8c0452ac9dc04bddda5a1e,Orbit International PLC,Supplier,B,PPE,,14120,False,True
+6dac3af20e8dc40129ad091cad2a6d5c,CNS Power Tools Ltd,Member,SA,Power Tool Specialist,Power Tools Specialist,46620,True,True
+6dadb97d34e89f33e71a7822ab7cc261,Tiflex Ltd,Supplier,PL,Adhesives & Sealants,,"",False,True
+6db9629c0ceca89f04836f9140c35381,EMJ Management Ltd,Member,PO,PPE Specialist,,46160,False,True
+6dbd97061a75338945b691d387325c05,James S Pearson Ltd,Member,ML,Traders Generalist,Construction Supplies,47520,True,True
+6e3d5cdcb7117bce5f2ed14543a45cd8,Treston Ltd,Supplier,RG,Storage and Handling,,"",False,True
+6e7363f9616562300d6061137ea00154,Thomas Graham & Sons Ltd,Member,CA,Builders Merchant,"Maintenance, Repair and Overhaul",46900,True,True
+6e7363f9616562300d6061137ea00154,Thomas Graham & Sons Ltd Kendal,Member,LA,Traders Generalist,,"",True,True
+6e76a2f10da6ece9a063fc6fcbc3753b,Talbot Owen Ltd,Member,BS,Industrial Distribution,Utilities,46900,True,True
+6ecbb7114658a22fd77c0bbf356fcc46,MIDLAND FIXING SERVICES LTD,Member,B,,,"",,
+6f05f6252ea51ba626d14ad47ca057cb,PERFORMANCE  PROJECTS LTD  * PROFORMA*,Member,NN,,,"",,
+6f89abd783562e96dedac18eba824f8e,Brauer Ltd,Supplier,MK,Hand Tools,,25990|25620,False,True
+6f9f5dbdd496cc1f6c1b63a1aeac46d0,Bearingtech Ltd,Member,ME,Fixings & Fasteners Specialist,,71129,False,True
+6fac417e2ee201f7aa64a1aa1b6e7ae3,The Filter Design Company Ltd,Supplier,WA,PPE,,"",False,True
+6fae47dc2aa1d51292b18d3db80b0baf,T&H Distributors Ltd,Member,BK,,Construction Supplies,"",True,True
+6fae7f05b80947191642b55c4cb56345,LMT UK Ltd,Supplier,CV,Carbide Cutting Tools,,46620,False,True
+6ff196d46847cceb476f35e2cd020e27,Specialised Wiring Accessories -SWA,Supplier,GL,Electrical Supplies,,46760,False,True
+70d3e5051521897ea2248da57ba7eb7f,ABA Ltd,Member,SG,Facilities Management Specialist,"Maintenance, Repair and Overhaul","",True,True
+71064a125cfc8ba659760bdfacd89182,DART Tool Group,Supplier,KY,HSS Cutting Tools,,46620,False,True
+7147c69d780b3c2686c35a8d6a1032d3,Terratruck Limited,Member,LE,Power Tool Specialist,,47990|46620,True,True
+7147c69d780b3c2686c35a8d6a1032d3,Terratruck Limited - Nottingham,Member,NG,Power Tool Specialist,,"",False,True
+7148962c31d0c97b3d6ce2cc68bc0274,Impact Socket Supplies Ltd,Supplier,PR,Hand Tools,,46760,False,True
+7151db8afe7534ac7ef6ad9ca39583a6,SIIS Ltd Dundee,Member,DD,Power Tool Specialist,,"",False,True
+7151db8afe7534ac7ef6ad9ca39583a6,SIIS Ltd Edinburgh,Member,EH,Power Tool Specialist,,"",False,True
+7151db8afe7534ac7ef6ad9ca39583a6,SIIS Ltd Dunfermline,Member,KY,Power Tool Specialist,,46620|46740,False,True
+715697629872e8d6a6e9d178e37ad480,Bott Ltd,Supplier,EX,Storage and Handling,,25990,False,True
+71ba10cf47be5aa61c6d8b8bcbe90188,LSK Supplies Ltd (Glasgow North),Member,G,Builders Merchant,,"",False,True
+71cd915518269a194b4a342acb8fa2e4,Elmdale Welding & Engineering Supplies Ltd(Hadleigh),Member,IP,Industrial Distribution,,"",False,True
+71cd915518269a194b4a342acb8fa2e4,Elmdale Welding & Engineering Supplies Ltd(Great Yarmouth),Member,NR,Industrial Distribution,,"",False,True
+71cd915518269a194b4a342acb8fa2e4,Elmdale Welding & Engineering Supplies Ltd(Rayleigh),Member,SS,Industrial Distribution,,"",False,True
+720a23fbaaa50f1c68d85dc9d12ed3b2,Express Weldcare Services Ltd,Member,SO,Industrial Distribution,,46900,False,True
+72369fbfc8f3850d1fd515627e943adc,Allpumps Ltd,Member,S,,,"",,
+729cfbe467538c3455fde55b0ccbd11b,Prodhks LTD,Member,SW,Traders Generalist,,47540|47910,False,True
+734211096b6a1bea3b01470ce84533ed,DVS Power Tools Ltd,Member,RG,Power Tool Specialist,,96090,False,True
+7352afed7d396cfb138e308333df2319,Dunham Tools (Cheshire) Limited,Member,WA,Industrial Distribution,Engineering Supplies - Cutting Tools,46900,True,False
+738cc5058c7509abcb34c02326e7983c,RUKO GmbH,Supplier,"",HSS Cutting Tools,,"",False,True
+73a4b1fa7b285fd72dc13b7e73cb9157,Bearing Source Ltd,Member,L,Facilities Management Specialist,,96090,True,True
+73dc36417bd7854782882934b6c3df5b,Southgate & Sterling Ltd,Supplier,SN,Maintenance,,46499,False,True
+747031abf96ccefb3f40b7e52fc6ddb9,Parmelee Ltd t/a MCR Safety Europe,Supplier,WS,PPE,,32990,False,True
+749e2de7a9a4a6801dc1fcf3873e2529,Woodford Tools - Crown Tools,Member,CR,,Construction Supplies,"",True,True
+749e2de7a9a4a6801dc1fcf3873e2529,Woodford Tools Ltd (Woking),Member,GU,Traders Generalist,Engineering,47990,True,True
+74e5d044cd3f4ae459b7f66ec6eeb976,Ballyclare Ltd,Supplier,SK,PPE,PPE Specialist,14120,False,True
+7536e9a1d57bbd6d056192af0a039c04,Global Single Source Ltd,Member,CV,Industrial Distribution,,46900,True,True
+753711c86b91bc8128f54355e2097d08,Nitty-Gritty SRL,Supplier,"",Welding,,"",False,True
+75c821341b8e98bab5df92340d33290e,Brighton-Best International UK,Supplier,B,Fasteners,,46900,False,True
+760c1211a8674c956e04d4cd80d29260,Steel Service Krefeld GmbH -SSK,Supplier,D,Maintenance,,"",False,True
+7621207dbaef45da93d564e668c7848c,Southern Plant & Tool Hire Ltd (Brackley),Member,NN,Hire Company,,"",True,True
+7621207dbaef45da93d564e668c7848c,Southern Plant & Tool Hire Ltd (Henley-on-Thames),Member,RG,Hire Company,,"",True,True
+762fa56b5d84e0ed0d0582b49937db0d,Helly Hansen UK Ltd,Supplier,NG,PPE,,47710|46420,False,True
+7652f33d44bbd9a569ecddc2f6a61ff7,UK Tools Ltd,Member,BL,Power Tool Specialist,Construction Supplies,47990,True,True
+7653267fdb9ba81db7d759e8af38c6a4,Brennenstuhl UK Ltd,Supplier,EC,Electrical Supplies,,13960,False,True
+76d05d0a8532ce958e6a3fa76761f586,Nortech Services Ltd,Member,HU,Industrial Distribution,Engineering,46140,True,True
+7701c3be187449a6b85eaa70e83163aa,Honeywell Safety Products UK Ltd,Supplier,RG,PPE,,96090,False,True
+7714f507771066cf24549635498661b4,Essex Industrial Supplies Ltd,Member,RM,Traders Generalist,Construction Supplies,46690,True,True
+7714f507771066cf24549635498661b4,Essex Express Industrial Supplies Ltd,Member,SS,,,"",False,False
+779ea989602693f544398fcc85238399,Key Engineering & Hygiene Supplies Ltd,Member,PR,Janitorial Specialist,PPE Specialist,46900,True,True
+780d103c6d03d13a21701dd33a468926,Beeswift Ltd,Supplier,B,PPE,,46420,False,True
+7818a655e726bb0390d0cb72525a8e9d,Absolute Power Tools Ltd,Member,SN,Traders Generalist,Construction,47789,True,True
+782e0677a1d2805560a1bd304b9f2bda,Auchengate Ltd,Member,KA,,,47760,False,False
+7866c4feab4b60c6517a5c831d022f69,Goliath Threading Tools Ltd,Supplier,,Hand Tools,,"",False,False
+78b3d65e797d9a292fb0be789857c166,Yokota UK Ltd,Supplier,S,Power Tools,,"",False,True
+793e98ad7ea1df80c37cee247f9dcdcb,TORRES  ENGINEERING & PUMPS LTD,Member,S,,,"",,
+796d9f5def61c0d1a07023b4ab96d3fd,SAPPHIRE TOOLS,Member,LE,,,"",,
+79943c943bf1f52c83477623f5eec804,Ingersoll-Rand Ind Ireland Ltd,Supplier,BL,Power Tools,,70100,False,True
+79f60d4dfa44bedf8f638862b5ec3c55,80:20 Procurement Services Ltd,Member,AB,Industrial Distribution,"Maintenance, Repair and Overhaul",46190|70229|46140,False,True
+79f96dd477e670c71514c3fffb928356,McKLords Ltd,Supplier,LL,Janitorial,Janitorial Specialist,46750,False,True
+7a125c39f76d010e9cd3d8174a43feb1,3Q Industrial Supplies Ltd,Member,DN,,,"",,
+7a18f40d9f5bfd9391adf0dbe9438fa9,FR Jones and Son Ltd (Redditch),Member,B,Agricultural Specialist,,"",False,True
+7a18f40d9f5bfd9391adf0dbe9438fa9,FR Jones and Son Ltd (Swanley),Member,BR,Agricultural Specialist,,"",False,True
+7a1b2c6acc2158f51ed8a9ec65037e67,IESA A&D Limited,Member,WA,Industrial Distribution,Construction Supplies,74909,False,True
+7a380a8d5165207a4e440348907f867c,Armeg Ltd,Supplier,S,HSS Cutting Tools,,25730,False,True
+7a51c5bdfb28d3a8437d48c78e924399,Orbital Fasteners Ltd,Member,WD,Traders Generalist,Construction Supplies,46900,True,True
+7aa078dadde7a521db6d522bc431c037,ForgeFix Ltd,Supplier,SK,Fasteners,,25940,False,True
+7ac86b2bef5e22aa9797742f85925740,Nick Hodge Associates Ltd,Supplier,SO,Business Services,,"",False,False
+7ad64bca339e68e1b4a4a3d83cd69bb7,The Sprayer People Group Limited,Supplier,BN,Landscaping & Maintenance,,"",False,True
+7b19a87600e1f2bcd4299abbf06e5a2f,AEROCHEM PRODUCTS LTD,Member,IE,,,"",,
+7b66fd630286865037678146362a682a,Teng Tools Ireland Ltd,Supplier,K,Hand Tools,,"",False,True
+7b66fd630286865037678146362a682a,Teng Tools UK Ltd,Supplier,MK,Hand Tools,,46690,False,True
+7b7012c6b36d46f6f8e38381d0ea0e8d,ToolaRrest Ltd,Supplier,TF,PPE,,"",False,True
+7bd285f7b8d816381b58376c721981b5,Duro Yokota Ltd,Supplier,S,"Saws, Circ, Band, Hole",,46690,False,True
+7c05a5b0fb77fdd79da9989f662d2f9d,Abracs Ltd,Supplier,YO,Abrasives,,46140,False,True
+7c37bf279ec35c5dd597ba1233183940,Mobile Stock (I) Ltd,Member,BT,Industrial Distribution,Engineering,"",True,True
+7c3b9634f06aae159b0e8d8167eb6c84,Darcy Products Ltd,Supplier,ME,Spill Control,,32990,False,True
+7c5615c3729e337f70e6d051f1c23d6d,UK Engineering & Lubricant Supplies,Member,SP,Agricultural Specialist,,71129,False,True
+7c8486a24b864e1afd8988f8aeeefbe5,Xamax Clothing Company Ltd,Member,WF,PPE Specialist,,13300,True,True
+7cdad307d0b5f1a4655fb40a2c68f155,insightsoftware UK Ltd,Supplier,W,,,"",False,False
+7d0d08777721e151ecff3bf830812555,STIGA Ltd,Supplier,PL,Landscaping & Maintenance,,"",False,True
+7d4b25cfa2055c6338615ba62e1e93bc,AIRD & Co Ltd,Member,BN,,,"",False,False
+7d545cbeb0412cc7158a3a9707f24a45,ENGINEERING SUPPOLY CO. (SCOTLAND) LTD,Member,G,,,"",,
+7d90e9bebe732d1286eb3478aea252ad,Lakedale Power Tools (Croydon),Member,DA,Traders Generalist,Construction Supplies,74990,True,True
+7d90e9bebe732d1286eb3478aea252ad,Lakedale Power Tools (London),Member,SE,Traders Generalist,,"",True,True
+7d964c760be554d16b3f4a4892651c72,Demon Tweeks Ltd,Member,LL,,,"",,
+7dbd445a564b26716cb2829a92086e97,GR FASTENERS & ENGINEERING SUPPLIES LIMITED,Member,BS,,,"",,
+7dc397c64403d4f067e9f1a2108f1a34,Performance Brands Ltd,Supplier,LS,PPE,,46420,False,True
+7dcaf310019a4c7695e5578d1ec2bda8,Kingtools,Member,NN,Wholesaler,Construction Supplies,99999,True,True
+7dd21529e2e60807e1a12da69b0c6ec9,Mascot International Ltd,Supplier,M,PPE,,47710,False,True
+7e01f846a93108d8629a44b93229d57f,Itec Power Services Ltd,Member,OL,Facilities Management Specialist,Engineering,71129,True,True
+7e5684fac2e5c5575e9bdc80a1d516da,"PROTECH SUPPLIES LTD.,",Member,CH,,,82990,,
+7e88df5b7ac9fbfaf81a6b78e6e24ecb,Garden Discount Centre Limited,Member,NR,Power Tool Specialist,,33190|81300,False,True
+7eaeed0a59dbd098316ae6c1fcebb475,Saul D Harrison & Sons PLC,Supplier,RM,Janitorial,,13950,False,True
+7ec5ab4ef76c0468e41ecc23e284d80c,Midcontinent Aberdeen Ltd,Member,AB,Industrial Distribution,,46900,False,True
+7f22f6e7bbbc58a45abcbb238b46c6fb,Stratfords Ltd,Member,PE,PPE Specialist,,"",False,True
+7f5a7b630941c370597c627b81ef0968,Frisco UK Sales Ltd,Supplier,EN,Maintenance,"Maintenance, Repair and Overhaul",96090,False,True
+7f6577b92a91fbef6d42fc55ef10e857,Fixings Plus SW Ltd,Member,SN,,,"",False,False
+7f8a651949f207dc5ff0330b6a071976,D G JACKSON INDUSTRIAL SUPPLIES LTD,Member,S,,,"",,
+7f8bbdedee00e48b89795cc99152d05e,All Clothing & Protection Ltd,Member,SO,PPE Specialist,PPE Specialist,46420,True,True
+7fd95cefd2a98df2a527c0f75c9f1a84,Elmbridge Supplies Company,Member,GL,,,"",,
+8015fa97ea8c9ae12e21400bf9402df7,Rotamec Limited (Branch 1),Member,EX,,,"",True,True
+8015fa97ea8c9ae12e21400bf9402df7,Rotamec Limited (Branch 2),Member,NP,,,"",True,True
+80959972388c2931a33d570ab2c4fc10,European Aerosols,Supplier,"",Maintenance,,"",False,True
+80f6b16c7cc3e289a7873f44dbe858e8,Crewe Engineering Supplies Ltd,Member,CW,,,"",,
+8117598e2dcbe2c6d8615c192a35d561,Spen Bearings (Head Office),Member,BD,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,82990,True,True
+8117598e2dcbe2c6d8615c192a35d561,Spen Bearings (Leeds),Member,LS,,Engineering Supplies - Cutting Tools,"",True,True
+8145b92c210e9b28a405ab7455c272b0,Husqvarna Group Ltd,Supplier,DL,Landscaping & Maintenance,,"",False,True
+814c5d08cf75af2d3f8250cba8adbc62,Drake Tooling & Abrasives - Wimborne,Member,BH,Industrial Distribution,,"",True,True
+814c5d08cf75af2d3f8250cba8adbc62,Drake Tooling & Abrasives - Bridgend,Member,CF,Industrial Distribution,,"",True,True
+814c5d08cf75af2d3f8250cba8adbc62,Drake Tooling & Abrasives - Newton Abbot,Member,TQ,Industrial Distribution,Engineering Supplies - Cutting Tools,"",True,True
+817f8dc56ea381100e1b86a06b995b4b,ZCC Cutting Tools Europe GmbH,Supplier,CV,Carbide Cutting Tools,,"",False,True
+821b601b0f12e7822d5d04ab716231d0,FOSSE BEARING UNITS LTD,Member,LE,,,"",,
+82378e6059dbd5709d54a14e376bd142,World Of Power.co.uk,Member,SK,,,"",False,False
+82a941feee522644483fe0004ad1f01b,Toolshop Direct,Supplier,,,,46620,True,True
+82a941feee522644483fe0004ad1f01b,Toolshop Direct Ltd,Member,CF,Traders Generalist,,46620,True,True
+82a941feee522644483fe0004ad1f01b,Toolshop Direct Ltd.,Supplier,EX,Maintenance,,46620,True,True
+82ec47ddfe80e55d36f437452dd41dd2,Workshop Supplies North East Ltd,Member,DL,Fixings & Fasteners Specialist,Engineering,47520,True,True
+83639f2e0925e71574da3e20403fdb23,BAM Site Solutions Limited,Member,NN,PPE Specialist,,41201,True,True
+8379e2f7e20fec25e5d55eb8c0b0fbf5,Caswells Group,Member,TS,PPE Specialist,PPE Specialist,"",True,True
+839fb32eb51f84c0ae5afcbb8bffb9f4,GPC Industries Ltd,Supplier,PE,Storage and Handling,,46660,False,True
+83a169258acd84f7ae3ff2bce82d8ee6,Transpower Drives Ltd,Member,NN,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46900,True,True
+83aa3397028d1b6420bba40559c80d2b,B L GILBERT (BARROW) LTD,Member,LA,,,46140,,
+83ae9e630d0ac50c2a1f246fcae3a1bb,Stahlwille Tools Ltd,Supplier,GU,Hand Tools,,46620,False,True
+83bd2ae855f3d88a25e07f91c0106a94,Red Gorilla International Ltd,Supplier,LE,Maintenance,,99999,False,True
+83d806cc5d6e0ad1deec3a9ce418268d,Lawton Tools Ltd,Member,CW,,,46620,,
+83dc8d45a3d018a79307f6fbc09f3ae4,Carbide (UK) Ltd,Member,HU,Facilities Management Specialist,Construction Supplies,46620|33110,,
+83e825c8ad855faba076bc646ecb64a7,Hades Hire Limited,Member,CW,,,"",,
+83f993e78812fde6a130af62152d105b,Sia Abrasives GB Ltd,Supplier,HX,Abrasives,,23910,False,True
+841c975593c03b05401cd8b6f520e8d4,Henry Squire & Sons Ltd,Supplier,WV,Maintenance,,25720,False,True
+847867ecb5a09748e3876a22f137734f,Toolden Limited,Member,AB,Power Tool Specialist,Power Tools Specialist,47990,False,True
+8488b38c350bc32a52294ec6afc4b098,Motion Components Ltd,Member,IP,,,"",,
+84d766f171c212584d8d3fdf1f1fd974,Metabo UK Ltd,Supplier,SO,Power Tools,,46520,False,True
+84daa3638f4f1179a4d381367136d079,Guildford Tool Supplies Ltd,Member,GU,,,"",False,False
+84e0954007d41e984ccae861a1229493,Forward Industrial Products Group Ltd,Member,B,Fixings & Fasteners Specialist,Engineering,46900,True,False
+850110cc5147f516e5f4bdf75b24182b,Propeller GB Ltd,Member,NE,,,"",False,False
+850b10d6d17cbc1bc29947cce7d28e2c,The Hire Supply Company UK Ltd,Supplier,NG,Maintenance,,47990,False,True
+8510675c23573690efa300189e152774,S&S Home Supplies Ltd,Supplier,NW,Hand Tools,,"",False,True
+854edeec35d230ad675b38ca81643804,Metex Online Ltd,Supplier,SN,Hand Tools,,"",False,True
+8584edde90265ab3ff47fe1346efa1ba,UK Test Instruments Ltd,Supplier,NR,Maintenance,,"",False,True
+858611dc39597c6b0d3fed24caacebaf,KSP Tooling Ltd,Member,DN,Traders Generalist,Engineering Supplies - Cutting Tools,33190,True,True
+85c05880b42e567a4523efa76f0a27bf,MATO Industries Ltd t/a Lumatic Lub,Supplier,TN,Maintenance,,32990,False,True
+85cfc4d9c233461d3cdeb4884f71ee4c,Colbrook Supplies Direct Ltd,Member,ML,PPE Specialist,,46750,True,True
+85ed68627402002c8dd5d36d47173621,Desoutter UK Sales Ltd -CP,Supplier,HP,Power Tools,,2912,False,True
+860d93b3161e3914d7f98cc2d0199ce9,Dalton Safety Ltd,Supplier,HP,Hand Tools,,"",False,True
+86202eecbad9f7a2496f4a8945273c58,Tente Castors Ltd,Supplier,PE,Maintenance,,"",False,True
+864447e8f68b616b20eb9aaf6f589216,Tool Connection Ltd,Supplier,CV,Hand Tools,,46900,False,True
+8680bda53dc96cb900d017f2c950f4c8,Wonder Grip UK Ltd,Supplier,SK,PPE,,46900,False,True
+86bd0d297149f3de778f76f693017965,Engineering Tool Sup Ltd,Member,BD,,,"",False,False
+86cf02f2a53c3dae49523637891de036,Hyde Park Environmental Ltd,Supplier,BT,Spill Control,,"",False,True
+870aa3cf930cdfff54b76b05c6306045,Philex Electronics Ltd,Supplier,MK,Electrical Supplies,,"",False,True
+877b291b76802f3d3eb838a2ac939720,S J Andrew & Sons Ltd,Member,TR,Traders Generalist,Engineering,"",True,True
+87be928a237e575fefcfa9c9bd3f7e4c,Castle Clothing Ltd,Supplier,IP,PPE,,46420,False,True
+87cfee379480908f0b90a4b3b01ed878,LSK Supplies Ltd,Member,G,Builders Merchant,,47520,False,True
+87cfee379480908f0b90a4b3b01ed878,LSK Supplies Ltd (Ayr),Member,KA,Builders Merchant,,"",False,True
+87cfee379480908f0b90a4b3b01ed878,LSK Supplies Ltd (Hamilton),Member,ML,Builders Merchant,,"",False,True
+87cfee379480908f0b90a4b3b01ed878,LSK Supplies Ltd (Paisley),Member,PA,Builders Merchant,,"",False,True
+881a7900ec93b7636629f92371862aa2,Osborn-Unipol UK Ltd,Supplier,NP,Maintenance,,23910|32910,False,True
+886c4eeb00f04dab75f50b097bf29766,FIX AND WELD LTD,Member,GL,,,"",,
+88a34952010259e8d9a3cf8463fad496,Stearn Electric Co Ltd,Supplier,RG,Electrical Supplies,,46439,False,True
+88d582ff4ed0ac533275b40831e720a6,WARWICK IND SUPPLIES,Member,B,,,"",,
+88eb3afb29ea40b46e0e56e94c368490,Pneumatic Components Ltd -PCL,Supplier,S,Maintenance,,32990,False,True
+8903b51e45b060788cf9acbe9f30d683,Monks and Crane Industrial Group Ltd,Member,WS,,,46190,,
+890c4d491f0248e92226ca14fbe065f4,Fuchs Lubricants UK Plc,Supplier,ST,Lubrication,,19209,False,True
+8976391da7bdce41b7ee519118b8e11f,MST Ltd (Tiverton),Member,EX,Traders Generalist,Construction Supplies,"",True,True
+8976391da7bdce41b7ee519118b8e11f,MST Ltd (Ivybridge),Member,PL,,Construction Supplies,"",True,True
+897f2e7a5c050513fe7c9ebd60a90d8f,Hilka Tools UK Ltd,Supplier,KT,Hand Tools,,25730,False,True
+89a4c606190e2870452756a0e1b0484e,Truflame (Welding Equipment) Ltd,Member,S,Industrial Distribution,,46690,False,True
+89b5e46162ea787f64891e2b8bc1a410,Qualtex UK Ltd,Supplier,M,Electrical Supplies,,46499,False,True
+89c5c0204ca455d2b4430f3f0a464bce,ABT Machine Tools & Tooling,Member,G,Cutting Tools Specialist,"Maintenance, Repair and Overhaul",46140,False,True
+89d34980d7e294f74686be6c44835727,Clean Republic UK Ltd,Supplier,EX,Janitorial,,"",False,True
+89f16e237210f5c5291f8ddafee1e149,Toolrunner (Part of ABT),Member,AB,Traders Generalist,,46140,True,True
+89f2632ccf5caf1aef68ea2e5e552d8e,Jennings Engineering Supplies Ltd,Member,CM,Traders Generalist,Engineering,71129,False,True
+8accf9ec1ad51c8e4ce2942851438d93,Fischer Fixings UK Ltd,Supplier,OX,Fasteners,,46730,False,True
+8aef49a98c3328f221d1d33acd3f394e,Eurogrind Manufacturing Ltd,Member,SA,Industrial Distribution,Engineering,28490,True,True
+8af0614901c859d179b24116368286e3,SIX HILLS WELDING SUPPLIES,Member,LE,,,"",,
+8b5864737784a4a9b5c853df7e881efb,Harrisons of Hull Ltd,Supplier,HU,PPE,,"",False,True
+8b67e29bb9c8cea2b925d8fd50def105,Tom Carrington & Co Ltd,Supplier,WS,HSS Cutting Tools,,25730,False,True
+8be862492a10e4d1468640258d674082,Godfreys IT Ltd,Member,NR,Wholesaler,Construction Supplies,47910|47190,True,True
+8bec89f60856c76c5a2af6184c136e45,Engineering Equipment Co (Northern Ireland) Ltd,Member,BT,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46620,True,True
+8c3d2063db838e88502a501d992e9e8b,Industrial Products & Supplies Reading,Member,RG,Industrial Distribution,Engineering,46690,False,True
+8c3d2063db838e88502a501d992e9e8b,Industrial Products & Supplies Bridgewater,Member,TA,,,"",False,False
+8ca9983f6a6ccdd46d0b73724d3850ff,Eurotools Ltd ta Europol,Member,BS,Industrial Distribution,,46690,False,True
+8cbc817f3af55b7114880740b08f9c79,JT Westhorp t/a WES Industrial & Welding Supplies (Witham),Member,CM,Traders Generalist,,"",False,True
+8cbc817f3af55b7114880740b08f9c79,JT Westhorp t/a WES Industrial & Welding Supplies (Barking),Member,IG,Traders Generalist,Construction Supplies,"",True,True
+8cbc817f3af55b7114880740b08f9c79,JT Westhorp t/a WES Industrial & Welding Supplies (Rochester),Member,ME,Traders Generalist,Engineering Supplies - Cutting Tools,"",True,False
+8cd3773c602f99559d7f813d94299653,Macs Builders Merchants Ltd (Peel),Member,IM,Builders Merchant,Construction Supplies,"",True,True
+8cd99edc8d113cc69e5e8e998a35e3af,BPE Holdings Ltd,Supplier,WN,Maintenance,,"",False,True
+8d17dd3f7c75f8030468c422fb4bc507,AHC Tools (Alloa Hire Centre),Member,FK,Hire Company,Construction Supplies,77390,True,True
+8de5f4f3e087398ef645a10da8bd8ae7,Arbortec Forestwear,Supplier,PE,Landscaping & Maintenance,,"",False,True
+8dedb8b5a9ac248f307abecec404cca6,Chain Products Ltd,Supplier,B,Maintenance,,"",False,True
+8e10d17976fe2a9768f1565add548da3,East Midland Saw & Tool Company Ltd,Supplier,NG,"Saws, Circ, Band, Hole",,25730,False,True
+8e6c2209e0fae14758b4ea0508b4a988,Bearing Traders Ltd (Bishop Auckland),Member,DL,,Engineering,"",False,True
+8e6c2209e0fae14758b4ea0508b4a988,Bearing Traders Ltd,Member,HP,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46690,True,True
+8e6c2209e0fae14758b4ea0508b4a988,Bearing Traders Ltd Wrexham,Member,LL,,Engineering Supplies - Cutting Tools,"",True,True
+8e6c2209e0fae14758b4ea0508b4a988,Bearing Traders Ltd (Banbury),Member,OX,,Engineering,"",True,True
+8e6c2209e0fae14758b4ea0508b4a988,Bearing Traders Ltd (Uxbridge),Member,UB,,Engineering,"",True,True
+8ee83d9b9f8e57e128ac3b88206c187d,Zhenjiang Richoice Machinary IMP and EXP Co. Ltd,Supplier,,,,"",False,False
+8f2be1b6cc0543564f25150488964a4e,Diamond Industrial Supply Co Ltd (Falkirk),Member,FK,Wholesaler,,"",False,True
+8f2be1b6cc0543564f25150488964a4e,Diamond Industrial Supply Co Ltd (Perth),Member,PH,Wholesaler,,"",False,True
+8f2ebec70b24b5fbb267b7bf1eabbdd9,Forward Plus Limited,Member,M,,,"",,
+8f45ab15426c2d7aeec7bc03a4d97d54,SANMAC SUPPLIES LTD,Member,AB,,,"",,
+8f5a8cc08c6a8401a3d1b253a98d0629,Burton McCall Ltd,Supplier,LE,Hand Tools,,46900,False,True
+8f6b823958a6110921c54bf8db02bcfa,BTC Activewear,Supplier,WS,PPE,,46410,False,True
+8fbae07929c340c3eac63002d8121278,Siroflex Ltd,Supplier,S,Adhesives & Sealants,,"",False,True
+8fde206f7423f9fcd0210394e84028bd,Lubrication Management Ser Ltd,Supplier,,Lubrication,,"",False,False
+8fecff984968ba97fe910e2ba6ccd058,Thanet Tool Supplies,Member,TN,PPE Specialist,,99999,True,True
+9015e2c74313b9b57c0e2e3b1acc39b6,Yellow & Black Tools Ltd,Supplier,SO,Power Tools,,"",False,True
+9020a1587cae986f7b2f9253c2345b32,Bolle Brands UK Ltd,Supplier,KT,PPE,,"",False,True
+90607d20c68ba38c1c4344a44ecb4b0d,Antifraction Components Ltd Grangem,Supplier,,Maintenance,,"",False,False
+90f87237bd78baadfc420ddcd4d1dc0c,Spectrum Machine Tools Ltd,Supplier,BT,"Saws, Circ, Band, Hole",,46620,False,True
+912789e4eb72253206c3cb2115b0d132,M S Holdings (IOW) Ltd,Member,PO,Industrial Distribution,Engineering,46620|46180,True,True
+912fd508d3f126038512be2957d41e79,Cascade Holdings Ltd,Supplier,OL,Electrical Supplies,,"",False,True
+9163d11ffd6434e7b1dff644b04a31f5,Bison Supplies Ltd,Member,HR,,,"",,
+9190c5782119e0d40f8538dcba891f47,NICK COX ENGINEERS SUPPLIES LTD,Member,SN,,,"",,
+91d18838664353f499f84f3c22b4befa,Atkinson-Walker Saws Ltd,Supplier,S,"Saws, Circ, Band, Hole",,"",False,True
+924ae6a62f270e9280803a737d57d65d,Finecal Group Ltd,Supplier,BS,Adhesives & Sealants,,"",False,True
+9266f936d4ea9a13443e6f16c131f075,Polledri Spa,Supplier,,,,"",False,True
+927d3420db1de4b631940ca79dded60d,Hexstone Ltd t/a Owlett-Jaton,Supplier,ST,Fasteners,,46740,False,True
+927d3420db1de4b631940ca79dded60d,Hexstone Ltd t/a Icon,Supplier,WV,Fasteners,,"",False,True
+928a6cc610c6a4f63fe2a167da8c34e7,Cummins & Jennings Ltd,Member,CM,Traders Generalist,Engineering Supplies - Cutting Tools,82990,True,False
+92a2783773aa1e60db6cdd21fea4045e,Unifleet Ltd,Member,S,Industrial Distribution,Construction Supplies,46900|45320|46420|45310,False,False
+92c03fde4a1c7476431d28b6dd2f55d9,English Chain Co Ltd,Supplier,GU,Maintenance,,25930,False,True
+92cd3a7e0c65146ea0a404494547e63b,THS 2018  Ltd  T/A Troy UK,Supplier,,PPE,,46900,False,False
+92d8234d810daa0a8165a2f04baa932f,Howard Lee - Birmingham,Member,B,Cutting Tools Specialist,Engineering,"",True,True
+92d8234d810daa0a8165a2f04baa932f,Howard Lee - Dudley,Member,DY,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,"",True,True
+92f22ba50a1753843ebed85977da889b,Engineers Mate Ltd (Bromsgrove),Member,B,,"Maintenance, Repair and Overhaul","",True,True
+92f22ba50a1753843ebed85977da889b,Engineers Mate Ltd (Dudley),Member,DY,Facilities Management Specialist,"Maintenance, Repair and Overhaul","",True,True
+92f22ba50a1753843ebed85977da889b,Engineers Mate Ltd (Telford),Member,TF,,"Maintenance, Repair and Overhaul","",True,True
+92f22ba50a1753843ebed85977da889b,Engineers Mate Ltd (Burntwood),Member,WS,Facilities Management Specialist,,"",False,True
+931642128d639106889ff284a85afd60,Jenolite Ltd,Supplier,,Maintenance,,"",False,False
+932e9ed093eeca610948beed93cc45c5,Panasonic Electric Works Europe AG,Supplier,RG,Power Tools,,"",False,True
+933165d8336ffeb52b9e9eb75e8840a1,PTXRecs,Member,EX,,,"",False,False
+937379e68b75e0809d9981cd30181b3f,Alpen UK Ltd,Supplier,WA,Power Tools,,46760,False,True
+9378b06ec5054b75e40e3eba29d6a58e,UVEX Safety UK Ltd,Supplier,GU,PPE,,46900|46420,False,True
+93841d5df146ae2fd11c6595cbca2d71,UPTIME LTD,Member,SO,,,"",,
+93cfb630bd4b52e135f398a4d9094b53,Gedore UK Ltd,Supplier,BD,Hand Tools,,"",False,True
+93cfb630bd4b52e135f398a4d9094b53,Gedore Torque Ltd,Supplier,GU,Hand Tools,,46150,False,True
+93d5af3ec498082e8f85fe9d8c36f72d,THE GENERAL ENGINEERS SUPPLY CO 1937 LTD,Member,E,,,"",,
+944064d71e3da02fc7af6ccfb63a3211,Main Road Tools,Member,RM,Traders Generalist,Construction Supplies,"",True,True
+9462e635859316565542942c102778ce,Rozalex Ltd,Supplier,RH,Janitorial,,"",False,True
+946d4d96de9edbc6cd303e3753a66dd3,Rohm Great Britain Ltd,Supplier,CV,Workholding,,46900,False,True
+94ad148f6b1262b73e76412fffe6fcbd,Matador BV,Supplier,"",Storage and Handling,,"",False,True
+9504455584247f73cd7763048a6705df,MasterFlow Products Ltd,Supplier,DY,Maintenance,,"",False,True
+95095fb01e719fa7aa8b2571d80772ef,LoveDIY Ltd,Member,LN,Traders Generalist,Construction Supplies,"",False,True
+9565969025e884957fbb8834aeb54ab1,Portwest Clothing Ltd -Grahams,Supplier,,PPE,,"",False,False
+9565969025e884957fbb8834aeb54ab1,Portwest Clothing Ltd,Supplier,S,PPE,,46160,False,True
+9592e742910542156c5749913ec102b4,Walmark Ltd,Supplier,SN,Storage and Handling,,47910,False,True
+9687023fded6aef462b118560c53ec68,K Engineering Co West Bromwich Ltd,Supplier,WS,Fasteners,,2862,False,True
+96884c05e9510aa423b01201ddf49c32,SKS Tool Supplies Ltd,Member,RH,Industrial Distribution,Construction Supplies,46190|46900|46620|46140,True,True
+96ce8f4ac5c9d37d8a3d215cac1e1d40,Local Tools Ltd t/a On Site Tools (London),Member,E,Power Tool Specialist,,"",False,True
+96ce8f4ac5c9d37d8a3d215cac1e1d40,Local Tools Ltd t/a On Site Tools (Stanford-Le-Hope),Member,SS,Power Tool Specialist,,"",True,True
+96d49fdf5d3b958c16a9e4188ffd0f7e,Fast Tools Ltd,Member,GL,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46900,True,True
+97049e56f5a6dedd14984fc07e6e0dad,R M Williams (Accrington) Ltd,Member,BB,Traders Generalist,Construction Supplies,47520|46760,True,True
+976819e8742cc04551b07edf98ae3821,Eriks Hose Technology,Supplier,SL,Maintenance,,"",False,True
+976b0938b2fb8bc7cead472cb1d444d2,Cyclomarket Ltd t/a RB Tools&Fixings,Member,NN,Wholesaler,Engineering,"",True,True
+9777ad635c143b55c442607aeb6e5a18,Tools4trade (Milton Keynes),Member,MK,Power Tool Specialist,Construction,"",False,True
+9785a51714cfd2d4d7f5c7e22719a7c4,Draper Tools Ltd,Supplier,SO,Hand Tools,,46620,False,True
+97b09f175dcc1d375717ef871a0a8dfb,A14 Supplies Ltd,Member,NN,,,"",,
+97c35ed51d4373ca2fdcefa7866fea16,EP Barrus Ltd,Supplier,OX,Landscaping & Maintenance,,"",False,True
+980304a4e7e38cb247050526fdb4f2fa,METAL WORK SUPPLIES LTD,Member,HR,,,"",,
+985351958a7d765621ddd7483fe9535f,VOW Europe Ltd,Supplier,S,Maintenance,,"",False,True
+98b39fdd08a768ce97393d707b12082a,IADA Limited,Member,LE,Industrial Distribution,,46140,False,True
+9903856678cd5fef3cc35462c8a7f629,Ladder & Fencing Ind Newent Ltd,Supplier,GL,Maintenance,,"",False,True
+999098b773e850aa9633006a2b3944fb,CJD MAYERS & CO LTD,Member,B,,,"",,
+999ff87504ee98bc6a13ed0c64125ffd,Abus UK Ltd,Supplier,BS,Maintenance,,82990,False,True
+99aad0e7bbfc441b33460400005b7a23,M&E ALARMS (BARNSTAPLE) LTD,Member,EX,,,"",,
+99c7fa3c0c59c255a228bc9d6f03cf71,Butterfield Timber & Safety Supplies,Member,LU,"Construction, Aggregates and Mining",Construction Supplies,"",False,True
+99c9bc5382f99c41dcfdfb4c8f844dcc,NEP Midlands Ltd T/A Six Hills Welding & Bearing Supplies,Member,LE,Industrial Distribution,,"",False,True
+99c9bc5382f99c41dcfdfb4c8f844dcc,NEP Midlands Ltd,Member,NG,Industrial Distribution,Engineering,74909,True,True
+9a0de52f22d954f14d933a90c2b406af,Kernow Oils Ltd,Supplier,TR,Lubrication,,46719,False,True
+9a17f169d0e175839d098e22cb362c62,Franklin Steel Stockholder PLC,Member,CA,"Construction, Aggregates and Mining",,"",False,True
+9a555a7dc0123249ad621f849a36b759,Silvaflame-Cleervue Co Ltd,Supplier,WS,Maintenance,,82990,False,True
+9a6713c950f1e4017c91a93183bfed48,Craigmore Online Ltd,Member,BT,Industrial Distribution,,47789,True,True
+9ab54082573a73ba286c750c2142415b,XXXXXXXX  Tool Shop Direct Ltd,Member,HU,,Construction Supplies,"",True,True
+9ad88d4f96dd8f47103acac6796c105b,James Gibson (Darwen) Ltd,Member,BB,Traders Generalist,Engineering,47520,True,True
+9b184a3e0fbb492033c7e3ce6fd6e437,Smart Tools (UK) Ltd DO NOT USE,Member,CM,Facilities Management Specialist,"Maintenance, Repair and Overhaul",25990,True,True
+9b73847d7d8253809b88d4be3a432700,Dinstock Ltd,Member,TF,Fixings & Fasteners Specialist,Engineering,46900,False,True
+9b8dc9c32291ff6bd55ee98c0ce7b574,Hereford Industrial Supply T/A Ledbury Tools & Fixings,Member,HR,,Construction Supplies,"",True,True
+9bd2174317863c462c04aed4b7f74347,Bideford Tool,Member,EX,Industrial Distribution,,46620,True,True
+9bfdb8848bc71f38e7638379a7698a17,John Parker & Son Ltd,Member,CT,,,"",False,False
+9c008f8d13d487b70616fda8b75e40b7,Polyco Healthline Ltd,Supplier,PE,PPE,,46420,False,True
+9c2192995b329553f82dab19d145008c,Groundflatstock.com Ltd,Supplier,DL,Raw Materials,,25620,False,True
+9c280f93167b1b767a63e1184acde7c8,Stanley Black & Decker UK -Bostitch,Supplier,SL,Power Tools,Power Tools Specialist,74909,False,True
+9c67cbec115cca4eaf101e9a37a5f10e,NLG Global Ltd,Supplier,BH,PPE,,32990,False,True
+9c8f056835311c00f2fd00ae95d8601c,Davis & Moore Ltd,Supplier,M,Janitorial,,46900|32990,False,True
+9cb6fc02351d948a14bd5899617220b7,Edward Pryor & Son Ltd,Supplier,S,Hand Tools,,28990,False,True
+9cda9b2a7b4aefdbea4606078107b488,Frank Howard Tools & Fixings Ltd T/A Site Safety,Member,BH,Traders Generalist,,"",False,True
+9cda9b2a7b4aefdbea4606078107b488,Frank Howard Tools & Fixings Ltd (Bishops Stortford),Member,CM,Traders Generalist,Power Tools Specialist,"",True,True
+9cf9b1f8c6a8bf867701f3d1dca5eaa9,Alphatech International Ltd,Supplier,ST,PPE,,46900,False,True
+9d393202b525928eec8b28d4b5b54dd2,MERCHANTMAGNET LTD   *** ACCOUNT CLOSED ***,Member,HU,,,"",,
+9d515b2c13a2a1a6cb8f17aa42d25715,Meddings Thermalec Ltd,Supplier,PL,Machine Tools,,"",False,True
+9d5569915fa1b6f3a8727439b4d09dbd,Universal Drilling & Cutting Equip,Supplier,S,HSS Cutting Tools,,"",False,True
+9d793508fb42eec74cbcecdd46b958a7,JB Barnes - Nelson,Member,BB,,,"",,
+9db6b58b2da928d090c9e31b1d7c0919,Winchester Garden Machinery T/A Hillier Garden Centre(Liss),Member,GU,Wholesaler,,"",,
+9db6b58b2da928d090c9e31b1d7c0919,Winchester Garden Machinery,Member,SO,Wholesaler,,"",False,True
+9dd5e7c5a02b691fba20fa26335b3f58,Linear Tools Ltd,Supplier,TW,HSS Cutting Tools,,47190,False,True
+9e0adf5e41297883d95378e8add1cc99,C H Fowler & Co Ltd (CLOSED),Member,DA,Traders Generalist,Construction Supplies,"",True,True
+9e2d2f7a989851d18588872f3e2e9481,Nuneaton Hose & Fittings Ltd,Member,CV,Facilities Management Specialist,"Maintenance, Repair and Overhaul",29320|46900,True,True
+9e5f662d05030c13815a0c0db0c359a4,Knight Tools Ltd,Supplier,,Hand Tools,,"",False,False
+9e94879bb788768a28d38641df9ca7c5,Bryan Birchall Supplies,Member,LE,Cutting Tools Specialist,Construction Supplies,"",True,False
+9eb229069fb6cf2f5442a10e567bc7e2,Bryson Tractors - Ayrshire,Member,KA,Agricultural Specialist,,"",False,True
+9eb229069fb6cf2f5442a10e567bc7e2,Bryson Tractors Ltd,Member,ML,Agricultural Specialist,"Maintenance, Repair and Overhaul",33120|33190,True,True
+9eb407bd5629c1f3729201c8a4badb95,Fisher & Banks Ltd,Member,TF,,,"",False,False
+9eb607afb5251908e4085b3fdf75614a,Premier Diamond Products Ltd,Supplier,CT,"Saws, Circ, Band, Hole",,28290,False,True
+9f4a3e7a658b2af156905bc8de47cfd0,Toucan Tool Co Ltd,Member,E,Traders Generalist,Power Tools Specialist,46620,True,True
+9f96567dc5f4b11e7f2265feed2e3d7c,Dormer Pramet Ltd,Supplier,S,HSS Cutting Tools,,32990,False,True
+9f9b51aae9991d680a0df845929919ad,Gibb & Beveridge T/A Engineering Agencies Ltd,Member,KY,Industrial Distribution,,47520,True,True
+9fbeccee9d0982d1cee9b26cecd82ca0,Fedex Express UK Transportation Ltd,Supplier,BL,Business Services,,49410,False,True
+9ff38660461f9f01f164bfc8e98d21c3,VECTOR SUPPLIES LTD,Member,AB,,,"",,
+9ff8b7da375a536c7ea0283e01546720,OX Product Group UK Ltd,Supplier,SE,Hand Tools,,46900,False,True
+a03552bcea26babe7902a5e148902456,Uni-Thread Ltd,Supplier,TQ,Fasteners,,47910,False,True
+a04ef6ba4245d6fad7c6819aa9e29a57,J & M Belts Ltd Latchingdon,Member,CM,,Construction Supplies,"",True,True
+a04ef6ba4245d6fad7c6819aa9e29a57,J & M Belts Ltd,Member,RM,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46140,True,True
+a06bb4cc93f03970f602eac44ff38909,Unit Export Ltd,Member,SS,Traders Generalist,Engineering,"",False,True
+a0b88704377a06610031ac5b5e11463d,TG ENERGY SERVICES LTD,Member,AB,,,"",,
+a0cb7fadc5df851493fc1cac6551239f,Scott Direct Ltd Peterhead,Member,AB,,,"",True,True
+a0cb7fadc5df851493fc1cac6551239f,Scott Direct Ltd,Member,FK,Industrial Distribution,Engineering Supplies - Cutting Tools,46900,True,True
+a0cb7fadc5df851493fc1cac6551239f,Scott Direct Ltd Lerwick,Member,ZE,,,"",True,True
+a0f6024213e42430c9bdefefa597f3cd,Parcelforce Worldwide,Supplier,EC,Business Services,,"",False,False
+a108c04052c5d9b991fda735ec8a485e,LONGFORD GROUP T/A CASTLE TAPES & IND SOL.,Member,NG,,,"",,
+a10eccd74fdbbb96abd99e1270475cd9,Tranemo Advanced Workwear,Supplier,NE,PPE,,46420,False,True
+a16235400e05c64b14dbf6f005ea0e8c,TBF Industrial Ltd Brassington,Member,DE,,Construction Supplies,"",True,True
+a16235400e05c64b14dbf6f005ea0e8c,TBF Industrial Ltd,Member,S,Traders Generalist,Construction Supplies,46180,True,True
+a180dfd73996a99dfcda3a3f8310c6c1,Genpower Ltd,Supplier,SA,Power Tools,,"",False,True
+a197db7e4aada8ba59aadad7fcae1580,European Cleveland Ltd,Supplier,DY,HSS Cutting Tools,,"",False,True
+a1baed9f9954df9fd87ddbb96331637f,Hyjo Limited,Member,N,Agricultural Specialist,,"",False,True
+a1c48f809500b3a6204e88845f55d6a7,Exol Lubricants Ltd,Supplier,WS,Lubrication,,19209,False,True
+a1c5b94ef15466326ffc3c25b24b5191,Bradford Bolt & Nut Co Ltd (BBN Fastnet),Member,BD,Wholesaler,Engineering,47520,True,True
+a1c5b94ef15466326ffc3c25b24b5191,Bradford Bolt & Nut Co Ltd (BBN Fastnet) Sutcliff,Member,HX,,Engineering,"",True,True
+a1c5b94ef15466326ffc3c25b24b5191,Bradford Bolt & Nut Co Ltd (BBN Fastnet) Oldham,Member,OL,,Engineering,"",True,True
+a1e13a9329510b9ec3dfce16abb6e821,FLEX Power Tools Ltd,Supplier,HP,Power Tools,,46620,False,True
+a1ed2aff0252be8de318885fd61c7964,AUT Wheels & Castors Co Ltd,Supplier,OL,Maintenance,,46900,False,True
+a207eb913f4204af62121c5c3399ee29,Scangrip,Supplier,DK,Maintenance,,"",False,True
+a299574a9fa56eb545a32e71de080f2a,Marine Industrial LLP,Member,NR,Facilities Management Specialist,Construction Supplies,"",False,True
+a29e3d585cce6f20c9dd7eb26ff9c42c,Jewel Fire Group Ltd,Supplier,S,Maintenance,,"",False,False
+a3143f82aa6555fdfa14d52b2b84c757,KAREN KLEEN,Supplier,EX,Business Services,,"",False,False
+a31bd26722609d71c5d2771851ac127c,Nuvik UK Ltd,Supplier,AS,Janitorial,,82990,False,True
+a330277a92c672ca4e91b0cb34efa206,Ledlenser UK Ltd,Supplier,SL,Electrical Supplies,,46439,False,True
+a355b09074372719d0bd0cbec67a8551,Redashe Ltd,Supplier,GU,Maintenance,,46190,False,True
+a38767093be9840faa8c4fc6d2a577f6,Parker Merchanting,Supplier,EN,Electrical Supplies,,"",False,False
+a43dbbc058a0d5b0099ea241d49e3b0a,LMB Supplies Ltd,Supplier,E,Janitorial,,38320,False,True
+a46bb7724d951f62241b4fd8d359636f,Wack Wholesale (Building Supplies) Ltd,Member,NE,Builders Merchant,Construction Supplies,46740|46730,True,True
+a48fafb21f72e152770ee766c2493060,Power Probe Group Ltd,Supplier,EC,Electrical Supplies,,"",False,True
+a4a8d25c039672ef28f1a7b9aa2c541f,SAIT Abrasives UK Ltd,Supplier,LE,Abrasives,,23910,False,True
+a4c719681db7599ef5c5e46dbf8ecd2f,Brentwood Communications Limited,Member,CM,,,"",False,True
+a4dda9d58f727a009f582a3cd63b5209,Highland Fasteners Ltd,Member,PA,Traders Generalist,Power Tools Specialist,47520,True,True
+a4ff0cd8a0cb0633ddc0bdc29fb25fc3,Wearwell UK Ltd,Supplier,B,PPE,,"",False,True
+a50342c67ab94395039f013015d6ac6f,TOOLMASTER,Member,OX,,,"",,
+a5144b1b2e93949a438caf021c7bb488,Allcap Ltd,Member,GL,Industrial Distribution,Engineering Supplies - Cutting Tools,46740,True,True
+a5144b1b2e93949a438caf021c7bb488,Allcap Ltd Swindon,Member,SN,Industrial Distribution,,"",True,True
+a5144b1b2e93949a438caf021c7bb488,Allcap Worcester Ltd,Member,WR,Industrial Distribution,,"",True,True
+a541fda67ccb5e6cb8302e8b0eaf54c0,Evolution Power Tools Ltd,Supplier,S,Power Tools,,46620,False,True
+a54593cf8f23be0022c8308584538f41,Craig International Ltd,Member,AB,Facilities Management Specialist,"Maintenance, Repair and Overhaul",82990,False,True
+a55db09e3fbdf3e2ee97243a9141152d,Elcocks Ltd Goole,Member,DN,,,"",False,False
+a55db09e3fbdf3e2ee97243a9141152d,Elcocks Ltd,Member,YO,Wholesaler,Construction Supplies,77320|46499|33190,True,True
+a57ad5d74856dd301089027751d8016c,De-Sta-Co Industries,Supplier,WV,Workholding,,"",False,True
+a580ca4acd10fc9c480a85f5b570d6ec,Online Power Tools Ltd,Member,BA,,,"",False,False
+a59499989574a3c6580de3d55f0d4c77,Future Garments Ltd,Supplier,B,PPE,,46420|14120|47990,False,True
+a5a25c8257fd820efc7b2ec95f2eb695,Harrison Hire & Sales(Hull),Member,HU,Industrial Distribution,,"",False,True
+a5a25c8257fd820efc7b2ec95f2eb695,Harrison Hire & Sales(Leeds),Member,LS,Industrial Distribution,,"",False,True
+a5a25c8257fd820efc7b2ec95f2eb695,Harrison Hire & Sales T/A Campbells Garden Machinery,Member,YO,Industrial Distribution,,"",False,True
+a5d3b644a20573bd64753fdfeeb9459f,Certas Energy UK Ltd -EMO Oil,Supplier,WA,Lubrication,,46719,False,True
+a5defd4ddb6b28a470b1901a338c33d6,Rollins & Son London Ltd,Supplier,CM,Hand Tools,,46740,False,True
+a61f7f1219438e5e55a3d937d7a16711,Millhill Tools Ltd,Member,OX,,,"",False,False
+a665ec5978f2086bac82025b06ce657a,Charles Bentley & Son Ltd,Supplier,LE,Janitorial,,46499,False,True
+a6adfb149d57af4d7d01d1334e69ba0f,Acle Garden Machinery,Member,NR,Agricultural Specialist,,47910|46610|47990,False,True
+a6b0338b4c41164b718f65d908f983a5,Fixings & Powertool Center Limited,Member,RH,Traders Generalist,Power Tools Specialist,96090,True,True
+a6c170eec7dc2b43bec58ceeb7c34361,DS Safetywear GmbH,Supplier,D,PPE,PPE Specialist,"",False,True
+a6c62a6d4c059ebbe00862f795f9bb55,C G Fixings Ltd,Member,DL,Power Tool Specialist,Power Tools Specialist,46900,True,True
+a71052613deda8d04826b2570f7a86e3,Footsure Western Ltd,Supplier,GL,PPE,,46420,False,True
+a783bf84fa79f4bd5abd2fef443cf997,Evans Transport Ltd,Supplier,EX,Business Services,,"",False,True
+a7c5326c265066c8598662d99d1f2bf4,Skipper TM Ltd,Supplier,WA,Maintenance,,"",False,True
+a809e1d92600456139fb9f18db52b386,Till & Whitehead Ltd,Member,BL,Traders Generalist,Construction Supplies,46740,True,True
+a809e1d92600456139fb9f18db52b386,"TILL & WHITEHEAD LTD T/A UK FASTENERS, CHELTENHAM",Member,GL,,Construction Supplies,"",True,True
+a809e1d92600456139fb9f18db52b386,"TILL & WHITEHEAD LTD, MANCHESTER",Member,M,,,"",,
+a809e1d92600456139fb9f18db52b386,"TILL & WHITEHEAD LTD, YORK",Member,YO,,,"",,
+a8463282c13568f9ddacda438f1241b5,Parkins Industrial Suppliers a Division of MST Ltd DO NOT USE,Member,EX,,Construction Supplies,"",False,False
+a86b88c6238a6be4ab45d44ee06573bf,Allied International Trading Ltd,Supplier,B,PPE,,86900|46420,False,True
+a88cc2bf7ba7a3318820b212953dfbaf,Mitutoyo UK Ltd -Spares & Repairs,Supplier,,Power Tools,,"",False,False
+a88cc2bf7ba7a3318820b212953dfbaf,Mitutoyo UK Ltd,Supplier,SP,Metrology,,28990,False,True
+a8c3f8ab2db24c132fd04b3a36951c17,Barnes JB,Supplier,,,,"",,
+a8c3f8ab2db24c132fd04b3a36951c17,Barnes JB - Burnley,Member,BB,Wholesaler,Construction Supplies,"",True,True
+a8c4d71cc3e3027745f82c7f4e5c28bc,East Engineering Components Ltd,Member,MK,Industrial Distribution,,"",False,True
+a8eab68a5ad6bf22ec76f481e906aee8,"ALTON BOLT & TOOL CO LTD.,",Member,GU,,,"",,
+a8ee81915866dc2d6d65f8d5e1444215,ASHCROFT ENGINEERS MERCHANTS LTD,Member,PR,,,"",,
+a99a8f152362455c995f4479808c8c76,T & A Precision Grinding Co Ltd,Supplier,S,Raw Materials,,25990,False,True
+a9afca7b81029cd5e326a65f60c92af6,Godiva Bearings Southern Ltd,Supplier,TW,Maintenance,,46900,False,True
+a9b9c0d7a74b58c61f3c55556c4f9162,JBS Group SI (Monaghan) Milltown,Member,H,PPE Specialist,"Maintenance, Repair and Overhaul",70229|62012|58290,False,True
+a9f177ed5c94be7f9d111d30665a8733,ORN International Ltd,Supplier,MK,PPE,PPE Specialist,"",False,True
+aa3c0bc9a5eb51c5e12c2efa8af77e2c,UPS Ltd,Supplier,TW,Business Services,,53202,False,False
+aa44a98871db6d5d92dd9d9b19a0fab7,Traffi Safe Ltd,Supplier,GU,PPE,,46140,False,True
+ab14c69926e4cd5a86505df7182a0c5d,Miller Tools Ltd,Member,SA,,,46620,False,False
+ab5e9c3eade39bab43ca925869a30c03,C TEC South West Ltd,Supplier,EX,Adhesives & Sealants,,"",False,True
+ab7256fcd7b24fb3f787e0d3ebb2311d,Cottam Brush Ltd,Supplier,NE,Janitorial,,32910,False,True
+aba8d827d6219a3565bb54c97b4d2813,RS Industrial Services (North East) Ltd - Tyne and Wear,Member,NE,Builders Merchant,PPE Specialist,"",True,True
+aba8d827d6219a3565bb54c97b4d2813,RS Industrial Services (North East) Ltd - Billingham,Member,TS,Builders Merchant,"Maintenance, Repair and Overhaul",71121,True,True
+abb24f907d86ad74c0f06a46e7254017,Yarmouth Stores Ltd Kirkland House,Member,NR,PPE Specialist,PPE Specialist,47910|47710|46420|14120,True,True
+abe686c524b25472985b8d15b4c795c9,Tygris Ltd,Supplier,KA,Lubrication,,46750,False,True
+ac23449258859616d2867c84041ccc5c,Steel Seal Ltd t/a Auto Brands,Supplier,B,Adhesives & Sealants,,45320,False,True
+accf19dfc842b41d04453c832b7ff76e,T C Fixings Ltd,Member,CB,Fixings & Fasteners Specialist,Construction Supplies,47789,True,True
+ad4b9132c98f6fc5738de86358b4df09,Thame Engineering Co Ltd,Supplier,HP,Workholding,,25730,False,True
+ad73560c0c512ebbcd19b93862438f79,City Bearings & Transmission Ltd,Member,DE,Industrial Distribution,"Maintenance, Repair and Overhaul",46900,True,True
+adb3067eaeded5af00aaedb287f62fd9,Bell Tools - Bedminster,Member,BS,Industrial Distribution,Power Tools Specialist,47520,True,True
+adb3067eaeded5af00aaedb287f62fd9,Bell Tools - Bedminster,Supplier,BS,,,"",True,True
+adb3067eaeded5af00aaedb287f62fd9,Bell Tools (Eastern Avenue),Member,GL,Power Tool Specialist,Power Tools Specialist,47520,True,True
+add36b5cfdfdd329428cbad0b3ad31f9,Alca Tools Ltd,Member,CT,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46900,True,True
+add36b5cfdfdd329428cbad0b3ad31f9,Alca Tools,Supplier,CT,,,46900,True,True
+adfa3a121b5646e08c4845a42bf82ffc,Cascadic Limited,Member,EX,PPE Specialist,,47910,False,True
+ae349fb82ac5d3f05b70f3ea778f90b5,Kirklands - Equipment Supply Ltd,Member,NR,,PPE Specialist,"",True,False
+ae80dd3596bcfe1567ccf77635e1f9e6,Castle Brooke Tools UK Ltd,Supplier,S,HSS Cutting Tools,,46760,False,True
+aec1a9f7de94057c6a622106719b4438,Fengate Fasteners Ltd,Member,IP,Fixings & Fasteners Specialist,Construction Supplies,46760,True,True
+aecd3e6a98be61411ffbea7017cf19c4,Insulated Tools Ltd,Supplier,RH,Hand Tools,,"",False,True
+aed663e41b722e4a7bf7229d8a183c06,Zeus Packaging NI Ltd,Supplier,BT,Storage and Handling,,46190,False,True
+aed663e41b722e4a7bf7229d8a183c06,Zeus Packaging Group,Supplier,SG,Storage and Handling,"Maintenance, Repair and Overhaul",46190,False,True
+aeed1345457b8b865f89c35e3af1b048,Hereford Ind Supply Co Ltd,Member,HR,Traders Generalist,Engineering,46900,True,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Aston,Member,B,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Bristol,Member,BS,Fixings & Fasteners Specialist,Construction Supplies,"",True,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Crayford,Member,DA,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Burton,Member,DE,Fixings & Fasteners Specialist,Construction Supplies,"",True,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd (Exeter),Member,EX,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Glasgow,Member,G,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Guildford,Member,GU,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd (Liverpool),Member,L,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Leeds,Member,LS,Fixings & Fasteners Specialist,Construction Supplies,"",True,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Dunstaple,Member,LU,Fixings & Fasteners Specialist,Engineering Supplies - Cutting Tools,"",True,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd (Nottingham),Member,NG,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Northampton,Member,NN,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd,Member,SK,Fixings & Fasteners Specialist,Construction Supplies,46740,True,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Eastleigh,Member,SO,Fixings & Fasteners Specialist,,"",False,True
+af84408080952b17881e2428d9a831d6,Tool & Fastener Solutions Ltd Wandsworth,Member,SW,Fixings & Fasteners Specialist,,"",False,True
+af942a27b8ce44579b17fbbf409a7b12,Trecarn Engineering Ltd,Member,DE,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46900|32990,False,True
+afde6d444c52429c01c7c23970a1f61b,MARINESERV UK LTD,Member,NR,,,"",,
+afe07bc7fd1ab634c183d2756b83cf0f,Qualitec Tools,Supplier,AB,Hand Tools,,"",False,True
+b0555001605fcd347f5bd908bbe4a18f,Garton Ltd t/a Smith Bullough,Supplier,WN,Hand Tools,,25940,False,True
+b0a826360983d9852d49ccb36636de5c,Danline International Ltd,Supplier,LL,Janitorial,,28990,False,True
+b0d6dc90c5ae6c57805e3d7c9d11115d,Universal PPE Ltd,Supplier,B,PPE,,46420|14120|47990,False,True
+b11134eab5e5135fc4310cc8250832de,Resource Engineering Supplies Ltd,Member,PE,Industrial Distribution,Engineering,46140,True,True
+b13bc46bd993d8960cb92d4cf5f460a8,Selden Research Ltd,Supplier,SK,Janitorial,,20411|20590,False,True
+b15a0809ff1427b9953b324faf15c87c,Elsons LTD,Member,AL,Builders Merchant,,38210,True,True
+b1766eea44ec6aac7405e5d8e80989d9,Olympia Tools UK Ltd,Supplier,RG,Hand Tools,,46740,False,True
+b1827b3f3155419a1bf4ba6efc4c71c7,Just Office Ltd,Supplier,EX,Stationary & Office Supplies,,46900,False,True
+b18ca0398d250dff36ad1731f1b75fff,Advent Tools Ltd,Supplier,B,Hand Tools,,46180,False,True
+b19039f48533a40e85e2f63d68c1a022,Qingdao Super Star Tools Co,Supplier,,,,"",False,False
+b1bb373d65eac0b67e204526ddad2b4c,Excel Machine Tools Ltd,Supplier,CV,Machine Tools,,28490,False,True
+b1be075d70ed729e23a9d4e66f78ea9b,Pablon Tools Ltd (Harlow),Member,CM,Industrial Distribution,Construction Supplies,"",True,True
+b1be075d70ed729e23a9d4e66f78ea9b,Pablon Tools Ltd (Buckhurst),Member,IG,,Construction,"",True,True
+b1ef0f167e6781a681723a9d569482a6,Bunzl UK Ltd t/a Bunzl McLaughlin,Supplier,BT,Janitorial,,46900,False,True
+b1ef0f167e6781a681723a9d569482a6,Bunzl UK Ltd,Supplier,SL,Janitorial,,46900,False,True
+b1fd28f5c686a3cefb1c9a824acbe991,A Lafont Ltd,Supplier,WA,PPE,,"",False,True
+b20b4901e730e59c2601391cead0f8ca,Cooks of Bedford,Member,MK,Industrial Distribution,Engineering Supplies - Cutting Tools,46900,True,True
+b258db4c41e5dc183e1d80a24872ea1f,Flint Hire & Supply Ltd,Member,DA,Facilities Management Specialist,Construction Supplies,96090,True,True
+b285508d6d298de065bb3b838e522811,ECA Supplies Ltd (Birmingham),Member,B,Wholesaler,Construction Supplies,"",True,True
+b285508d6d298de065bb3b838e522811,ECA Supplies Ltd (Coventry),Member,CV,Wholesaler,Construction Supplies,46740,True,True
+b285508d6d298de065bb3b838e522811,ECA Supplies Ltd (Leics),Member,LE,,Construction Supplies,"",True,True
+b285508d6d298de065bb3b838e522811,ECA Supplies Ltd (Notts),Member,NG,,Construction Supplies,"",True,True
+b285508d6d298de065bb3b838e522811,ECA Supplies Ltd (Staffs),Member,ST,,Construction Supplies,"",True,True
+b2f6730809cd256aedb005e09c8be8ac,SPAX UK Ltd,Supplier,WV,Fasteners,,46900,False,True
+b36f068b3c1170140489f76447ff2bc3,Staples Disposables Ltd,Supplier,,Janitorial,,17219,False,False
+b37ea04ee727b16c46f68b2a427d79d0,Kirklands Ltd,Member,NR,PPE Specialist,PPE Specialist,47990,True,True
+b3947cd26e80033c8438cf4c96877183,Status International (IUK) Ltd,Supplier,BD,,,"",False,False
+b416c32fa2a936f26aab0e3386040fe5,Rhenus Logistics Ltd,Supplier,BD,Business Services,,"",False,True
+b429882d4e6624c2f3cd51f7e54d6bb6,CDF Supplies Ltd,Member,PR,,,"",False,False
+b46ca625521eefbff68cf11385c1114e,DNOW,Member,AB,,,"",,
+b46ca625521eefbff68cf11385c1114e,DNOW UK Ltd t/a OAASIS,Member,NR,,,"",False,False
+b4cb2bf6b57e346a6369c2f0c7a10dd6,All Car Parts Ltd,Member,ME,Automotive Specialist,,"",False,True
+b52a071f25b96ac715006362354c29cf,Carpenter & Paterson Ltd,Member,SY,,,"",,
+b531de595865a075ee8e27091e66cc7b,Ideabright Ltd,Member,SW,,,"",False,False
+b559e635ed0ad8a0aec169ccba384429,Techtronic Industries UK t/a TTI UK,Supplier,SL,Power Tools,,46690,False,True
+b5756a436741499eead223f9e3f8f0f2,Lindrick Construction Services Ltd,Member,S,,,"",False,False
+b588bd6b0d950738935a05b9117edbb6,Bearing Sales and Purchase Ltd,Member,DL,Industrial Distribution,,82990,False,True
+b5c2fd9fde2deaaccc61e5c45dc36f92,Signet Industrial Distribution Ltd (Doncaster),Member,DN,Industrial Distribution,,"",False,True
+b5c7e4b7b03df530f45252f35460bc3f,Still Tools Ltd,Member,EH,Traders Generalist,,28490,True,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd Poole,Member,BH,,Engineering Supplies - Cutting Tools,"",True,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd Hailsham,Member,BN,,Engineering Supplies - Cutting Tools,"",True,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd Nuneaton,Member,CV,Cutting Tools Specialist,,"",False,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd Weymouth,Member,DT,Cutting Tools Specialist,,"",False,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd High Wycombe,Member,HP,,Engineering Supplies - Cutting Tools,"",True,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd,Member,MK,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,96090,True,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd Norwich,Member,NR,,Engineering Supplies - Cutting Tools,"",True,True
+b5d41577b12b560df26cb7efa4cd2946,Carillon Ind Services Ltd Portsmouth,Member,PO,,Engineering Supplies - Cutting Tools,"",True,True
+b5f0a552ab835dbe4a098e51066b171c,Mercury Bearings Ltd,Member,SG,,,"",,
+b6558c01b2550af0c8ac9c4af3f39286,Spectre (Terrier Tools Limited ),Member,LL,,,"",,
+b682e4229a36a0236efd865b76f0bc30,Terrier Tools Limited,Member,LL,Industrial Distribution,,47190|33140,False,True
+b6cb863b0d48e16e6f303df2f0af0075,Haigh Trading (UK) Ltd T/A White Rose Tools,Member,S,Traders Generalist,,"",False,True
+b6d0e936702b300f1ddb0b4feab469dc,Clarik Limited,Member,KY,Industrial Distribution,,"",False,True
+b6fb3e4ae2bec063a30fd1de04fde2f4,Advanced Tooling Technology,Supplier,S,Machine Tools,,"",False,False
+b71e7cf26ea589e6750616840d858755,Reliable Source Ltd,Supplier,BR,Adhesives & Sealants,,46900,False,True
+b798f49f655e7e420afaf9d6b5295671,Consolidated Industrial Supplies Ltd,Member,CF,,,"",False,False
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Wells),Member,BA,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Bournemouth),Member,BH,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Bury),Member,BL,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Paulton),Member,BS,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Weymouth),Member,DT,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Barnstaple),Member,EX,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Tetbury),Member,GL,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Hereford),Member,HR,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Monmouth),Member,NP,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Camelford),Member,PL,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Bosch/Toolbank),Member,TA,Hire Company,Construction Supplies,77320,True,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Newton Abbot),Member,TQ,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Truro),Member,TR,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (London West),Member,TW,Hire Company,,77320,False,True
+b7a05b9a67e43a8c8573ff0ad24260e1,Wessex Eagle Ltd T/A Eagle Plant (Birmingham),Member,WV,Hire Company,,77320,False,True
+b7aad1615315edc4d464e99664d60e0c,JDS Products Ltd,Supplier,PR,Janitorial,,"",False,True
+b7cf7e1ba70d78128a6296ff0563862f,Rotary Bearings Ind Ltd,Member,BT,Facilities Management Specialist,"Maintenance, Repair and Overhaul",47190,True,True
+b83a7dfd9d7eab191e2805d9dad773dc,Spaldings Limited,Member,LN,Agricultural Specialist,,01610,False,True
+b85145b6f20f29fa674f5a9ae6a98757,Jaymac,Member,DE,Industrial Distribution,Construction Supplies,43210,True,True
+b85145b6f20f29fa674f5a9ae6a98757,Jaymac,Supplier,DE,,,43210,True,True
+b859f8bb07eaaf7c5ad7f993e82d8e1b,ITS Tools IOW Limited,Member,PO,Traders Generalist,Power Tools Specialist,33120,True,True
+b8697d5e1d45cc2fef1d5f135d734127,Technicut Ltd,Member,S,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,25730,True,True
+b872c890a1124392da885ffd3595e88b,Troy uk Ltd,Member,EX,,,46900,False,True
+b872c890a1124392da885ffd3595e88b,TROY UK LTD,Supplier,EX,,,46900,False,True
+b872c890a1124392da885ffd3595e88b,TROY UK T/A THS,Member,S,,,"",,
+b873ba0874c94934d98f00ad3e5f5ec1,Caledonia Signs Ltd,Supplier,KY,Maintenance,,18129,False,True
+b873cc73b91d9cb467c412c2778fe877,Electro Group Ltd t/a EGL Tools com,Supplier,S,Hand Tools,,46900,False,True
+b87fe5701a635dd848d6682126989bb5,CRC Industries UK Ltd,Supplier,TA,Lubrication,,32990,False,True
+b89274ac488ba18426dc6a8d349686e3,CASH SALES ACCOUNT  TROJAN ++++,Member,"",,,"",,
+b89a86e3b320b2e9df3f40f9650b0098,Hellmann Worldwide Log Ltd,Supplier,WS,Business Services,,"",False,False
+b8b66623dbe4cf17520078e97d5fe6fa,Rivtex Limited,Member,CH,Fixings & Fasteners Specialist,Engineering,46620,True,True
+b8eb16a88504914f893f0e150dd58826,Rapid Engineering NE Ltd,Member,NE,Industrial Distribution,Automotive,71129|47990,False,True
+b8fb9f361585427b6942f6a5086a896b,John Astley & Sons Ltd,Member,CV,Janitorial Specialist,Construction Supplies,46900,True,True
+b8fb9f361585427b6942f6a5086a896b,John Astley & Sons Ltd.,Supplier,CV,PPE,,46900,True,True
+b913cc67c0738ef4fcfb180190cc6a06,Maurice Ward Co Ltd,Supplier,TW,,,"",False,True
+b95d137d805ca2699f9518e1fb5100f3,Tucks OBrien Ltd-Toolbank Ireland,Supplier,D,Hand Tools,,74990,False,False
+b960882435a9e6b616df46d7afe8bb4d,The Leicester Bearing Co Ltd,Member,LE,Fixings & Fasteners Specialist,"Maintenance, Repair and Overhaul",46900,True,True
+b960882435a9e6b616df46d7afe8bb4d,The Leicester Bearings Company Ltd,Supplier,LE,Maintenance,,"",False,True
+b9ceed0ac32a2fbbe9fe9af027aff46b,Metalwork Supplies Ltd,Member,HR,Traders Generalist,Construction Supplies,47520,True,True
+ba10f9e7e5ba6e2a566dce22b0dbffb6,Robert Bosch Ltd,Supplier,UB,Power Tools,,27900,False,True
+ba13b89fc9bd43cb3fdad04247e79424,Dachser Ltd,Supplier,NN,Business Services,,52103|49410,False,True
+ba32e24b9a2a10d9651894a1f577eaa5,Dagar Tools Ltd (Lye),Member,DY,Industrial Distribution,Engineering,46900,True,False
+ba32e24b9a2a10d9651894a1f577eaa5,Dagar Tools Ltd (Telford),Member,TF,,Engineering,"",True,False
+ba3e1e1d6b98e70b91f2fdc0d3eb6a46,Pitreavie Packaging Ltd (Aberdeen),Member,AB,,,"",False,True
+ba3e1e1d6b98e70b91f2fdc0d3eb6a46,Pitreavie Packaging Ltd (Deerdykes),Member,G,Traders Generalist,,"",False,True
+ba5029e3390cfccad1f4bb1b7feb2715,Welland Supplies Ltd,Member,PE,Industrial Distribution,"Maintenance, Repair and Overhaul",46760,False,True
+ba5544ac1e48a31dd7866ecd46c0b160,MOL Tools & Abrasives Ltd,Member,BT,Wholesaler,,77390,False,True
+ba5544ac1e48a31dd7866ecd46c0b160,MOL Tools & Abrasives Ltd.,Supplier,BT,,,77390,False,True
+bac12112faee84c4bc108d06f0c1d91a,Richard Carter Ltd,Supplier,HD,Landscaping & Maintenance,,32990,False,True
+baef145c5897fbffa06c72336668687f,TriVow Group Ltd,Member,NN,,,"",,
+bb0cc1e842d5832f46038d218857944b,Advanced Business Solutions,Supplier,,Business Services,,"",False,False
+bb7a52de39e2cc9ea2b7ff54e5f97603,Uni-Com Global Ltd,Supplier,TN,Electrical Supplies,,"",False,True
+bb9efe6d3b9d62e4f875ae13fc30f89f,GTS Central Ltd,Supplier,ZE,PPE,,47721|47710|47410,False,True
+bbb3d07fe0e189f75c853b23c2869bc0,Quest Consumables -Force Products,Supplier,CV,Maintenance,,46620,False,True
+bbebf50383fdc3b196840518367dad33,Poppies Europe Ltd,Supplier,WA,Janitorial,,46900|17120,False,True
+bc16952661a4d9d0043840e93e0d4c8f,Walraven Ltd,Supplier,OX,Maintenance,,25990,False,True
+bc7483be4248157eb8b7e6dc6efb603c,Crest Medical Ltd,Supplier,WA,PPE,,46460,False,True
+bc7d67731ffdcb79c42c44e893cffcf1,Eurosonic Group Ltd,Supplier,M,,,"",False,True
+bcb518b69f13b9b35fa8a3e7c54427a3,Alloy Sales Ltd t/a My Tool Shed,Member,AL,Power Tool Specialist,Power Tools Specialist,"",True,True
+bcd42751e4214f001a9c44f58d3252f2,Stand Safe Ltd,Supplier,BL,PPE,,"",False,False
+bceaf06198ed8d0de9468b1d257727a6,Bowers Group,Supplier,GU,Metrology,,26511,False,True
+bcff46310b91abb824658e9b1a9c1dd2,Saxon Steels Ltd,Supplier,S,Raw Materials,,32990,False,True
+bd404ec33b1f3fc34c4400d2c74e8ee5,Burrows Tool Factors,Member,LA,Traders Generalist,"Maintenance, Repair and Overhaul",47520,True,False
+bd7125ecb7637cea5506640220acf2dd,Performance Chemicals Ltd,Member,DA,,,"",,
+bdc5fe55c6d7d6782be1f1ca661986be,Green-tech Ltd,Member,HG,Landscape and Outdoor Products,,"",False,True
+bdc92941290d57ae8f462069ce80daad,Emak UK Ltd,Supplier,WS,Landscaping & Maintenance,,"",False,True
+be313379f337b986c483ae4bbc394996,Marshall Distribution Ltd,Member,SK,,,"",False,False
+be7a1ced7877555fea68d7c018e3aaf8,Gleaner Ltd,Member,IV,,,"",,
+be81e98672793527361fff172d914d6c,James Raeburn & Son Ltd,Member,G,PPE Specialist,,"",False,True
+be9ae44c260952a4d70d7878bc173051,Kirby & Wells Ltd,Member,PE,Traders Generalist,Construction Supplies,46760,True,True
+be9b54fcbe31d2c5c19774820b23d25b,Birchwood Price Tools,Supplier,NG,Hand Tools,,"",False,True
+beed03a07af40d1750348fcd87104079,Parweld Ltd,Supplier,DY,Welding,,46140,False,True
+bef7cdb10f92c5aef5e1b7149c735050,The Jones Tool Company Ltd,Supplier,HD,"Saws, Circ, Band, Hole",,96090,False,True
+bf1412051f5dbae5ae291f73917ccb84,T O Y Trading Tool Factor Ltd,Member,WR,Traders Generalist,,47520,True,True
+bf564e3d051cb25ccfae95f3b9836ca0,R Sleep Ltd,Member,PL,Traders Generalist,Construction Supplies,47190,True,True
+bfdae779ec311ee270155deb655f0fe6,Helix Tool Co Ltd (Durham),Member,DH,,Engineering Supplies - Cutting Tools,"",True,True
+bfdae779ec311ee270155deb655f0fe6,Helix Tool Co Ltd (Leeds),Member,LS,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,"",True,True
+bfff6604e8c06387c81a5f558944da6f,RS Integrated Supply UK Ltd,Member,WA,Industrial Distribution,Construction Supplies,63110|82990|46760,False,True
+c04b40433830a27de0ed41a9e64f05b8,Engineering Tools & Consumables Ltd,Member,KA,Industrial Distribution,Engineering,82990,False,True
+c06d57cdf01d350762b41a061798fa00,Regatta Ltd,Supplier,M,PPE,,47910|47710|46420,False,True
+c0757160e423802bd15d05f0e96737a1,Panther SRL,Supplier,"",PPE,,"",False,True
+c0868e88e7defcc08ca030da6937d9b5,Redhill Manufacturing Ltd,Supplier,B,Storage and Handling,,"",False,True
+c08bd5c231222ee3a1d4c494ca4b471f,The Brian Smyth Company Ltd,Member,DN,Cutting Tools Specialist,Construction Supplies,"",True,True
+c08df933fcaeec0f92c23833b6848f2d,SGS Engineering (UK) Ltd,Member,DE,Power Tool Specialist,,"",,
+c0937003e43481a7e447618b0ccff04d,NMA Agencies Ltd,Supplier,HD,Power Tools,,82990,False,True
+c0a12589251bf29b113886e401f1f13e,R D Barrett Small Tools Ltd,Member,HX,Traders Generalist,Construction Supplies,47990,True,True
+c0c3d1d3a9e86370299a4b99931d2989,TBS TOOLS  WOKINGHAM,Member,RG,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,47990,True,True
+c0dcbf62c6a80f9dc79280b51ae254b3,Guardsman Ltd,Supplier,LE,PPE,,99999,False,True
+c0df1e8a877a7cc59b275431901b165d,Pan World Brands Ltd t/a Lee Cooper,Supplier,M,PPE,,82990,False,True
+c0e27a8b820a5e860f0c41b07b37e153,Polar Bearings Ltd (Cambridge),Member,CB,,"Maintenance, Repair and Overhaul","",True,True
+c0e27a8b820a5e860f0c41b07b37e153,Polar Bearings Ltd (Colchester),Member,CO,Facilities Management Specialist,"Maintenance, Repair and Overhaul",99999,True,True
+c0f9dfb96ffe688ae74da1f5f18a4281,FIRE HOSETECH LTD,Member,BD,,,"",,
+c13b18e3c3ce234f0b6e424d8b236f3e,Seal IT Services Ltd  t/a Bond IT,Supplier,HX,Adhesives & Sealants,,20520,False,True
+c147c2681ce13d8faa801d4c1fcf474d,Complete Business Solutions Grp Ltd,Supplier,WF,Stationary & Office Supplies,,47910|73110,False,True
+c147c2681ce13d8faa801d4c1fcf474d,Complete Business Solutions Grp Ltd.,Supplier,WV,Stationary & Office Supplies,,47910|73110,False,True
+c14f0d8fbf4031f0ce0838e74b70bd86,Alsco Ltd,Supplier,SN,Adhesives & Sealants,,"",False,True
+c169db2dfbcd1a6e74f7fb12fba2cad7,Tractel UK Ltd,Supplier,S,Storage and Handling,,28220,False,True
+c17f7fa9e6fa937707184f9461aac24a,INTELLIGENT MANUFACTURNG SOLUTIONS LTD,Member,BT,,,"",,
+c19a2c037ab5c17d4ca3564c322cf95f,TCS Janitorial Supplies Ltd,Member,CM,,PPE Specialist,"",True,True
+c1a26d9c2804c22bfd7b2fa7f3d8adc2,UK Parts Direct Ltd,Member,BA,Industrial Distribution,Engineering,45320|45310,True,True
+c1b82c4e18330b02e1f9fccd95db9452,NORTHERN POWER TOOLS & EQUIP. LTD,Member,S,Traders Generalist,Construction Supplies,"",False,False
+c1be5e7068119bc88d9965aa736c9717,Travis Perkins Trading Company Ltd,Member,NN,,,"",False,False
+c1ee3d7172145fc8149c57e5d177a371,R Jackson Eng Distributors,Member,FK,Traders Generalist,,"",True,False
+c1f19e7fb22752aa4eaef7ce86e65cb5,KN Engineering Solutions,Member,OL,Industrial Distribution,,"",False,True
+c2430c6df3b964e333976fad7196185a,Clarkson Osborn -Europa Tools,Supplier,,Carbide Cutting Tools,,"",False,False
+c27b9d285c9d673d36a9a13d9dac6a62,Car Audio & Security Ltd,Member,UB,Traders Generalist,Construction Supplies,47190|45112,True,True
+c291664dbe02e7d9a27665ce48bb7af3,Johnston & Bulman Ltd,Member,CA,Traders Generalist,"Maintenance, Repair and Overhaul",46130,True,True
+c2dbc60596f12c7a9dd1ac6aab09eceb,Swindon Bearings Ltd,Member,SN,Facilities Management Specialist,Engineering,47990,True,True
+c335f0d92334fffa09207fa253b72e51,Anvil Tools Co Ltd,Member,SP,,,"",False,False
+c33b4688a4800f8cb31eadd549e52227,Wholesale Welding Supplies Ltd,Supplier,SG,Welding,,46690,False,True
+c39418f1f769f02b4e46d96f62ab29d7,Orbic Bearings Ltd,Member,CR,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46900,True,True
+c3aaf4e950dd19d6b620189314e3c4db,Filtermist Ltd,Supplier,TF,Maintenance,,28250,False,True
+c3d1a4ba8589d4c6031aafbc68c3c616,Mosswood Industrial Supplies Ltd,Member,NP,Traders Generalist,Engineering,46180,True,True
+c422be07d8e8c157f97cbeb0d9a78e06,Finishing Aids & Tools Ltd,Supplier,BL,Abrasives,,46690,False,True
+c42302891ebd831acec0458bb6534907,Universal Engineering Tools,Member,DD,Cutting Tools Specialist,,46620,False,True
+c42302891ebd831acec0458bb6534907,Universal Engineering Workholding,Supplier,HD,Workholding,,28490,False,True
+c4a230ca5101b9215d52eedb8e90aeed,Gem Tool Hire & Sales Ltd Rugby Branch Closed,Member,CV,,,"",False,False
+c4a230ca5101b9215d52eedb8e90aeed,Gem Tool Hire & Sales Ltd,Member,OX,Hire Company,Construction Supplies,"",True,True
+c4a938d6b37267ae01ff21d379b70e70,Kent & Co Twines Ltd,Supplier,ST,Maintenance,,"",False,True
+c4b78d7678a51189ca3f08fabb737f4b,LED Scotland Ltd,Member,KW,Builders Merchant,"Maintenance, Repair and Overhaul",46900,True,True
+c4c96ce9ac2fcc2fb90f422911c6029c,Herts Tool Co T/A HTC Fastenings Limited,Member,AL,Traders Generalist,Construction Supplies,77320,True,True
+c4ede5015514d95c35598250be0a8658,M & S Distributors Ltd,Member,NE,Fixings & Fasteners Specialist,Engineering,47789,True,True
+c4f85ae73eb28bda7bbecf348c756b55,GYS Ltd,Supplier,CV,Welding,,"",False,True
+c509107871725e8b082e9eac0d30d007,DSD Trade Ltd (Gravesend),Member,DA,Agricultural Specialist,,47910,False,True
+c509107871725e8b082e9eac0d30d007,DSD Trade Ltd (Higham),Member,ME,Wholesaler,,"",False,True
+c527445898fc848a37aaf6aaf64cfa06,C A Clemson & Sons Ltd Halesowen,Supplier,B,Hand Tools,,"",False,True
+c527445898fc848a37aaf6aaf64cfa06,C A Clemson & Sons Ltd -Cwmbran,Supplier,NP,Hand Tools,,"",False,True
+c541c1472265ca15d9aa5628af147f92,Ega-Master,Supplier,"",Hand Tools,,"",False,True
+c542187ec81276f5ac60b3c994c20ce1,Wickford Plumbing Supplies,Member,SS,Traders Generalist,,"",False,True
+c5a900e9d4db7b1c7f0a885040ae0613,Caulfield Industrial,Member,H,Industrial Distribution,"Maintenance, Repair and Overhaul",47520,True,True
+c5c675da0a518ab4837262cac078b072,HYDRAMATIC SOMERSET LTD,Member,TA,,,"",,
+c6148b08dd8dbbb7c832dc6199e84b78,Dustcontrol UK Ltd,Supplier,MK,Power Tools,,32990,False,True
+c62aecbd4da9935a9216b81fc0217e0c,Alan Wadkins Ltd,Member,DL,Traders Generalist,Power Tools Specialist,47520,True,True
+c631d30b85fefa5be9ab86a932d87f01,Nuffield Engineering Supplies Ltd,Member,BH,Traders Generalist,Engineering,96090,True,True
+c687cc1b642092a79bd4d291af357514,More Than Safety Ltd,Member,SO,PPE Specialist,PPE Specialist,46420,False,True
+c69c5934bf5360dc96a0bc94d38f8ef2,Just 1 Source & Supply Ltd,Supplier,YO,PPE,,46420,False,True
+c69e1dd8c5490cdebf14e763ca89a7cc,Millers Oils Ltd,Supplier,HD,Lubrication,,"",False,True
+c6a31a3958c4a82d69d0533d8e6b6553,Bruce Douglas Marketing -Ultratape,Supplier,DD,Adhesives & Sealants,,46900,False,True
+c737419b74343cd9df49b847fa0ac078,Warnhill Tool & Fasteners Ltd,Member,CW,Traders Generalist,Construction Supplies,46620,True,True
+c7492c16f321ac74a001a6dd5d40f7db,M Marcus Ltd,Supplier,DY,Maintenance,,47520,False,True
+c749af42a3e5471323933039841865a6,Oasis Distribution UK Ltd,Member,DY,Cutting Tools Specialist,,46620,False,True
+c74c41dc10fe266f4c1e7e5999ff6aff,SOUTH WEST CONSUMABLES LTD,Member,EX,,,"",,
+c74d5b78688a53c946aab941ca6ec131,Kitout Limited,Member,LE,PPE Specialist,,"",False,True
+c7a21fadc4b2f77d234f508f81c10858,Midland Wiper Manufacturing Co Ltd,Supplier,NG,Janitorial,,32990,False,True
+c7a86fa914540075ecf8e5a16e0a0878,United Fixings Exeter,Member,EX,Traders Generalist,Construction Supplies,47990,True,True
+c7ab3ade6e08d6e69ab6381e0d28b7cb,Barton Storage Systems Ltd,Supplier,WV,Storage and Handling,,70100,False,True
+c7b1de4786176f8ff74227403db64762,Tools Of The Trade Ltd,Supplier,B,Hand Tools,,46690,False,True
+c7b8325dd915bf2253995ce8a60abdc2,Timothy Wood Ltd,Member,BB,Traders Generalist,Construction Supplies,47520|46620|46740,True,True
+c808a0e70f28f94d8aabd164e4130001,Supermax Healthcare Ltd,Supplier,PE,PPE,,32500,False,True
+c8200485ddf185e27b05322158fdbd23,SHS Handling Solutions Ltd,Supplier,NN,Storage and Handling,,"",False,True
+c834377717c54a7b66b2be2e75a7c3bd,Lamont Industrial Ltd,Member,BT,Industrial Distribution,Engineering,46620,True,True
+c892ce7df7dad7b2d23989724bf0792b,Rapid Welding & Industrial Supplies Ltd,Member,PO,Industrial Distribution,,46140,True,True
+c8bdedae36c62e8f44605d9335f38138,Easter Farms T/A Griffin Machinery Solutions,Member,CM,Agricultural Specialist,,"",False,True
+c9054b1e00b45d1fee2a899ffda327ca,Norsemen Safety & Industrial Supplies Ltd,Member,BT,PPE Specialist,,71129,True,False
+c931c4a726ee2fbee9d278eb3c052aa0,Akzo Nobel Ltd,Supplier,SL,Maintenance,,70100,False,True
+c94e55e10a46f3b52229ef487d30235b,Porta UK Ltd,Supplier,S,Hand Tools,,46900,False,True
+c96a7508af55e2daa96721b3b62cc6b9,Williamson-Dickies Europe Ltd,Supplier,BA,PPE,,"",False,True
+c992797fae9dd8ea84db8f47d1396e3a,CROMWELL TOOLS LTD,Member,LE,,,46900,,
+c9bab5b6f55e11a3fc25acb0a549fdb6,Robert Pringle Engineers (UK) Ltd,Member,SS,Cutting Tools Specialist,Engineering,25620,,
+c9bd908a4873e179226870a82cdc269c,Hobbs Valve Limited,Member,CF,Industrial Distribution,,"",False,False
+c9c12b6033ba1d5e34b2bacaef81cca8,Deltec Industries Ltd,Supplier,FY,Hand Tools,,28240,False,True
+c9dba805adcf286dbaeb20bcf2f39441,Motion Industries (UK) Ltd,Member,BL,Facilities Management Specialist,Engineering,46900,,
+c9f6cb0a84d548fbb6464970537b7ded,Clydesdale Jones,Supplier,WV,Hand Tools,,29320|24100|24200,False,False
+ca07d34dc0825b4f99de59a628339dea,Solo Sprayers Ltd,Supplier,SS,Maintenance,,"",False,True
+ca16c84f6fb34353639205e8f2c881b4,ORBITAL HYGIENE SERVICES LTD,Member,SS,,,"",,
+ca1dc2f7a60a350cde5fdb696a3f5edc,D J Evans (Bury) Ltd,Member,IP,Industrial Distribution,Construction Supplies,46760|47789|46730,True,True
+ca72507e1812f1067972256c68a5c258,R & J BEARINGS,Member,DL,,,"",,
+ca77be57a4cd798a87aa0545d0c8206f,Hayley Group,Member,S,,,71122|71121|46690,,
+ca999478a33ff2149119ba338a4d857a,Quality Metal Products Ltd - QMP,Supplier,DY,Storage and Handling,,25990,False,True
+caa9d3abe58eac2a8a5808502b9f3fe5,Blackhurst Wade Limited,Member,CM,Power Tool Specialist,,"",False,False
+cac55140da14fadb4163afff4ca668ce,Preisser UK Ltd,Supplier,KT,Metrology,,"",False,True
+caec43dac70cff38677657ce0dc535f4,City Seals & Bearings Ltd Rotherham,Member,S,Facilities Management Specialist,"Maintenance, Repair and Overhaul",82990,True,True
+cb21e20d2b530f2d39faca1890fc984c,Thorburn Group Limited,Member,TD,Agricultural Specialist,,"",False,True
+cb454de8890e98380cee2df4827b06c6,Toolex Ltd,Supplier,BA,HSS Cutting Tools,,46760,False,True
+cb5dec03e2fa78062f81171c9f486a2e,Alpha Coatings Ltd,Supplier,ME,Maintenance,,"",False,True
+cb953bf19bdc3f9df063502231f17869,Eland Cables Ltd,Supplier,DN,Maintenance,,"",False,True
+cbb1e5a5363ec2e1096f1294ae093056,CQFD Profiles Ltd,Supplier,SO,Maintenance,,46720,False,True
+cbd4da2b92afa6e1b56e4d2c173c8013,Thomas Westcott,Supplier,,Business Services,,"",False,False
+cbde1d8ac9e5543bb3beaabbafd40f15,Danetre Workshop Supplies Ltd,Member,NN,Industrial Distribution,Construction Supplies,47520,True,True
+cbfa3b8d1ce608ac1e981a7e10f1e549,Wilkinson Star Ltd,Supplier,M,Welding,,46630,False,True
+cc356bc8e7189fe60c5b7d6de1267756,Distag QCS UK Ltd,Supplier,IP,Maintenance,,46900,False,True
+cc45ec7722935d3583f218229ab64421,EMFAST LTD,Member,NN,,,"",,
+cc47005dc6e3425c0ad11367f938a9ff,Murdoch International Ltd,Supplier,MK,Maintenance,,"",False,True
+cc5468071ac93382aa027c5e8e0b72f1,Wiseman Threading Tools Ltd,Supplier,B,HSS Cutting Tools,,32990,False,True
+cc5d75a7f5be878c21b924ff63697138,BS&P Ltd,Member,DL,Industrial Distribution,"Maintenance, Repair and Overhaul",74909,True,True
+cc5d75a7f5be878c21b924ff63697138,BS&P Ltd Redcar,Member,TS,Industrial Distribution,PPE Specialist,"",False,False
+cc5e3c6201ec5eeb2614dab170f6a690,Blue Arrow Ltd,Supplier,,Business Services,,"",False,False
+cc85be819a90305265c9306c8468e640,London Bearings (Kent) Ltd,Member,ME,Industrial Distribution,Engineering Supplies - Cutting Tools,"",False,False
+ccaaa4041788a924fa7f216525f33402,Numatic International Ltd,Supplier,TA,Janitorial,,27510,False,True
+ccabddce2e2cefb4a63f4c9ad5be4923,Zenith Industrial Products Ltd,Member,IM,Cutting Tools Specialist,Construction Supplies,47990,True,True
+ccbbd509baa599d104cb8ba277c867d3,Unger UK Ltd,Supplier,WV,Janitorial,,46900,False,True
+cd2528dc38af776c4a9fb61e7987f2d3,Jubilee Clips Limited,Supplier,ME,Fasteners,,25990,False,True
+cd3d8b2286a50d3f35c985a00c4a9071,Trade Fast Dist (Midlands) Ltd,Member,ST,Traders Generalist,Construction Supplies,47520,True,False
+cd40d5b2653669f3c7b8602517e92e5c,SAIC Ltd t/a Dynashop,Supplier,BN,Power Tools,,"",False,True
+cd594c7bfe7548a72d46b506c7605394,B D Tools Ltd,Member,EN,Traders Generalist,Construction Supplies,47520,True,True
+cd6e73767dccea15e518a3b17c895062,Rapid Tooling Solutions,Member,NE,Cutting Tools Specialist,,46180,False,False
+cd7b66085937a4b1a102c52d4ca155f1,Sheffield Gauge Plate Ltd,Supplier,S,Raw Materials,,25620,False,True
+cd912f58d836365f2c9fd0ebefcb0229,Lucart Hygiene Ltd,Supplier,WR,Janitorial,,82990,False,True
+cdb445ca136e29cab7de44e932c8b051,Beckett Abrasives Ltd,Member,WS,Industrial Distribution,,46900,True,True
+cdc3ba0593e7e3157d0b43925e060ddf,"PROFI TOOL SUPPLIES CO LTD.,",Supplier,,,,"",,
+ce16e19d6717c05782d515b8cee7a534,Addis Housewares Ltd,Supplier,CF,Janitorial,,"",False,True
+ce1b168db214e108e1fd2779fce5d4eb,Island Hire Centre Ltd,Member,PO,Traders Generalist,,82990,False,True
+ce2d7396b304208698b21114e8eb06cc,Tetrosyl Ltd,Supplier,OL,Maintenance,,20412|46750,False,True
+ce41bbcce16597571a810bc74c2b5099,Highland Industrial Supplies Ltd (Turriff),Member,AB,Builders Merchant,,"",False,True
+ce41bbcce16597571a810bc74c2b5099,Highland Industrial Supplies Ltd (Dundee),Member,DD,Builders Merchant,,"",False,True
+ce41bbcce16597571a810bc74c2b5099,Highland Industrial Supplies Ltd,Member,IV,Builders Merchant,"Maintenance, Repair and Overhaul",46690,True,True
+ce41bbcce16597571a810bc74c2b5099,Highland Industrial Supplies Ltd (Kirkwall),Member,KW,Builders Merchant,,"",True,True
+ce41bbcce16597571a810bc74c2b5099,Highland Industrial Supplies Ltd (Inverness),Member,PH,Builders Merchant,,"",False,True
+ce4d281c931a6635dc192fa162ee69d7,Kyocera SGS PT Europe Ltd,Supplier,RG,Carbide Cutting Tools,,25730,False,True
+ce4d281c931a6635dc192fa162ee69d7,KYOCERA UNIMERCO WALMSLEY LTD,Member,S,,,"",,
+ce4d281c931a6635dc192fa162ee69d7,Kyocera Senco UK Ltd,Supplier,WA,Power Tools,,46900,False,True
+ce6469761b3ce5f3cc8014e02ea1be1e,Fytertech Nonwovens Ltd,Supplier,OL,Spill Control,,46760,False,True
+ce770f47bd8d12985e57d45102281c68,RTC Groundcare Ltd,Member,PE,Power Tool Specialist,,"",False,True
+ce799427b4bc7ced4f635b4897839648,Specialist Storage Products Ltd,Supplier,DY,Storage and Handling,,"",False,True
+cedbaf5a23e964805ac60fd51c648c46,Kennametal Stellram Ltd,Supplier,,Carbide Cutting Tools,,"",False,False
+cedbaf5a23e964805ac60fd51c648c46,Kennametal UK Ltd,Supplier,DY,Carbide Cutting Tools,,25990,False,True
+cf4763557305caa2346d7378cb27e515,Invicta Tools & Fixings Ltd(Canterbury),Member,CT,Fixings & Fasteners Specialist,,"",False,True
+cf57326bdf23dc7754de7e641243786b,STA Group Ltd,Member,SL,Wholesaler,,"",False,True
+cf69ea7d5afbcf1ee710df60c2f57acd,QTS Industrial Supplies Ltd,Member,CF,Traders Generalist,Construction Supplies,46620,True,True
+cf80bc78e81def19070e5110cc344332,Northwood Hygiene Products Ltd,Supplier,LL,Janitorial,,17220,False,True
+cfb4855ead1df26dcc1ba6ffa435c927,Keystone Wood Ltd,Supplier,B,Storage and Handling,,46760,False,True
+cfd0ffc17a2a883419394f6ca5d69a69,Eclipse Magnetics Ltd,Supplier,S,Workholding,,28220|46690|25730,False,True
+cff370f73d4b8c88a25fb7da1c2e074e,Proconnect Ltd,Supplier,DH,Fasteners,,"",False,False
+d0272443b2dfb4a2cbe6f37f4a354a16,Swift and Whitmore Ltd t/a Jowitt,Supplier,S,Abrasives,,23910,False,True
+d02bbd0bc015dd4b2d616d78be14fdbd,Stuart Taylor International Ltd,Member,BB,Agricultural Specialist,,"",False,True
+d039fadfd1e01ac07557dbecb54662e0,Carters Tools Ltd,Member,SE,Traders Generalist,Power Tools Specialist,47789,True,False
+d07674761e8f46026504c372305a9037,Westlands Supplies Ltd.,Member,HU,,,"",,
+d0815efd21297be6e82e6ee31c947f3a,Delta Adhesives Ltd,Supplier,S,Adhesives & Sealants,,46750,False,True
+d0874e6b39086a5091b3f4d141ffd13a,Ciret Ltd,Supplier,PO,Maintenance,,"",False,True
+d096b76649c94024c79acbadd7628620,Sure Health & Beauty Ltd,Supplier,SO,Business Services,,"",False,True
+d0dc5e8725684b4f0cbc5e7d8dde6a9e,PJS Industrial Supplies Ltd,Member,ME,Traders Generalist,Construction Supplies,46900,True,True
+d0e3e6b683915124183d4e7ee0a87a5f,JRP Distribution Ltd,Supplier,PO,Maintenance,,46900,False,True
+d0f9a9e3e44d035f626d47d0c3f6fd8b,CBL Supplies (Coleshill) Ltd,Member,B,Wholesaler,Construction Supplies,25500,True,True
+d0f9a9e3e44d035f626d47d0c3f6fd8b,CBL Supplies Ltd,Member,TF,Traders Generalist,Construction Supplies,46690|25990,True,True
+d0f9b68baefad9c660cb47c4205637ed,Mitchell Fox & Co Ltd,Member,LS,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,"",True,False
+d11cef77c6a9588ad92202e819031265,Midland Paper Products Ltd,Supplier,B,Janitorial,,"",False,True
+d130fc357f2b82fd6a39cef9305c0fd2,Armorgard Ltd,Supplier,PO,Storage and Handling,,25990,False,True
+d140893bb659b3350168b476f784cb98,GJM Trading Ltd T/A RC Fasteners,Member,BS,Industrial Distribution,Engineering,47990,True,False
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Clayton Le Moors),Member,BB,,Engineering Supplies - Cutting Tools,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Bristol),Member,BS,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Carlisle),Member,CA,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Birkenhead),Member,CH,Industrial Distribution,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Coventry),Member,CV,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Winsford),Member,CW,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd t/a EWS (Immingham),Member,DN,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd Hull t/a Tooltek,Member,HU,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd,Member,L,Industrial Distribution,Engineering Supplies - Cutting Tools,46690,True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Wrexham),Member,LL,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Tyne&Wear),Member,NE,,Engineering Supplies - Cutting Tools,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd t/a EWS (Mansfield),Member,NG,,,"",False,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Ashton),Member,OL,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Chorley),Member,PR,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd t/a EWS (Barnsley),Member,S,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd t/a Skerrett Engineering,Member,ST,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd T/A Jackdaw Tools (Telford),Member,TF,,,"",False,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd (Cleveland),Member,TS,,Engineering,"",True,True
+d1780b67f53c3524145d0fb8183ffdd2,Lloyd & Jones Engineers Ltd T/A Jackdaw Tools (Willenhall),Member,WV,,,"",False,True
+d1c0de6adb362fb5a1ad6db088546975,GRANTHAM CLOTHING COMPANY LTD,Member,NG,,,"",,
+d1d00c1bc72e8aa9e2f794c59a767b55,Delta Plus UK Ltd,Supplier,BB,PPE,,46420,False,True
+d27a49c230b61d03c7b4621fb42fa6ba,Essential Industrial Services Ltd,Member,PR,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46690|46900,True,True
+d28d2eb309e5b4ddd5a5f81897cffcaa,Amchem Ltd T/A Amp Supplies,Member,BD,,,33140,False,False
+d290381e75e9473f73dda16ecf06e1e1,PASS (Portable Appliance Safety Services),Member,TS,Industrial Distribution,,71200,False,True
+d290ba83a438ab671c9b9ddf8bf3eca8,Atlas Copco Tools Ltd,Supplier,HP,Compressors,,82990,False,True
+d2c734d7defc62209ac7fe95bcf9329c,Impacto Protective Products Inc,Supplier,DE,PPE,,"",False,True
+d2d1e5c1f42f0ee3971bcec203ce1975,Garden Tools & Engineering,Member,NR,Power Tool Specialist,,"",False,True
+d2f5de8ba9776c5b0e4c1e1a7126afc3,Orcagel Company Ltd,Supplier,AB,Janitorial,,"",False,True
+d371214ab755233fc3a2114f77518e95,Alpha Solway Ltd,Supplier,DG,PPE,,14120,False,True
+d3b5ab5a658bd84d4a9844230c330966,A&S Manuel Ltd,Supplier,CF,Janitorial,,"",False,True
+d3bdd2a5a7ffca43ad5305bee34293c8,Joss (Engineering) Ltd,Member,LA,,,"",False,True
+d3cba42041fa4187b5c867aadfebd0b3,Blake & White Ltd,Supplier,SP,Janitorial,,"",False,True
+d3db00d5cdbe6c17f4ae95d342c87168,Quinn Tools & Fasteners Ltd,Member,CV,Fixings & Fasteners Specialist,,46620,True,True
+d3fa6504436e44ab6b6aa566275ff29a,South West Steel Supplies Ltd,Member,BS,"Construction, Aggregates and Mining",Engineering,25990,True,True
+d3fcf1dc939740655b719c49de6da665,Jeaton Ltd,Supplier,PR,Abrasives,,46900,False,True
+d4138a19e985d60c7b966d8f3e706b36,SC Johnson Professional Ltd,Supplier,DE,Janitorial,,20411,False,True
+d44d0520db2a4340c80222ced853d32c,Carl Kammerling International Ltd,Supplier,LL,Hand Tools,,46740,False,True
+d4680b0cb788397f153b282330aac573,Kielder WT Ltd,Supplier,S,Power Tools,,"",False,True
+d47c515f6b8e28aed4c62aae0cd11cc4,Industrial Component Supplies Ltd,Member,PL,Facilities Management Specialist,Construction Supplies,46900,True,True
+d48074fb2bbc3557e90fae397cd29e60,Guhring Ltd,Supplier,B,HSS Cutting Tools,,25730,False,True
+d4c648cc5e5f748cb69121cfc4239f5e,L G Harris & Co Ltd,Supplier,B,Maintenance,,"",False,True
+d5190b7107217997d130f86b9d08fc22,Rolson Tools Ltd,Supplier,RG,Hand Tools,,46740,False,True
+d52348945d4147887581cc899e49f042,Goldstar Leisure Ltd,Member,TQ,PPE Specialist,PPE Specialist,47190,False,True
+d54e6527cb0b241efb439599daf6a77d,Bills Tool Store Ltd,Member,G,Traders Generalist,Construction Supplies,82990,True,True
+d5693be385c112a67cc3e5d70696e0db,Allied Hygiene Systems Ltd,Supplier,DA,Janitorial,,"",False,True
+d569f478508cce39a9a8cd97302d8dc5,Metalube Ltd,Supplier,M,Lubrication,,99999,False,True
+d56edf335210b592f37dd3927d83a81b,Soudal UK Ltd,Supplier,B,Adhesives & Sealants,,74909|46750,False,True
+d56edf335210b592f37dd3927d83a81b,Soudal Ltd t/a Seal Systems Ireland,Supplier,D,Adhesives & Sealants,,74909|46750,False,True
+d5889f8b944873d0a02674d5e5f66029,Ejendals AB,Supplier,SE,PPE,,46180,False,True
+d5889f8b944873d0a02674d5e5f66029,Ejendals Ltd,Supplier,W,PPE,,46180,False,True
+d595fd26c92477e06ce458900e2ec06e,KEY FASTENERS LTD,Member,ME,,,"",,
+d5b5034592f250ea74bb990b8cb7eee8,Future Tooling Ltd,Member,ST,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46620,True,True
+d5d1b3ea870fb083f2b7e780f3ace6c0,Weldfast UK Ltd,Supplier,ST,Welding,,"",False,True
+d5d95bfb4f35e08091919f94c87354db,CW Fasteners Limited,Member,B,Fixings & Fasteners Specialist,Construction Supplies,46180,True,True
+d5e36607d21ce033da7a4b99f18b04a4,ISN Europe Ltd,Supplier,NR,Hand Tools,,46620,False,True
+d613af8edc006dc3926942c2c322fb3f,A1 Logos Ltd,Supplier,LE,PPE,,47710,False,True
+d6176547eeca3c9bc91a70a3d6a77398,Merlin Tools Ltd,Supplier,LE,Carbide Cutting Tools,,46620,False,True
+d625bf1151cd2d6ef93ceaece31ddf38,Martor UK Ltd,Supplier,WD,Hand Tools,,46900,False,True
+d666c6675a0532b06c3eac9148da3cc8,Komelon UK Ltd,Supplier,B,Hand Tools,,"",False,True
+d67a58359ed3c842b0144936069e928c,Waverley Cutting Tools Ltd,Member,AB,Cutting Tools Specialist,Oil & Gas,46620,True,True
+d6bbc84b8c11ca87a35fd7df19cc6bde,Thor Hammer Co Ltd,Supplier,B,Hand Tools,,25730,False,True
+d6e3d7c2b0f86b5027b19bf876fb2e3d,Oxford Bearings Ltd Bicester,Member,OX,Industrial Distribution,"Maintenance, Repair and Overhaul",47789,True,True
+d6e6aac3cd0aaf771b68864c98aad122,BJB (WhiteCliffe Construction Products Ltd),Member,NG,Hire Company,,"",,
+d71ce760e4e3049170b71e967c88b53e,ADP Diamond Cutting Solutions Ltd,Member,PL,Wholesaler,Construction Supplies,46620|46630,False,True
+d72d23ea56de6b8b31dce71c99dd67d1,BAW Precision Engineering Ltd,Member,SA,,Engineering,28290|29320|28490|25620,False,False
+d733f028080be504b39ab326dbba036f,Specialised Welding Products -SWP,Supplier,GU,Welding,,46690,False,True
+d753caf0e60db54d26d082a857729c1f,Trojan Tools,Member,EX,Wholesaler,,46690,False,True
+d753caf0e60db54d26d082a857729c1f,Trojan Tools Ltd,Supplier,EX,Maintenance,,46690,False,True
+d769a22870ba3ebb72fe7cd9d318d0ba,Blundell Files & Tools Ltd,Supplier,L,Hand Tools,,46900,False,False
+d7775fb843f998f54fa93fff19d9b0c6,Motalines (SW) Ltd,Member,TA,Wholesaler,,"",False,True
+d7c17eeadaf2ebbd0e6bf1476ce30827,Biffa Waste Services Ltd,Supplier,HP,Business Services,,"",False,True
+d7f7f894f81ba160f35c2e677744cfbf,Chicago Brand UK Ltd,Supplier,BD,Hand Tools,,46620,False,True
+d7fb7d02501edf153986cb0325bf89ec,GE Tools Ltd,Member,CH,Wholesaler,Engineering Supplies - Cutting Tools,"",False,False
+d7fb7d02501edf153986cb0325bf89ec,GE Tools Ltd (THS Customer),Member,LL,,Construction Supplies,"",False,False
+d80862e872ef1548f2b97dd693a0a5cf,SureWerx UK Ltd ta Jackson Safety,Supplier,SW,Welding,,"",False,True
+d80a57a77ac22329a4ec0f314ff7547d,Honey Brothers Ltd(Wimborne),Member,BH,PPE Specialist,,"",False,True
+d80a57a77ac22329a4ec0f314ff7547d,Honey Brothers Ltd(Guildford),Member,GU,PPE Specialist,,"",False,True
+d81904f624e6046f2422d3f877523d9b,Warwickshire Oil Supplies,Member,CV,,,"",,
+d81fb5278eff736760763e57d92739fe,Huddersfield Textiles Ltd -MasksUK,Supplier,HD,PPE,,"",False,True
+d8302d25bb98adc99f7eaa79cd267dab,Sycamore UK Ltd t/a Big Wipes,Supplier,SL,Janitorial,Janitorial Specialist,20411,False,True
+d837a07c1c5dc15b234e8029277048e5,Lamberts (Norwich) Ltd,Member,NR,Industrial Distribution,Engineering,46740,True,True
+d87e2e9d3aa1347c3fa3b12d1d562af0,Allsigns International Ltd,Supplier,DN,Maintenance,,32990,False,True
+d882f1c549f70e357d9157dc2c7281e4,RSK Fastenings Ltd,Member,HX,Fixings & Fasteners Specialist,Construction Supplies,46740,True,True
+d895f8300928b9f986bea9109ffc0707,JC Peacock & Company Ltd,Supplier,KA,Maintenance,,10840|49410|46750,False,True
+d89fd9efea2227976262fde84193855d,Sussex Tools Ltd,Member,BN,Cutting Tools Specialist,Engineering,46900,True,True
+d8cd9842f5feee6bf7ad85c3fe51aaaf,U Group SRL,Supplier,WS,PPE,,"",False,True
+d8dcecb302c3e36d61e8eaa0c6a4a870,Associated Production Tools Ltd,Supplier,G,Power Tools,,46690,False,True
+d8f8aa4520053e63fde1c96f70c8fbb3,Sievert UK Ltd,Supplier,WS,Maintenance,,"",False,True
+d94f831532df08fb4c5baf88e4cb2262,Reabrook Ltd t/a Arrow Solutions,Supplier,DE,Janitorial,,20590,False,True
+d95e4b2b445bded4bd3668248f441475,Good Hand UK Ltd,Supplier,MK,Storage and Handling,,46690,False,True
+d98a195522d726474daa9613df563bec,B & D Clays Ltd,Supplier,CR,Spill Control,,46110,False,False
+d9de68058a120e57cfe6e5ce240164e4,W L Cooke (Prec Tools) Ltd,Member,,,,"",False,False
+d9de68058a120e57cfe6e5ce240164e4,W L Cooke (Prec Tools) Ltd,Member,RM,,,"",False,False
+d9eac24e8e3c534eb4dd30feee8eed05,Electro-Cal Ltd,Member,LA,Traders Generalist,Engineering Supplies - Cutting Tools,99999,True,True
+da1566383f4bbb115e5ecac4140724cb,Standard & Specialised Fasteners Ltd,Member,NP,Fixings & Fasteners Specialist,Engineering,46760,True,True
+da2fb6bff184386a4e86f100a3c7fdf6,Kuwait Petroleum Int Lub UK Ltd,Supplier,LS,Lubrication,,"",False,True
+da7e5256f5bb897baa7bfd2e64616970,Centurion Europe Ltd,Supplier,DN,PPE,,32990|25990|46740,False,True
+da80016987b64dceeda6c78bfb073800,Tool Options Ltd,Member,BB,Traders Generalist,Construction Supplies,"",True,True
+dab2242ee2cdfc9d7cce66f9e3380098,Fastfix Bristol Limited,Member,BS,Power Tool Specialist,,47520,False,True
+dae3ca294c9fd627ab5422eda8cef791,Iquorum Ltd T/A Tool Army,Member,PR,,,"",False,True
+db28aac9a4e8076ef9f2f4d973fda23c,OCL Kingswingford Ltd,Member,DY,Builders Merchant,Construction Supplies,"",True,True
+db9dd8938600b2685c2501e4aa806650,Edge Industrial Supplies Ltd,Member,B,,,"",,
+dbc7839001bcb7408b0829a28d2f6f24,Ecotech Europe Ltd,Supplier,CV,Janitorial,,"",False,True
+dbd39bfb6de18b865b87631806fde976,UK Planet Tools Ltd,Member,MK,Power Tool Specialist,Power Tools Specialist,46130,True,True
+dbe41b7d248b86de61291f332c3c5798,Fentex Ltd,Supplier,PE,Spill Control,,13950|32990,False,True
+dbfcba9b89008ada97fae6b6017a632c,Durable UK Ltd,Supplier,BH,Stationary & Office Supplies,,"",False,True
+dc65260d06bdfa78524f3da26fae2a0e,Anderco (Glasgow),Member,PA,PPE Specialist,PPE Specialist,"",False,True
+dc79046044f1401fcbe86f6d91c1fa14,Rexroth Ltd,Supplier,PE,Business Services,,"",False,False
+dcc576626638a64982b67d9331d7a585,Dunn & Co ES Ltd,Member,BT,,,"",False,False
+dcd9116c90df0d310f04e5688a7796ed,React Ind Solutions Ltd Suffolk,Member,CB,,Automotive,"",True,True
+dcd9116c90df0d310f04e5688a7796ed,React Ind Solutions Ltd Manchester (Formally Rapid),Member,M,,Automotive,"",True,True
+dcd9116c90df0d310f04e5688a7796ed,React Ind Solutions Ltd H/O,Member,OX,Industrial Distribution,Automotive,47990,True,True
+dd1ae64f0433723fc7bb77b2ab101fc8,JAS Engineering,Supplier,OL,Storage and Handling,,71122|71129,False,True
+dd20f88519bd172ad3a4156e7cbf83e6,Knipex-Werk C Gustav Putsch KG,Supplier,NN,Hand Tools,,46150,False,True
+dd379cc937f2e9cd04349400ec58a5ce,Romford Tools Ltd,Member,RM,Traders Generalist,Construction Supplies,47520,True,True
+dd4d002befd1ad45e16b37531ac73b56,STL Trading Company Ltd ta ProSolve,Supplier,DN,Maintenance,,46760,False,True
+dd589cd6c8020f2c3342a9405f7cf10f,ToughBuilt Industries UK Ltd,Supplier,W,Hand Tools,,46620|25730,False,True
+dd75fc6b97002273b1cc1196dd71dbc0,Makita UK Ltd,Supplier,MK,Power Tools,,46690,False,True
+ddbfa3504414bde0f126740a91a24eb2,MacLean International Group Ltd (Aberdeen),Member,AB,Industrial Distribution,,"",False,True
+ddbfa3504414bde0f126740a91a24eb2,MacLean International Group Ltd (Great Yarmouth),Member,NR,PPE Specialist,PPE Specialist,"",True,False
+dde9a0c3d9e113d299df71d6c69e1c37,Pramac-Generac UK Ltd,Supplier,CV,Maintenance,,46690,False,True
+ddff06a5c42dc3038a5f9e79b77b5b0c,Buckler Boots Ltd,Supplier,DD,PPE,,46160,False,True
+de1faa71b09deb36b14cf67b8a4af462,Pal International Ltd,Supplier,LE,PPE,,"",False,True
+de20d085d933857841a09b3dbcf257c8,PPG Architectural Coatings UK Ltd,Supplier,WF,Maintenance,,20301,False,True
+de223881b6dde89cac300a072c9a920b,Greenwood Tools Ltd,Member,B,Traders Generalist,Construction Supplies,"",True,True
+de241d447fa252bee2bd33322ed6fc35,Templeton Tools & Machinery Ltd,Member,ML,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46900,True,True
+de2a3aa9c242ef9eb58544999a50e9d6,Saint Gobain Abrasives,Supplier,ST,Abrasives,,99999,False,True
+de2f63e23f9bebeb65fc64ad32ee2253,Red Box Manufacturing Ltd,Member,ML,Power Tool Specialist,,"",False,True
+de50ec55dd6255a28bb7f36f27a07dfb,Safestock,Member,EX,,Construction Supplies,"",False,False
+de724a5c0fcbefb5127d619f541a84d4,Kennedy & Morrison Ltd,Member,BT,Industrial Distribution,Engineering,46620|46740|46720,True,True
+de77db816ed71b9eee928c7fbcde08ef,ACT UK Group (Fife) Ltd,Member,KY,Cutting Tools Specialist,,"",False,True
+de77db816ed71b9eee928c7fbcde08ef,ACT UK Group Ltd,Member,NE,Power Tool Specialist,Engineering Supplies - Cutting Tools,28410,False,True
+deb4fce6f1efb05f62d39ca54901d4c4,Simon Safety & Lifting Centre Ltd,Member,SA,PPE Specialist,PPE Specialist,47789,True,True
+debf33786f7e9f1763209303fe274bff,P M B Tools,Member,L,,,"",False,False
+ded23fd53a914d7f71ebf2890817a571,JM BEARINGS,Member,PE,,,"",,
+dedaf6d159fba0a34a24ade904a32400,Heward & Dean (BD) Ltd,Member,EN,Traders Generalist,Engineering,46900,True,True
+dedd6c4688241132ba7ed28a077bdf37,Marine Rigging Services Ltd,Member,PO,Traders Generalist,,"",False,True
+deff8615a74bcec3fdd24a96658c3a41,T King Associates,Member,MK,Traders Generalist,,"",False,True
+df2131b9c697c9cdbe642e3546ae1eb0,Europa Tool Company Ltd,Supplier,CV,Carbide Cutting Tools,,46620|46770,False,True
+df492d4d310dc86dd94d021500f7d7c9,Simpson Strong Tie,Supplier,B,Maintenance,,"",False,True
+df4f30d532c830ebd1b0421165154d7a,Rotamec Limited,Member,BS,Industrial Distribution,,33120,True,True
+df7177c98e82db61dc62e405455b1c2a,Tornado Fixings Ltd,Supplier,LS,Fasteners,,46130,False,True
+df8003ffb8dd683820c1d3e944690abb,C R Hollands Industrial Supplies Ltd,Member,GL,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46620,False,True
+df8003ffb8dd683820c1d3e944690abb,C R Hollands Industrial Supplies South Wales Ltd,Member,SA,Cutting Tools Specialist,,46620,False,True
+dfbc45830775a479a085bbe2345cd010,"William James Allan T/A Allan's",Member,KA,,,"",,
+dfbdd1951e6687acdf5aafc7df33725b,Trend Machinery & Cutting Tools Ltd,Supplier,WD,HSS Cutting Tools,,46690,False,True
+dfde26913eb70c39a56c00ff42183dab,Terratruck Distribution Services Ltd Leicester,Member,LE,,,"",False,False
+dfde26913eb70c39a56c00ff42183dab,Terratruck Distribution Services Ltd Hucknall,Member,NG,,,"",False,False
+dffe36a1f651b04e1b3bfe64298733ad,Rowland Tools Ltd,Supplier,BD,Hand Tools,,46740,False,True
+e04852568f666bd0f3a06a635089fce6,Main Man Supplies Ltd,Supplier,B,PPE,,46420,False,True
+e06cdd9dfc6077e6bb9996722cf98bab,Glamair Supplies Ltd,Member,NP,Traders Generalist,"Maintenance, Repair and Overhaul",47789,True,True
+e08d5d45dcb165d784ad833e2c5d7a62,Gibb Group Ltd (Aberdeen),Member,AB,Industrial Distribution,Oil & Gas,43999,True,True
+e08d5d45dcb165d784ad833e2c5d7a62,Gibb Group Ltd (Great Yarmouth),Member,NR,Industrial Distribution,,"",False,True
+e08d5d45dcb165d784ad833e2c5d7a62,Gibb Group Teesside Ltd,Member,TS,Industrial Distribution,,"",False,True
+e0d8e54fb2978d0dc08c32de5c8f7720,Chartrent Ltd (Deliveries only),Member,IP,,Construction Supplies,"",False,False
+e0f70254c88eaae27ebf92030d3476a5,Ecobag UK Ltd,Supplier,PR,,,"",False,True
+e130735c54588fa6231e01747befdc24,Posithread UK Ltd,Supplier,NE,Carbide Cutting Tools,,28990,False,True
+e1355e71e5a693d435346b58844d0418,Cleenol Group Ltd,Supplier,OX,Janitorial,,20411,False,True
+e1442dae3b2ff12ba24b48061ef6fc16,Airport Bearing Co Ltd,Member,NG,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46900,True,True
+e147346d5a3a9f77ec05c88d82f6dbac,JSP Ltd,Supplier,OX,PPE,,22290|32990,False,True
+e1538e5cde35923e1160f5c2bf5ac388,Flowtech,Member,WN,,,"",,
+e16ec69ec4c7cb4539b515626fa7eb8b,ELKA Rainwear A/S,Supplier,DK,PPE,,"",False,True
+e1d4045222f6d4f95fbb62941f7ef6b1,Centurion Safety Products Ltd,Supplier,IP,PPE,,22290,False,True
+e1dc14d25aebfe4804c9d798632135f3,DHS Tool Supply Co Ltd,Supplier,BH,HSS Cutting Tools,,"",False,False
+e23bafdc7d4ac9dc4893b2dd30bda37b,Brian Hyde Ltd,Supplier,B,Hand Tools,,46740,False,True
+e26525a1cf6d7dd7258bdb4eeb6e9004,Campbell Miller Tools Limited,Member,G,Power Tool Specialist,,46690|46620,True,True
+e292dccec74d2a082ed67883f6f3473a,Paterson Enterprises Ltd,Supplier,SY,Lubrication,,19209|55300,False,True
+e2bcb163f2b5ed9f6edbcb2e98b3eb37,Haemmerlin Ltd,Supplier,WS,Maintenance,,32990,False,True
+e2d8085048d12db3dc0e791791af1883,Francis Kirk & Son Ltd (DO NOT USE) - USE TM0461,Member,M,Wholesaler,Construction Supplies,46900,True,True
+e2fee494fba75cb11140ea8a7546725b,Fluidpower Group UK Ltd,Supplier,WN,Maintenance,"Maintenance, Repair and Overhaul",46740,False,True
+e322ceaf196e950e878059ded2330688,Einhell UK Ltd,Supplier,CH,Power Tools,,"",False,True
+e359d6c63b7609d41e2771b850047e9a,PMF Marketing Ltd ta Kraftwerk,Supplier,L,Hand Tools,,"",False,True
+e3a4a395335dba10a391b1d2bd51bb1d,Staytite Ltd,Member,HP,Industrial Distribution,,46760,True,True
+e3a4e3182f906c2093054efa62674f20,Mech Metrology & Power Tools Ltd,Member,PO,Industrial Distribution,Construction Supplies,46900,False,True
+e3a64de2ba94ec07d27d285f51eba00e,North Devon Turned Parts Ltd,Supplier,EX,,,"",False,True
+e3ae3ad79df90bd3b1e3ee3f5e79006b,I C S,Supplier,NP,,,"",False,False
+e40972e811fce85ba49f28c6f6e4c018,Pyramex Safety Products Ltd,Supplier,RG,PPE,,"",False,True
+e40f5ddfaea741ef3547482b89f7285b,Aztec Oils Southeast Ltd,Supplier,CM,Lubrication,,"",False,True
+e40f5ddfaea741ef3547482b89f7285b,Aztec Oils Ltd,Supplier,S,Lubrication,,19209,False,True
+e42182f120069f293efee54ee336e24f,HR Ayton Ltd,Member,BT,Industrial Distribution,Engineering Supplies - Cutting Tools,"",False,True
+e428d2f5baa79fa6833fb1e5bd90fe37,Rothenberger UK Ltd,Supplier,NN,Hand Tools,,46740,False,True
+e462ca3bf09bad24de3fcbb8f5f0657e,Planet Welding Supplies Ltd,Member,NW,Traders Generalist,Engineering,46620,True,True
+e47cb34cf52a26dbb5bd466b38d52875,Premier Power Products Ltd (Yeovil),Member,BA,Automotive Specialist,Power Tools Specialist,46690,True,True
+e47cb34cf52a26dbb5bd466b38d52875,Premier Power Products Ltd (Exeter),Member,EX,,,"",False,True
+e47cb34cf52a26dbb5bd466b38d52875,Premier Power Products Ltd (Plymouth),Member,PL,,,"",True,True
+e4f20ede24b69f9139e62802f831ac05,DFS Fixings Ltd,Member,LE,Industrial Distribution,Construction Supplies,47789,True,True
+e4f8143c6b0cc4e28ba47d97f7188b2a,E D Elson Ltd T/A Healys Tools,Member,AL,Builders Merchant,Power Tools Specialist,"",True,True
+e520d2a2a009ccb79137051af7f24f08,PVR Direct,Member,BS,Janitorial Specialist,Janitorial Specialist,46620,True,True
+e53f1edf6ca38d542b8497bbdf1713ba,Kelvin Power Tools TA KPT,Supplier,,,,"",,
+e53f1edf6ca38d542b8497bbdf1713ba,Kelvin Power Tools,Member,G,Power Tool Specialist,Power Tools Specialist,82990,True,True
+e5e579c15c8c07fb1f88ce75fae19c9b,Sykes-Pickavant Ltd,Supplier,WS,Hand Tools,,28490|45320,False,True
+e5e61afacfa4aad0c3fd65187dfd16dc,Supreme Imports Ltd,Supplier,M,Maintenance,,46460|46390|46499,False,True
+e5ed5b4c7bd468cf3f3868754a944af5,H C Slingsby PLC,Supplier,BD,Storage and Handling,,"",False,True
+e60a39a2fcd09969a0f46eac62aa38d5,Shepton Bearings Ltd T/A Bearings Plus Shepton,Member,BA,,,"",False,False
+e6375b51a0f24f08cde3a803bfcd90b8,Febrock Ltd T/A Tedbar Tinker Hire,Member,S,Hire Company,Construction Supplies,74990,True,True
+e64a33287d75ec33ec95387bb51cbe15,Ethernet Puddle (BTS),Member,GY,Traders Generalist,Power Tools Specialist,"",False,True
+e64b407ff0a75925efac7ef5f5034cd4,Cash Account,Member,,,,"",False,False
+e64b407ff0a75925efac7ef5f5034cd4,Cash Account,Member,"",,,"",False,False
+e64b5e7afe387a73b8b12ac521e136b9,Namrick Ltd,Member,BN,,,"",,
+e663ec47a082f5c769f524e56762329d,Bollhoff Ltd,Supplier,HU,Fasteners,,25940,False,True
+e6880db8bf8479e17202b9807ca50487,Consumables Solutions Ltd,Member,SN,Industrial Distribution,Construction Supplies,46760|46420|46750,False,True
+e6ef507b394304cb429533c9d244de2c,PORTAFIX,Member,SP,,,46900,,
+e760294c596b01d9f30a7688f568e848,Manning Machine Tools Ltd,Member,WV,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46720,True,False
+e7814f1f8fd7cfe5abc71ed6d791f10b,Mettex Fasteners Ltd,Member,ST,Fixings & Fasteners Specialist,Construction Supplies,46690,True,True
+e7818b0f94a741ea10ae655393444721,Jaybee Tools & Fasteners Ltd,Member,DE,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46180,True,True
+e787994fd238af271a8f6b2dbd9626a8,Johnson Plant Hire,Member,PR,Hire Company,Construction Supplies,77390,True,True
+e7d410c24035c79172e0563b0402dfd5,North Safety Products Europe,Supplier,,PPE,,"",False,False
+e7e4cc0325d647af208609fc93bcb545,Advantiv Ltd (Ebbw Vale Office),Member,CF,Facilities Management Specialist,"Maintenance, Repair and Overhaul","",True,True
+e7e4cc0325d647af208609fc93bcb545,Advantiv Ltd,Member,RG,Facilities Management Specialist,"Maintenance, Repair and Overhaul",82110,True,True
+e7e4cc0325d647af208609fc93bcb545,Advantiv Ltd - Wales,Member,SA,Facilities Management Specialist,"Maintenance, Repair and Overhaul","",True,True
+e846919c837bbd5caae0236ef9544d1e,BEST PNEUMATIC SYSTEMS LTD,Member,BB,,,"",,
+e8831083ac6d9cc8b7eca94219f5a7a9,T I Midwood & Co Ltd t/a TIMCO,Supplier,CW,Fasteners,,46900,False,True
+e899a62285fc1d226be68b75a4a42a61,Schneider Electric Ltd,Supplier,TF,Electrical Supplies,,24420|28990,False,True
+e909a3a9a4eb834f1cc2cec6e2c59d89,Lee Garth Tools Ltd,Member,DN,Traders Generalist,Construction Supplies,46690,True,True
+e92dfc5be00c58b1f05a03549f5c7a3e,"PEN KITS DIRECT LTD.,",Member,SG,,,"",,
+e98fe94df649647e2c94f665be80855d,The Hand & Power Tool Centre Ltd,Member,NG,Industrial Distribution,Engineering,"",True,True
+e9c90229266fe7c7bebc322d2f0de56b,Powertool Solutions Ltd (Lincoln),Member,LN,Traders Generalist,Construction Supplies,"",True,True
+e9c90229266fe7c7bebc322d2f0de56b,Powertool Solutions Ltd (Newark),Member,NG,Power Tool Specialist,Construction Supplies,"",True,True
+e9d2104099ccf1a08150ae10c55f38c9,LAH Supplies Ltd,Member,AB,,,"",,
+ea44635ab811137d253cfac5aa368e6e,Payne & Starnes (UK) Limited,Member,LU,Traders Generalist,Engineering,46900,,
+ea9ba5ef79ace4aa9d78538948d83ed0,London Power Tools Ltd ta Sankyo UK,Supplier,CR,Abrasives,,"",False,True
+ea9ba5ef79ace4aa9d78538948d83ed0,London Power Tools & Fixings,Member,SE,Power Tool Specialist,,"",False,True
+eabdb3377de45d83df694783f3367ad9,Eagle Engineering Supplies Ltd,Member,NG,,,"",False,False
+eaceaf75bdcac74778f9d62bbc9732a6,Nilfisk Ltd,Supplier,CA,Janitorial,,46690,False,True
+eb36e65b9b4d21ec6a939f7084dbdb62,Stockton Bearings & Transmissions Ltd,Member,TS,Facilities Management Specialist,"Maintenance, Repair and Overhaul",46900,True,True
+eb4370c5fa6d38f6c9849bd5bf864083,Engineering & Power Tools (Irl) Ltd,Member,R,Builders Merchant,Engineering,"",True,True
+eb5408402538ac9b43cc0d92a519200e,DPD LOCAL UK Ltd,Supplier,BS,Business Services,,49410,False,False
+eb753aebbd63a67af0245c5b66b1f223,Polstore Storage Systems Ltd,Supplier,GU,Storage and Handling,,"",False,True
+eb9105b9da7f9d9353ae41cbad65f9ad,Autobonus Ltd T/A Bearings Plus Melksham,Member,SN,Automotive Specialist,Engineering Supplies - Cutting Tools,47190,True,True
+ebaf4b24ac9f98589b588fb9ff56a9bf,Tooling Services (Beds) Limited,Member,SG,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46620,True,False
+ebb5683336231a50bc7dcb9c8d7bb028,"RILEY SHUTT (TOOLS) LTD.,",Member,BB,,,"",False,True
+ebcdcf02fa5c85fc9675eabb751b0373,Electro South West Limited,Member,TA,Traders Generalist,Utilities,46190|47520,False,True
+ebe1d30fd2affffaf2a81aa58070a950,Durham Duplex,Supplier,S,Hand Tools,,25990,False,True
+ebf405a98c5d5c89be6cef711536851f,Lakeland Industries Europe Ltd,Supplier,HU,PPE,,"",False,True
+ec0f5245db153379e58826994822ccff,Anyweld Limited,Member,EX,,,"",False,False
+ec38a6a86eaf99953bfa8c63d80f2e70,Tyrolit UK Ltd,Supplier,NN,Abrasives,,46690,False,True
+ec60b8a96bbb66d4fab2c94fc75e8985,SNA Europe UK,Supplier,S,Hand Tools,,2862,False,True
+ec692578dd945f13805760ffacfad5b9,Jack Sealey Ltd,Supplier,IP,Hand Tools,,46690,False,True
+ec6ce8d9325ac40465f2891fe0ea83c5,Mannering Industrial Ltd,Member,G,Traders Generalist,,46420,False,True
+ec9242594fb51fa811016e1df0e7cdc0,Baruch Enterprises Ltd,Supplier,N,Electrical Supplies,,46439,False,True
+ec989f4e7d1b8d38a086292ce2225e07,Matrix Tooling Services Ltd (Notts),Member,NG,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,71121|46620,True,True
+eca2e594939c91b55935a3c2042ba979,Technisource Ltd,Member,BT,Industrial Distribution,Engineering Supplies - Cutting Tools,46690,True,True
+ecbb1c41f8dbb90b16e640296c82545c,Earlswood Supplies Ltd,Supplier,OX,Maintenance,,47990,False,True
+ecd6da0cdf9b4eb34474914d224c111b,Willand Supplies Ltd,Member,B,,,"",False,False
+ecf408d0604fc071d37b774622182ec2,Tor Coatings Ltd,Supplier,NE,Maintenance,,20301,False,True
+ed16e13b4144f79a75979aa17f93951c,Walsh-Blyth & Turton Wholesale,Supplier,M,PPE,,"",False,True
+ed1aea237af417c624ca6e90f3ce6d3f,BB FIXINGS LTD,Member,SN,,,"",,
+ed2e67d3108186e93a6ea1d409b7d7c8,Jones & Clark (Burton-on-Trent) Ltd,Member,DE,Cutting Tools Specialist,Construction Supplies,47910|47520|46620|46180,True,True
+ed382b9f6cf345156527c4166c63e1a8,Permabond Engineering Adhesives Ltd,Supplier,SO,Adhesives & Sealants,,20520,False,True
+ed39a51b24b51b8620004fa95ebc63d2,ESWL Ltd,Member,AB,Industrial Distribution,,52290,False,True
+ed3cb285438ee03b382fa4364691669f,Bison UK Ltd,Supplier,PE,Workholding,,46620,False,True
+ed4ad013ddb729b198cf50e7c95aadf5,Hawkings Cladding Ltd T/A Best Priced Tools,Member,TA,Power Tool Specialist,,"",False,True
+ed64617483cb6853e8e2d36aaece5327,Klingspor Abrasives Ltd,Supplier,S,Abrasives,,23910,False,True
+ed76aa7ca93f38d9f1206b02cd980fd6,Pencarrie Ltd,Supplier,EX,PPE,,46410,False,True
+edd9fba4c3c8858b93d695efbe20876a,Neill Tools Ltd,Supplier,S,Landscaping & Maintenance,,46690|25730,False,True
+ee13db72d51d435b1232788a15ebab5f,Russells Trade & DIY,Member,SW,Traders Generalist,Construction Supplies,"",True,True
+ee36245aeed0b19230d4ae398cbd7b8d,Aspro Tools Ltd,Supplier,CO,Maintenance,,82990,False,True
+ee3e1d59cc108b048aaa5334cbec68ce,Ligentia UK Ltd,Supplier,LS,,,"",False,False
+ee48436fbac0756374da64ef03e3aae9,Brabbin & Rudd (Bolton),Member,BL,Wholesaler,Construction Supplies,96090,True,True
+ee48436fbac0756374da64ef03e3aae9,Brabbin & Rudd (Wigan),Member,WN,Wholesaler,Construction Supplies,96090,True,True
+ee51dc7fd08443c15bc978f5616ec7fe,OE2 LTD,Member,FY,,,"",,
+eeae995ba95b0b7778c26a886a0c2dac,A Perry & Co Hinges Ltd,Supplier,B,Fasteners,,25720|25990,False,True
+eedc1fcf47b57b75beef227396a85bd9,Steinel UK Ltd,Supplier,PE,Maintenance,,46470,False,True
+eefddbc7a47a2a3a2e8f708f6bbb427b,"ASK ENGINEERING SOLUTIONS LTD.,",Member,BA,,,"",,
+ef48b7e6d5f0b47ac0091d09b473a5e3,Walker Fire UK Ltd,Supplier,PR,Maintenance,,47190,False,True
+ef58ef076034359f8b4f4a82afa0e288,Master Abrasives Ltd,Supplier,NN,Abrasives,,32990,False,True
+ef90cbc046b2afd0d036d8223d6e1faa,KL Nuts Bolts and Eng Supplies,Member,PE,Fixings & Fasteners Specialist,Construction Supplies,46740|47789,True,True
+ef9a1da06933c12bf901b63102703f33,SFS Group Fastening Technology Ltd,Supplier,BD,Fasteners,,70100,False,True
+efb44667f874a49a76f0fcd678f3d613,Northants Tooling Supplies Inc Artisan Tools Ltd,Member,NN,Cutting Tools Specialist,Engineering,46620|46740,True,False
+efb4544b5d25f9b2d5c3d6214ce71127,Ashley Power Ltd,Member,BH,Facilities Management Specialist,,46900|47789,False,True
+efda5c66998b271bea2f4cbed076db2a,Tool Raptors Ltd,Supplier,CF,Hand Tools,,"",False,True
+effe74a22c2c01f69242f4f12e78953a,TAYLOR & JONES LIMITED,Member,HD,,,"",False,True
+effe74a22c2c01f69242f4f12e78953a,Taylor & Jones Ltd,Supplier,S,HSS Cutting Tools,,"",False,True
+f018a2b81fea485939bf20c3f579f1c0,Pure Lubrication Ltd,Member,G,,,"",,
+f020b62cdce7a75bd43c68b07fc4cf78,G E Tools Ltd (Deeside),Member,CH,Wholesaler,Engineering,"",True,True
+f020b62cdce7a75bd43c68b07fc4cf78,G E Tools Ltd (Rhyl),Member,LL,Wholesaler,Engineering,"",True,True
+f033519e0a4300be49ed8234624cb388,B&N Robertson Ltd,Member,DG,Power Tool Specialist,,47789,False,True
+f0702e3b53b46ba54a1ce0c9346eecc9,Welford Ironmongers,Member,LE,Traders Generalist,Construction Supplies,"",True,True
+f08894fe2c84f811d0ad2a036d1e9f7d,UNIVAR Speciality Consumables Ltd,Supplier,B,Maintenance,,46900,False,True
+f08a329b99dc0c26e133383c510ce803,Daves Trade Centre Ltd,Member,N,Traders Generalist,Power Tools Specialist,47520,True,True
+f08dd00d0ec46e77f4199e5bfc093312,Norbar Torque Tools Ltd,Supplier,OX,Hand Tools,,25730,False,True
+f09247f48feffc70779c08bd40100de1,Universal Cargo Ltd,Supplier,B,,,"",False,False
+f0d057d323dc3fb50c7a869d0242bd46,Global Lubricants Ltd,Supplier,DY,Lubrication,,19201,False,True
+f0dd6991c4ab2d9afbd7af4b06eae2a6,MGB Supplies,Member,LN,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,46140,True,True
+f17c1a57048a6e6cbfbc0aab2a802f7f,Brimarc Tools & Machinery,Supplier,EX,Hand Tools,,46620|49410,False,True
+f18c62a11cdbf1a8b5e58f5f358ae11e,BBB Investments Ltd,Supplier,LE,Electrical Supplies,,47190,False,True
+f1a8581271525cf9d36444de1c6efab2,Tools4trade (London),Member,W,,Construction Supplies,"",True,True
+f1cf85d888b3ff880898b4fa90a3e995,Denis Wilson of Glenavy,Member,BT,Builders Merchant,"Maintenance, Repair and Overhaul",46610|47789,True,False
+f2246abe9400f3722d270a64aebb7ef0,Euroline Ladder Co Ltd,Supplier,,Hand Tools,,"",False,False
+f236ef8634b107c3c1689be3946ca965,Power Adhesives Ltd,Supplier,SS,Adhesives & Sealants,,"",False,True
+f2387956b0e1b6ffe3afc5c71bfe6cee,OSL Cutting Technologies Ltd,Supplier,S,HSS Cutting Tools,,28240|32990,False,True
+f240f5d623bc960dd68e7ed1dfc31b19,Youngman Group Ltd,Supplier,CM,Maintenance,,"",False,True
+f25ca1141f9a69de91f08709eb8d865e,"Creative Glass Guild Ltd ",Member,BS,,,"",,
+f26c00d0e7ab3e855c1517294567aead,Milo Tools Ltd,Member,BD,Facilities Management Specialist,Engineering,46900|46620,True,True
+f2b5643f97bb715c59d240134ef2a65a,H Rothwell & Co Ltd Nelson,Member,BB,,Engineering,"",True,True
+f2b5643f97bb715c59d240134ef2a65a,H Rothwell & Co Ltd Bury,Member,BL,,Engineering,"",True,True
+f2b5643f97bb715c59d240134ef2a65a,H Rothwell & Co Ltd,Member,OL,Wholesaler,Engineering,46900,True,True
+f3484a1f9cadc615fe3c9fdd17d31241,Bearingboys Limited (Stourbridge),Member,DY,Facilities Management Specialist,,"",False,True
+f3484a1f9cadc615fe3c9fdd17d31241,Bearingboys Limited (Ayr),Member,KA,Facilities Management Specialist,Construction,"",True,True
+f3484a1f9cadc615fe3c9fdd17d31241,Bearingboys Limited,Member,NR,Facilities Management Specialist,"Maintenance, Repair and Overhaul",33120|33170|45320,True,True
+f34c1226a540f9024b1001145e69858e,Moldex-Metric AG & Co KG,Supplier,NG,PPE,,"",False,True
+f353e168cddcddac394c5f7a236795bd,United Tooling Solutions Ltd T/A DHS  Yeovil,Member,BA,Industrial Distribution,Engineering Supplies - Cutting Tools,"",False,False
+f353e168cddcddac394c5f7a236795bd,United Tooling Solutions Ltd T/A Jemma,Member,BH,Industrial Distribution,,"",True,True
+f353e168cddcddac394c5f7a236795bd,United Tooling Solutions Ltd T/A DHS,Member,EX,Industrial Distribution,Construction Supplies,46620,False,False
+f353e168cddcddac394c5f7a236795bd,United Tooling Solutions Ltd,Supplier,EX,PPE,,46620,False,True
+f353e168cddcddac394c5f7a236795bd,United Tooling Solutions Ltd (Group),Member,LE,Industrial Distribution,Engineering Supplies - Cutting Tools,46620,False,True
+f35d2d7d41e87cbe3851f2f293ef89cc,Harlequin Fixings & Sealants Ltd,Member,KA,Fixings & Fasteners Specialist,Construction Supplies,43999,True,True
+f37279247289536ce19703a0c7118939,Medikit Ltd,Supplier,LN,PPE,,"",False,True
+f3d9b07b03453d7fd54a0add44d73ba7,Hultafors Group UK Ltd,Supplier,HD,PPE,,46420,False,True
+f3fa339257377f403533f5db3f2f5721,IOSC Ltd,Member,SO,,,"",,
+f43516401a8559b0282d28c95069c155,Quality Tooling (North East) Ltd,Member,SR,Cutting Tools Specialist,Engineering Supplies - Cutting Tools,"",True,True
+f43760e814665039ff4f4fad00e13604,Galloway Industrial Ltd,Member,DG,Industrial Distribution,,46140,False,True
+f44a78a7e3982254038e07d4d77895ad,Colchester Machine Tool Solutions,Supplier,WF,Machine Tools,,28490,False,True
+f49600e5050ddab32fa9d5eab34a1b23,BUFAB UK Ltd Formally Montrose Fasteners Ltd,Member,HP,,,"",False,True
+f49600e5050ddab32fa9d5eab34a1b23,BUFAB UK Ltd Formally Montrose Fasteners Ltd (Bedford),Member,MK,,,"",False,True
+f4c0ebebe8e3617f95bc5cd23ad84941,printed.com,Supplier,NE,Business Services,,"",False,True
+f4cac4b5d2f82823045ee92a3c7ebbd2,Dronco Abrasives UK Ltd,Supplier,NP,Abrasives,,46760,False,True
+f4cbd4e0f9b4dd09042e7f5781c71616,Elf Industrial Ltd,Member,GL,Automotive Specialist,Engineering Supplies - Cutting Tools,46610,True,True
+f4fcd6d18bb8ef15128c70deb12dbfcd,SHEARMANS LTD   *** ACCOUNT CLOSED ***,Member,SP,,,"",,
+f522d00b1580910df04fe9f90528a86c,Globus Shetland Ltd,Supplier,M,PPE,,46190,False,True
+f573c2959a34e173fd804e7cfebc5789,Ace Supplies SW Ltd,Member,BA,,,"",False,False
+f590551184315be455d3af5c878f9c1e,Industrial Powder & Paint Services Ltd,Member,IP,,,"",,
+f5f01a90aaaab37cb96fb07e7562b455,Apex Tools Ltd,Supplier,LE,HSS Cutting Tools,,46140,False,False
+f5f01a90aaaab37cb96fb07e7562b455,Apex UK Co,Supplier,RH,"Saws, Circ, Band, Hole",,"",False,True
+f60cdc9f4f0b9b6c3c6282385301d67b,R J Pryce & Co Ltd,Member,NR,Traders Generalist,Construction Supplies,"",True,True
+f62ae8cc9d1ef6068bc312b1205a7dd8,PHM Plant Services Ltd,Member,GL,Traders Generalist,Construction Supplies,46140,True,True
+f6376bcf4fa21ebc11b254d5761add20,"HYDRA-PERM-CO LTD.,",Member,LS,,,"",,
+f658d05a1714df9d7fbb87ed387dd725,King Tools,Member,NN,,,"",False,False
+f6b876c5a91035493830d293e6b50ad5,Werner UK Sales and Dist Ltd,Supplier,CM,Maintenance,,7487,False,True
+f6ddfa45cef81ab0ce28e1cd048e7091,Van-Line Ltd,Supplier,LS,Maintenance,,46900,False,True
+f70e1de22be201e74f683f9e290bb61f,Sterling Safetywear Ltd -FB 60,Supplier,,PPE,,"",False,False
+f70e1de22be201e74f683f9e290bb61f,Sterling Safetywear Ltd,Supplier,NN,PPE,,46160,False,True
+f72f4a60716a89488791d13a27c1b95e,Prime Ind & Janitorial Supplies Ltd,Member,KY,Janitorial Specialist,Janitorial Specialist,46499,False,True
+f73818573e5c0e8fd5dc10870d039bb5,R & C Components Ltd,Member,HU,Traders Generalist,,"",True,True
+f762fc1a7507ed574f757f93ecd61710,Supreme Tool Supplies (Midlands) Ltd,Member,CV,Cutting Tools Specialist,Engineering,47190,True,True
+f7658bb85f4521a1a250441a8304647e,Sealco Scotland Ltd,Member,FK,Wholesaler,,"",False,True
+f776b33f5bf4fedc15be24cc993a80da,Power Tool Centre,Member,L,Power Tool Specialist,,"",False,True
+f776b33f5bf4fedc15be24cc993a80da,Power Tools Plus Ltd,Member,NG,Power Tool Specialist,,"",False,True
+f77c1c097b9100f8722e358d043de87b,FINLEX INTERNATIONAL LTD,Member,NR,,,47990,,
+f7b8535badde3eaade1f3307016ccdc3,Hiatt Hardware UK Ltd,Supplier,B,Maintenance,,"",False,True
+f7ea8998b19048c9da7dd5c847d0954f,UKOS LTD (Winnington),Member,CW,Wholesaler,,"",False,True
+f7ea8998b19048c9da7dd5c847d0954f,UKOS LTD (Hemel Hempstead),Member,HP,Wholesaler,,"",False,True
+f7ea8998b19048c9da7dd5c847d0954f,UKOS LTD (Pulloxhill),Member,MK,Wholesaler,,"",False,True
+f7eb034795a3338a4d4bd15deffb5744,Jackdaw Tools Ltd (Telford),Member,TF,,,"",True,True
+f7eb034795a3338a4d4bd15deffb5744,Jackdaw Tools Ltd,Member,WV,Power Tool Specialist,Engineering Supplies - Cutting Tools,46900,True,True
+f7fac2a33b6363ffea392e99bab05161,Acorn Industrial Services Ltd,Member,SO,,,46900,,
+f82298e681efa94bf15811f169df9b3c,Karcher UK Ltd,Supplier,OX,Janitorial,,46900|46140,False,True
+f82ee0b66c0839436a358f4aafa2aac0,Romar Innovate Ltd,Member,CA,PPE Specialist,PPE Specialist,22290|46420|32990|14120,False,True
+f84f734e941ff3eb8acda5b1bcb57165,Henkel Ltd,Supplier,HP,,,"",False,True
+f8e15b708df1e9931132387bd9feabb9,Aerosol Solutions Ltd,Supplier,DE,Maintenance,,46900,False,True
+f91f0782e4abdf9fd9179b1a75dbf9a3,Nightsearcher Ltd,Supplier,PO,Electrical Supplies,,27400,False,True
+f9374a6170eab3335786ab1bdcc8fc6e,R C Setchfield Ltd,Member,NG,,,"",False,True
+f93883a0d0ef603b4202a5d0afd4cac0,NEWLINE ESSEX LTD,Member,SS,,,"",,
+f9523f186a20deb9898caadf2612191d,MCP Fixings Ltd(Airdrie),Member,ML,Fixings & Fasteners Specialist,,"",False,True
+f9523f186a20deb9898caadf2612191d,MCP Fixings Ltd,Member,WA,Fixings & Fasteners Specialist,Construction Supplies,46900,True,True
+f96283f5339ed03defd81e901eaf1013,URKO Tools SA,Supplier,,,,"",False,True
+f96283f5339ed03defd81e901eaf1013,Urko Tools SA,Supplier,"",Hand Tools,,"",False,True
+f97c38d60f9344167c3d2581d2e6c9d3,UHTC Ltd Unior Hand Tools,Supplier,NG,Hand Tools,,"",False,True
+f9993704d42390c69163652f9d25a57d,Pop Up Products Ltd,Supplier,CH,Maintenance,,"",False,True
+f9b7538e135d1a9c6dd61729f631f159,Air Compressors & Tools Ltd -ABAC,Supplier,WA,Compressors,,33190,False,True
+fa85c61339c57de020c6c4df0bbed414,Suresafe Protection Ltd,Member,G,PPE Specialist,PPE Specialist,46420|46900|14120|46750,True,True
+fa99d879f19a55f82c355de2420b599a,Stuart J Daws & Co. Ltd,Member,CT,Landscape and Outdoor Products,,"",False,True
+fa9b7fc86b473860ce09f2b13cdc68ef,ATA Garryson Ltd,Supplier,LE,Carbide Cutting Tools,,25730,False,True
+faa5730bfd16815140f26c384d61654c,Unigloves UK Ltd,Supplier,ME,PPE,,"",False,True
+faa8e2e4b8a33af4124e5e98263ba008,Castolin Eutectic Ltd,Supplier,B,Welding,,"",False,True
+faebecbc3417d6625a2b9fe2d0dce6b1,Central Fasteners (Staffs) Limited,Member,ST,Fixings & Fasteners Specialist,,"",False,True
+faef6910497f78f1620121c38f7cea8f,AIW Key Centre Ltd,Member,BS,Traders Generalist,Engineering Supplies - Cutting Tools,47520,True,True
+faff0faea56d6b813cb1470623185b98,Reisser Ltd,Supplier,SK,Fasteners,,46900,False,True
+fb046746ab697bab9cdddba9e276a8cf,Sanstand Ltd,Supplier,KT,Janitorial,,47789,False,True
+fb0eb3c8b6d2cf5732af70a5bddd6842,Kilrevin Holdings Ltd t/a PakSol,Member,G,Industrial Distribution,,68209|46900|68100,False,False
+fb10e75979e5b33b46965e2b0c0d1995,PFerd Ltd,Supplier,HD,Abrasives,,46620,False,True
+fb711346f793e11dda7ab41846fcbf5f,CRT T/A The Toolshed Ltd,Member,BT,Industrial Distribution,,"",False,True
+fb72ca513013ab35fe61cb6c7f5c3775,Lion Steel Equipment Ltd,Supplier,SK,Storage and Handling,,28230,False,True
+fb8ee06045b95271d5cf4d4853290aa2,Lista AG,Supplier,MK,Storage and Handling,,25990,False,True
+fbeb26cdebfd5c5c42e45d6458569244,Midway Tools Ltd,Member,TF,Cutting Tools Specialist,Construction Supplies,46620|47789,True,True
+fbfc4c22eba03df46a13b85281cc42aa,Coba Europe Ltd,Supplier,LE,Maintenance,,46470|47530,False,True
+fbffec0c0d6f8346c86af454cb6cb7f1,Halt Hire,Member,TS,Builders Merchant,,77320,False,True
+fc019651f5183981171a7eb8c4b2c12d,Grainger Tubolt Ltd,Member,SA,Industrial Distribution,Engineering,46690|46900|46620|46740,True,True
+fc0626a0fff9546beca38928acdbcc53,Lyngsoe Workwear,Supplier,NE,PPE,,"",False,True
+fc36471bc04f5ca087bd2eac0fbc4756,Tool Force UK Ltd,Member,BT,Agricultural Specialist,,"",False,True
+fc43ace6ac502d665c4a4c3cf3cf7443,Lyte Ladders & Towers Limited,Supplier,SA,Maintenance,,25990,False,True
+fc691dd57af9d549d044cbed67290d5a,R P OVERSEAS,Supplier,,,,"",False,True
+fc7267d9474fd40e22f36b4fab21f050,Mirka UK Ltd,Supplier,MK,Abrasives,,"",False,True
+fc99469b155ad3bab2cb01151f6ea6c5,Toolstream Ltd ta King Dick Tools,Supplier,B,Hand Tools,,46690,False,True
+fc99469b155ad3bab2cb01151f6ea6c5,Toolstream Ltd,Supplier,BA,Hand Tools,,46690,False,True
+fcc4a8ce628cc2af5a2b2cb6a4f1d2bd,Machine Sales & Services Ltd,Member,BH,Power Tool Specialist,,47190,True,True
+fce69446af4855ff5417a8cf3f4c3853,Nitto Kohki Europe GmbH UK Branch,Supplier,DE,Power Tools,,28490,False,True
+fcf6ece65fcc43b67299b75656236f24,JED METROLOGY LTD,Member,IE,,,"",,
+fd187c38dea9cb60a3458a659f1ec492,DTW Tools and Machinery Limited,Member,PR,Landscape and Outdoor Products,,"",False,True
+fd1abc7046c42d4e3e6ef7e2e1ad6987,Ergodyne Tenacious Holdings UK,Supplier,MN,PPE,,62020,False,True
+fd1d221c8867eab18cd19367eaad330e,Hikoki Power Tools UK Ltd,Supplier,SO,Power Tools,,46630,False,True
+fd232dba5347e76037ef6779cbc73218,Gilbert Laurence Ltd,Member,UB,Traders Generalist,Construction Supplies,46900,True,True
+fd28a5f0b59894b97db3bdebbf9bad38,Quality Industrial Components Ltd,Member,CB,,,"",False,False
+fd50cc168948933e78b65b4ef225410a,Tekmat Ltd,Supplier,DE,Carbide Cutting Tools,,46620,False,False
+fd5230a5f69bd5c3aab27ec298fb3385,Wera Tools UK Ltd,Supplier,S,Hand Tools,,46690,False,True
+fdb73437027249d4b79b20f59c2e31be,Select Trade Brands Ltd,Member,TQ,Power Tool Specialist,Power Tools Specialist,46740,True,True
+fdb73437027249d4b79b20f59c2e31be,Select Trade Brands Ltd.,Supplier,TQ,Maintenance,,46740,True,True
+fdb893e1a4eb4838906769c63b015a9d,Unilite Ltd,Supplier,B,Electrical Supplies,"Maintenance, Repair and Overhaul",46439,False,True
+fdf270a92dabe971d0c24220a5682e29,Jac Tools (Aylesbury) Ltd,Member,HP,Traders Generalist,Construction Supplies,47990|46900,True,True
+fdfac4431ffc869b55b57438e0dc661c,Mexco UK Ltd,Supplier,PL,"Saws, Circ, Band, Hole",,"",False,True
+fdfed981457ef70d2a5bfddabbae1f14,Nuts & Bolts Ltd,Member,BS,Power Tool Specialist,Power Tools Specialist,46760,True,True
+fdfed981457ef70d2a5bfddabbae1f14,Nuts & Bolts Ltd,Supplier,BS,,,46760,True,True
+fdfed981457ef70d2a5bfddabbae1f14,"Nuts 'N' Bolts Ltd (NI)",Member,BT,Agricultural Specialist,,"",False,True
+fe0ca2dc068ffeee6578c33323d87c54,Turner Hire & Sales Ltd (Rotherham S60),Member,S,Hire Company,Construction Supplies,"",True,True
+fe0de90f09d541265557bead347d547a,Property Perspective Ltd,Supplier,CV,Metrology,,46760,False,True
+fe2a5c44904234cef722494224978053,Rodo Ltd,Supplier,M,PPE,,46760,False,True
+fe3734352fe5ed0115cad2908b160181,V J Technology Ltd,Member,TN,,,"",,
+fe6bc6d86b22fdf70aa8befa3416a791,Covelec Limited,Member,LE,Facilities Management Specialist,,96090,False,True
+fe750f70e310a7e0579ddbcf2a3bd155,Electrical Wholesale Specialists Ltd,Member,SA,Traders Generalist,Power Tools Specialist,46520,True,True
+fe8a0b3422f6f3fbcd5ac218349d965e,Phoenix Naylors Abrasives Ltd,Supplier,S,Abrasives,,23910,False,True
+feb23638ecf9a923a0cc648644a20d38,Bearings & Drives Ltd,Member,CW,Facilities Management Specialist,"Maintenance, Repair and Overhaul",24450,True,True
+feeb708dc998e768926e6f47368f903e,BJB Hire Centre Ltd,Member,LE,Hire Company,,"",False,False
+fef00df39ed837e115317c57279bbe14,Harrison & Clough Ltd,Supplier,BD,Fasteners,,46900,False,True
+ff02c0ebeafaa593fa374867017c8adc,FIS CHEMICALS LTD,Member,AB,,,"",,
+ff105b00ed5dbdfdfe6017b23ead5c36,Butterfly Embroidery Ltd,Supplier,B,PPE,,"",False,True
+ff49253443e398954330b1e2c6f9b3c9,Bea Fastening Systems Ltd,Supplier,HU,Fasteners,,46900,False,True
+ff4d293f3201a015fe4e8e5c0714e898,"MAGDRILL  UK LTD.,",Member,EN,,,"",,
+ff4d66885b1ba732f0c50d84cceb2115,Beaufort Ink,Member,EX,,,"",,
+ff546c6fcdbda873422203b6b233ef83,Inverlea Supplies Ltd,Member,DD,Industrial Distribution,,32990,False,False
+ff5f48a13093aab5bd55b0fe8f9d25a3,Gorilla Glue Europe Ltd,Supplier,PR,Adhesives & Sealants,,46900,False,True
+ff66d5f68c9f0f4b322d5a57caa852f7,Heron Supplies Ltd,Supplier,WR,PPE,,96090|46900,False,True
+ff82810218b794c408ef64c16579f3a2,Bestport (Europe) Ltd,Member,DD,Traders Generalist,Engineering,47910,True,True
+ff91b1e417318253a9264230e55af48d,The L S Starrett Company Ltd,Supplier,TD,"Saws, Circ, Band, Hole",,46620|26701|25730,False,True
+ffb0acc6b7a6bba58afc084dd78d1596,Southern Filters Ltd,Member,EX,Industrial Distribution,Engineering,47990,True,True
