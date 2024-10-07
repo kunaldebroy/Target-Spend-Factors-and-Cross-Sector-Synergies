@@ -1,1 +1,26 @@
-# Target-Spend-Factors-and-Cross-Sector-Synergies
+Analyzing Factors Influencing Target Spend Achievement and Identifying Cross-Sector Synergy Opportunities
+
+Objective: This project aimed to explore the relationship between target spending and actual expenditures across multiple industries, focusing on uncovering cross-sector synergies and optimizing financial strategies. By leveraging advanced machine learning techniques, the study sought to improve financial forecasting accuracy and support more efficient resource allocation for businesses facing volatile financial conditions, especially post-COVID-19 and Brexit.
+
+Data Collection and Preprocessing: The dataset used in the project included 9 years of financial data (2016-2024) sourced from various UK sectors. The dataset comprised information on target spending, actual expenditures, and other financial indicators. Data preprocessing was a key component, involving the cleaning and structuring of large datasets with missing entries and inconsistencies due to the fluctuating financial environment caused by the pandemic and Brexit. Exploratory Data Analysis (EDA) techniques such as visualization and outlier detection helped in identifying key patterns in spending behaviors across different sectors.
+
+Machine Learning Models:
+
+ARIMA (AutoRegressive Integrated Moving Average): The ARIMA model was chosen for time-series forecasting to predict future spending trends based on historical financial data. ARIMA's parameters (p, d, q) were optimized using autocorrelation and partial autocorrelation functions (ACF, PACF). By rolling the forecast origin, ARIMA models were continuously updated with new data, ensuring the forecasts were in line with the most recent information.
+
+Gradient Boosting for Error Minimization: To further improve forecast accuracy, Gradient Boosting, an ensemble learning technique, was employed to iteratively reduce the prediction errors of the ARIMA model. By training a series of weak models that corrected the errors of the previous models, Gradient Boosting significantly improved the accuracy of the ARIMA predictions. The combination of ARIMA for time-series prediction and Gradient Boosting for error correction allowed the system to minimize Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), making the forecasts more reliable in unstable market conditions.
+
+Segmentation and Clustering: To identify cross-sector synergy opportunities, the dataset was segmented using K-Means clustering based on financial attributes like spending patterns, industry growth potential, and target spending achievements. This segmentation provided a clearer view of which industries had the potential to collaborate for mutual financial benefit. The clusters revealed distinct spending behaviors and growth trajectories, particularly highlighting industries such as "Power Tools Specialists" and "Wholesalers," where high financial activity and large target expenditures indicated strong growth potential.
+
+Key Findings:
+
+Correlation between Target and Actual Spend: A strong 56.7% correlation between target and actual expenditures was uncovered through regression analysis, signifying that industries with well-defined financial objectives tend to closely align their actual spending with these targets. However, some sectors showed more variance due to external factors like market conditions or unexpected events.
+
+Industry-Specific Insights: The project identified that high-growth sectors like "Hire Companies" and "Builders Merchants" are expected to see continued growth in spending through 2025, presenting prime opportunities for strategic investments. In contrast, sectors like "Cutting Tools Specialists" exhibited high volatility, suggesting caution for long-term investment.
+
+Impact of Global Events: The project also analyzed the effects of significant global events, such as Brexit and COVID-19, on financial trends. These events led to sharp declines in expenditures across multiple sectors, highlighting the limitations of traditional forecasting methods in capturing such extreme disruptions. By combining ARIMA with Gradient Boosting, the project was able to better manage these variations in financial data.
+
+Forecasting and Financial Strategy Recommendations: The integration of ARIMA and Gradient Boosting resulted in a 40% improvement in forecasting accuracy, providing a more precise basis for financial planning. The project recommended that companies in stable sectors, such as "Wholesalers" and "Power Tools Specialists," focus on long-term investments, while sectors like "Traders Generalist" offer high-risk, high-reward opportunities for aggressive growth strategies. Additionally, cross-sector synergies were suggested, where industries could pool resources or collaborate for shared financial objectives.
+
+Conclusion: This project demonstrates the value of machine learning techniques in financial forecasting and strategic planning, especially in uncertain economic environments. By analyzing industry-specific spending patterns and improving the accuracy of future financial predictions, the project provides actionable insights that companies can use to optimize resource allocation, manage risks, and identify opportunities for growth and collaboration. The combination of ARIMA and Gradient Boosting represents a powerful toolset for navigating complex financial landscapes and achieving long-term success.
+
